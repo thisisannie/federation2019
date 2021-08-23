@@ -1,0 +1,54 @@
+.page--contact {
+    .section--intro {
+        padding-bottom: 70px;
+        p:last-child {
+            margin-bottom: 0;
+        }
+        .feature-header {
+            margin-bottom: 35px;
+        }
+    }
+    .section--details {
+        padding-bottom: 70px;
+        .linkedin {
+            display: inline-block;
+        }
+        .linkedin-img {
+            width: 40px;
+        }
+        p {
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 300; /* Light */
+            font-size: 16px;
+            margin-bottom: 15px;
+            color: #ed1c24;
+        }
+        p:last-child {
+            margin-bottom: 0;
+        }
+        p a {
+            text-decoration: none;
+            color: #ed1c24;
+        }
+        .detail-group {
+            margin-bottom: 30px;
+        }
+        .detail-group:last-child {
+            margin-bottom: 0;
+        }
+        .title {
+            text-transform: uppercase;
+            font-size: 16px;
+            color: #fff;
+        }
+    }
+    .section--map {
+        .map-canvas {
+          height: 540px;
+        }
+        .map-text {
+            margin-bottom: 0.5em;
+            margin-top: 0.5em;
+        }
+    }
+}

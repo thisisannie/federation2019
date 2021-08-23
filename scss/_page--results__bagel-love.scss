@@ -1,0 +1,50 @@
+.page--results__bagel-love {
+    .section--intro {
+        padding-bottom: 0;
+    }
+	.section--project-stats {
+		.section--project-stats__quote {
+			font-weight: 100;
+			font-size: 24px;
+			@media (min-width: 768px) {
+				font-size: 36px;
+			}
+			@media (min-width: 992px) {
+				font-size: 48px;
+			}
+		}
+	}
+    .section--ooh {
+		background-color: #fff;
+		padding-top: 70px;
+		@media (min-width: 576px) {
+			padding-top: 105px;
+		}
+		@media (min-width: 768px) {
+			padding-top: 105px;
+		}
+		@media (min-width: 992px) {
+			padding-top: 140px;
+		}
+        .text-group {
+            margin-bottom: 60px;
+		}
+        .ooh {
+            margin-bottom: 35px;
+		}
+	}
+	
+	.section--photography {
+		.poster {
+			// width: 100%;
+		}
+		.text-group {
+			margin-bottom: 35px;
+			@media (min-width: 768px) {
+				margin-left: 35px;
+				margin-bottom: 0;
+			}
+		}
+	}
+}
+

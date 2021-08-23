@@ -1,0 +1,39 @@
+.page--results__farm-source-laura-rewards {
+    .section--intro {
+        padding-bottom: 0;
+    }
+    .section--video-feature {
+        padding-top: 70px;
+        @media (min-width: 576px) {
+            padding-top: 105px;
+        }
+        @media (min-width: 768px) {
+            padding-top: 140px;
+        }
+        .text-group {
+            margin-bottom: 60px;
+        }
+        .mini-slider__slides {
+            width: 400%;
+        }
+        .mini-slider__title {
+            margin-bottom: 20px;
+            @media (min-width: 576px) {
+                margin-bottom: 0;
+            }
+        }
+        .mini-slider__nav {
+            justify-content: flex-start;
+            @media (min-width: 576px) {
+                justify-content: flex-end;
+            }
+        }
+        .feature-video {
+            margin-bottom: 20px;
+        }
+        
+    }
+    .section--website {
+        
+    }
+}

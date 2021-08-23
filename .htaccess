@@ -1,0 +1,42 @@
+ErrorDocument 404 /404.php
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+Redirect 301 /federation-2019/results /federation-2019/our-work
+Redirect 301 /federation-2019/results__ac-ak-have-your-say /federation-2019/our-work__ac-ak-have-your-say
+Redirect 301 /federation-2019/results__ac-elections /federation-2019/our-work__ac-elections
+Redirect 301 /federation-2019/results__at-cctv /federation-2019/our-work__at-cctv
+Redirect 301 /federation-2019/results__at-seatbelts /federation-2019/our-work__at-seatbelts
+Redirect 301 /federation-2019/results__at-summer-cycling /federation-2019/our-work__at-summer-cycling
+Redirect 301 /federation-2019/results__ateed-elemental /federation-2019/our-work__ateed-elemental
+Redirect 301 /federation-2019/results__cavbrem-rebrand /federation-2019/our-work__cavbrem-rebrand
+Redirect 301 /federation-2019/results__emirates-door-to-bali /federation-2019/our-work__emirates-door-to-bali
+Redirect 301 /federation-2019/results__farm-source-laura-rewards /federation-2019/our-work__farm-source-laura-rewards
+Redirect 301 /federation-2019/results__flexi-group-qmas-2017 /federation-2019/our-work__flexi-group-qmas-2017
+Redirect 301 /federation-2019/results__jbwere-website /federation-2019/our-work__jbwere-website
+Redirect 301 /federation-2019/results__zoetis-ditch-the-itch_slider-test /federation-2019/our-work__zoetis-ditch-the-itch_slider-test
+Redirect 301 /federation-2019/results__zoetis-ditch-the-itch /federation-2019/our-work__zoetis-ditch-the-itch
+Redirect 301 /federation-2019/recent-news /federation-2019/news
+Redirect 301 /federation-2019/latest__brand-new /federation-2019/news__brand-new
+Redirect 301 /federation-2019/latest__loreal /federation-2019/news__loreal
+Redirect 301 /federation-2019/latest__elanco /federation-2019/news__elanco
+Redirect 301 /federation-2019/latest__tony /federation-2019/news__tony
+Redirect 301 /federation-2019/latest__the-lab /federation-2019/the-lab
+Redirect 301 /federation-2019/recent-news__akhys /federation-2019/news__akhys
+Redirect 301 /federation-2019/recent-news__at-blink-blink-blink /federation-2019/news__at-blink-blink-blink
+Redirect 301 /federation-2019/recent-news__cctv /federation-2019/news__cctv
+Redirect 301 /federation-2019/recent-news__change-agents /federation-2019/news__change-agents
+Redirect 301 /federation-2019/recent-news__emirates-bali-weekend /federation-2019/news__emirates-bali-weekend
+Redirect 301 /federation-2019/recent-news__great-barrier /federation-2019/news__great-barrier
+Redirect 301 /federation-2019/recent-news__hop-top-up /federation-2019/news__hop-top-up
+Redirect 301 /federation-2019/recent-news__q-airbnb /federation-2019/news__q-airbnb
+Redirect 301 /federation-2019/recent-news__samoa /federation-2019/news__samoa
+Redirect 301 /federation-2019/recent-news__seatbelts /federation-2019/news__seatbelts
+Redirect 301 /federation-2019/recent-news__simparica /federation-2019/news__simparica
+Redirect 301 /federation-2019/recent-news__suncorp-early-warning /federation-2019/news__suncorp-early-warning
+Redirect 301 /federation-2019/recent-news__variety /federation-2019/news__variety
+Redirect 301 /federation-2019/contact /federation-2019/lets-talk
+
+

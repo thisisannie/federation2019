@@ -1,0 +1,14 @@
+.page--recent-news .section--intro {
+  padding-bottom: 105px; }
+  .page--recent-news .section--intro .feature-header {
+    margin-bottom: 35px; }
+
+.page--recent-news .section--recent-news .news-article__text--outer {
+  color: #fff; }
+
+.page--recent-news .section--recent-news .news-article__text--inner {
+  color: #000; }
+
+.page--recent-news .section--recent-news .news-article__link:hover .link-button {
+  color: #fff; }
+/*# sourceMappingURL=page--recent-news.css.map */

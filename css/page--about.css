@@ -1,0 +1,253 @@
+.page--about .section--intro .federation-talent {
+  width: 77.207207%;
+  left: -10.2%; }
+
+.page--about .section--intro .federation-talent-mobile {
+  width: 110%;
+  left: -5%; }
+
+.page--about .section--intro .intro-text {
+  margin-bottom: 70px; }
+  @media (min-width: 576px) {
+    .page--about .section--intro .intro-text {
+      margin-bottom: 105px; } }
+
+.page--about .section--founders {
+  padding-top: 70px;
+  padding-bottom: 70px; }
+  @media (min-width: 992px) {
+    .page--about .section--founders {
+      padding-top: 140px; } }
+  .page--about .section--founders .feature-header {
+    margin-bottom: 35px; }
+    @media (min-width: 576px) {
+      .page--about .section--founders .feature-header {
+        margin-bottom: 70px; } }
+  .page--about .section--founders .founders {
+    width: 111.081081%;
+    left: -4.2%; }
+  .page--about .section--founders .founders-mobile {
+    width: 70%;
+    left: 0%; }
+
+.page--about .section--founder-profiles {
+  padding-bottom: 70px; }
+  @media (min-width: 992px) {
+    .page--about .section--founder-profiles {
+      padding-bottom: 140px; } }
+  .page--about .section--founder-profiles .profile-scroller {
+    display: none;
+    margin-bottom: 30px; }
+    @media (min-width: 576px) {
+      .page--about .section--founder-profiles .profile-scroller {
+        margin-bottom: 70px; } }
+    @media (min-width: 992px) {
+      .page--about .section--founder-profiles .profile-scroller {
+        display: block; } }
+  .page--about .section--founder-profiles .horizontal-scroller__item {
+    vertical-align: top; }
+  .page--about .section--founder-profiles .profile-item {
+    width: 280px;
+    cursor: pointer;
+    margin: 0;
+    padding: 0 10px;
+    white-space: normal;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out; }
+    @media (min-width: 576px) {
+      .page--about .section--founder-profiles .profile-item {
+        width: 240px; } }
+    @media (min-width: 768px) {
+      .page--about .section--founder-profiles .profile-item {
+        width: 240px; } }
+    @media (min-width: 992px) {
+      .page--about .section--founder-profiles .profile-item {
+        width: 280px; } }
+    @media (min-width: 1200px) {
+      .page--about .section--founder-profiles .profile-item {
+        width: 280px; } }
+  .page--about .section--founder-profiles .profile-item.profile-item--is-open {
+    width: 540px;
+    cursor: default; }
+  .page--about .section--founder-profiles .profile-item:hover .image {
+    opacity: 0.6; }
+  .page--about .section--founder-profiles .profile-item.profile-item--is-open .image {
+    opacity: 1; }
+  .page--about .section--founder-profiles .profile-item:hover .name {
+    color: #ed1c24; }
+  .page--about .section--founder-profiles .profile-item.profile-item--is-open .name {
+    color: #000; }
+  .page--about .section--founder-profiles .image-box {
+    position: relative;
+    width: 260px;
+    overflow: hidden;
+    background-color: #ed1c24;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out; }
+    @media (min-width: 576px) {
+      .page--about .section--founder-profiles .image-box {
+        width: 220px; } }
+    @media (min-width: 768px) {
+      .page--about .section--founder-profiles .image-box {
+        width: 220px; } }
+    @media (min-width: 992px) {
+      .page--about .section--founder-profiles .image-box {
+        width: 260px; } }
+    @media (min-width: 1200px) {
+      .page--about .section--founder-profiles .image-box {
+        width: 260px; } }
+  .page--about .section--founder-profiles .profile-item--is-open .image-box {
+    width: 520px; }
+  .page--about .section--founder-profiles .description {
+    max-height: 0;
+    overflow: hidden;
+    height: auto;
+    -webkit-transition: max-height 0.4s ease-in-out;
+    transition: max-height 0.4s ease-in-out; }
+  .page--about .section--founder-profiles .profile-item--is-open .description {
+    max-height: 1000px; }
+  .page--about .section--founder-profiles .image {
+    -webkit-transform: translateX(-25%);
+            transform: translateX(-25%);
+    max-width: none;
+    -webkit-transition: opacity 0.2s, -webkit-transform 0.4s ease-in-out;
+    transition: opacity 0.2s, -webkit-transform 0.4s ease-in-out;
+    transition: opacity 0.2s, transform 0.4s ease-in-out;
+    transition: opacity 0.2s, transform 0.4s ease-in-out, -webkit-transform 0.4s ease-in-out; }
+  .page--about .section--founder-profiles .profile-item--is-open .image {
+    -webkit-transform: translateX(0);
+            transform: translateX(0); }
+  .page--about .section--founder-profiles .name {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    /* Medium */
+    font-size: 18px;
+    color: #231f20;
+    -webkit-transition: color 0.2s;
+    transition: color 0.2s;
+    margin-top: 15px; }
+  .page--about .section--founder-profiles .title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    /* Light */
+    font-size: 15px;
+    color: #777777; }
+  .page--about .section--founder-profiles .close-btn {
+    cursor: pointer;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 40px;
+    height: 40px;
+    background-color: #ed1c24;
+    background-image: url(../img/page--about/close-icon.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 15px; }
+  .page--about .section--founder-profiles .profile-item--is-open .close-btn {
+    opacity: 1; }
+  .page--about .section--founder-profiles .profiles--mobile {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+            flex-wrap: wrap;
+    margin-bottom: 70px; }
+    @media (min-width: 992px) {
+      .page--about .section--founder-profiles .profiles--mobile {
+        display: none; } }
+  .page--about .section--founder-profiles .profiles--mobile .profile-item {
+    cursor: auto;
+    padding: 0 15px;
+    width: 100%;
+    margin-bottom: 70px; }
+    @media (min-width: 576px) {
+      .page--about .section--founder-profiles .profiles--mobile .profile-item {
+        width: 50%; } }
+    .page--about .section--founder-profiles .profiles--mobile .profile-item:last-child {
+      margin-bottom: 0; }
+  .page--about .section--founder-profiles .profiles--mobile .profile-item:hover .image {
+    opacity: 1; }
+  .page--about .section--founder-profiles .profiles--mobile .image-box {
+    background-color: transparent; }
+    @media (min-width: 576px) {
+      .page--about .section--founder-profiles .profiles--mobile .image-box {
+        width: auto; } }
+  .page--about .section--founder-profiles .profiles--mobile .description {
+    max-height: none; }
+
+.page--about .section--images .image-container {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+          align-items: flex-start; }
+
+.page--about .section--images .image-a {
+  margin-top: 3%;
+  width: 26.5%;
+  position: relative; }
+
+.page--about .section--images .image-a__img {
+  width: 100%;
+  margin: 0; }
+
+.page--about .section--images .image-b {
+  width: 30.571429%;
+  margin: 0;
+  margin-top: 13%; }
+
+.page--about .section--images .image-c {
+  width: 26.214286%;
+  margin: 0; }
+
+.page--about .section--images .stamp {
+  position: absolute;
+  right: -60px;
+  top: -60px;
+  width: 120px; }
+
+.page--about .section--images .stamp__rondell {
+  position: relative; }
+
+.page--about .section--images .stamp__f {
+  position: absolute;
+  top: 0; }
+
+.page--about .section--clients {
+  padding-bottom: 70px; }
+  @media (min-width: 576px) {
+    .page--about .section--clients {
+      padding-bottom: 140px; } }
+  .page--about .section--clients .feature-header {
+    margin-bottom: 30px; }
+    @media (min-width: 576px) {
+      .page--about .section--clients .feature-header {
+        margin-bottom: 70px; } }
+  .page--about .section--clients .our-clients {
+    width: 65.495495%;
+    left: -4.2%; }
+  .page--about .section--clients .clients-description {
+    margin-bottom: 0; }
+  .page--about .section--clients .our-clients-mobile {
+    width: 70%;
+    left: -4%; }
+  .page--about .section--clients .client-logo-scroller {
+    margin-top: 35px; }
+    @media (min-width: 576px) {
+      .page--about .section--clients .client-logo-scroller {
+        margin-top: 70px; } }
+  .page--about .section--clients .client-logo-container {
+    margin: 20px 40px; }
+    @media (min-width: 576px) {
+      .page--about .section--clients .client-logo-container {
+        min-height: initial; } }
+  .page--about .section--clients .logo {
+    max-width: none;
+    height: 100px; }
+/*# sourceMappingURL=page--about.css.map */

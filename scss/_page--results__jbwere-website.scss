@@ -1,0 +1,91 @@
+.page--results__jbwere-website {
+    .section--intro {
+        padding-bottom: 0;
+        .project-intro-description {
+            margin-bottom: 0;
+        }
+    }
+    .section--website {
+        padding-top: 70px;
+        padding-bottom: 70px;
+        @media (min-width: 576px) {
+            padding-top: 105px;
+            padding-bottom: 105px;
+        }
+        @media (min-width: 768px) {
+            padding-top: 140px;
+            padding-bottom: 140px;
+        }
+        .text-group {
+            margin-bottom: 0;
+            @media (min-width: 576px) {
+                margin-bottom: 0;
+            }
+        }
+        .text-group-mobile {
+            margin-bottom: 60px;
+        }
+        .website {
+            margin-bottom: 0;
+            @media (min-width: 576px) {
+                margin-bottom: 70px;
+            }
+            @media (min-width: 768px) {
+                
+            }
+        }
+    }
+    .section--photography {
+        @media (min-width: 576px) {
+            padding-bottom: 0;
+        }
+        .text-group {
+            margin-top: 0;
+            margin-bottom: 70px;
+            @media (min-width: 576px) {
+                margin-top: 70px;
+            }
+        }
+        .photo-a {
+            width: 119.259259%;
+            @media (min-width: 576px) {
+                width: 119.259259%;
+                left: -40%;
+                max-width: none;
+            }
+        }
+        .photo-b {
+            width: 116.481481%;
+            margin-bottom: 35px;
+            @media (min-width: 576px) {
+                width: 119.259259%;
+                left: -5%;
+                max-width: none;
+                margin-bottom: 0;
+            }
+        }
+    }
+    .section--transitions {
+        border-bottom-style: solid;
+        border-bottom-color: #fff;
+        border-bottom-width: 70px;
+        @media (min-width: 576px) {
+            border-bottom-width: 105px;
+        }
+        @media (min-width: 768px) {
+            border-bottom-width: 105px;
+        }
+        @media (min-width: 992px) {
+            border-bottom-width: 140px;
+        }
+        .tablet {
+            width: 80%;
+            @media (min-width: 576px) {
+                width: 85.185185%;
+                left: -11%;
+                max-width: none;
+            }
+        }
+    }
+        
+}

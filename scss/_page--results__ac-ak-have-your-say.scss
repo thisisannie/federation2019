@@ -1,0 +1,83 @@
+.page--results__ac-ak-have-your-say {
+    .section--intro {
+        padding-bottom: 0;
+    }
+    .section--video-feature {
+        padding-top: 70px;
+        @media (min-width: 576px) {
+            padding-top: 105px;
+        }
+        @media (min-width: 768px) {
+            padding-top: 140px;
+        }
+        .text-group {
+            margin-bottom: 60px;
+        }
+    }
+    .section--ooh {
+        .poster-row {
+            position: relative;
+        }
+        .text-group {
+            margin-bottom: 60px;
+        }
+    }
+    .section--social-content {
+        .text-group-a {
+            margin-bottom: 0;
+            @media (min-width: 576px) {
+                margin-bottom: 60px;
+            }
+        }
+        .phone-wrapper {
+            display: block;
+            position: relative;
+            width: 60%;
+            max-width: 227px;
+            margin: 0 auto;
+            @media (min-width: 576px) {
+                width: auto;
+                max-width: 327px;
+                margin: 0;
+            }
+        }
+        .phone {
+            position: relative;
+        }
+        .mini-slider__slides-mask {
+            position: absolute;
+            width: 84.70948%;
+            top: 30.185759%;
+            left: 7.64526%;
+        }
+        .mini-slider__slides {
+            width: 400%;    
+        }
+        .phone-video__image-group {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #000;
+            cursor: pointer;
+        }
+        .phone-video__image-group:hover .phone-video__image {
+            opacity: 1;
+        }
+        .phone-video__image {
+            position: relative;
+            opacity: 0.95;
+            transition: opacity 0.2s;
+        }
+        .phone-video__play-btn {
+            position: absolute;
+            width: 56px;
+        }
+        .text-group-b {
+            margin-bottom: 0;
+            @media (min-width: 576px) {
+                margin-bottom: 60px;
+            }
+        }
+    }
+    
+}

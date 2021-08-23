@@ -1,0 +1,268 @@
+.page--projects__at-summer-cycling .section--intro {
+  padding-bottom: 0; }
+
+.page--projects__at-summer-cycling .phase-title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+  /* Thin */
+  font-size: 36px;
+  line-height: 0.85;
+  color: #000;
+  margin-bottom: 70px; }
+  @media (min-width: 576px) {
+    .page--projects__at-summer-cycling .phase-title {
+      font-size: 48px; } }
+
+.page--projects__at-summer-cycling .section--project-stats .million {
+  font-size: 16px; }
+  @media (min-width: 576px) {
+    .page--projects__at-summer-cycling .section--project-stats .million {
+      font-size: 18px; } }
+  @media (min-width: 768px) {
+    .page--projects__at-summer-cycling .section--project-stats .million {
+      font-size: 21px; } }
+  @media (min-width: 992px) {
+    .page--projects__at-summer-cycling .section--project-stats .million {
+      font-size: 24px; } }
+  @media (min-width: 1200px) {
+    .page--projects__at-summer-cycling .section--project-stats .million {
+      font-size: 36px; } }
+
+.page--projects__at-summer-cycling .section--phase-3 {
+  padding-top: 70px; }
+  @media (min-width: 576px) {
+    .page--projects__at-summer-cycling .section--phase-3 {
+      padding-top: 105px; } }
+  @media (min-width: 768px) {
+    .page--projects__at-summer-cycling .section--phase-3 {
+      padding-top: 140px; } }
+  .page--projects__at-summer-cycling .section--phase-3 .text-group {
+    margin-bottom: 70px; }
+    @media (min-width: 576px) {
+      .page--projects__at-summer-cycling .section--phase-3 .text-group {
+        margin-bottom: 105px; } }
+    @media (min-width: 768px) {
+      .page--projects__at-summer-cycling .section--phase-3 .text-group {
+        margin-bottom: 140px; } }
+  .page--projects__at-summer-cycling .section--phase-3 .phase-3a {
+    margin-bottom: 70px; }
+    @media (min-width: 576px) {
+      .page--projects__at-summer-cycling .section--phase-3 .phase-3a {
+        width: 200%;
+        left: 20%;
+        max-width: 548px;
+        margin-bottom: 140px; } }
+  .page--projects__at-summer-cycling .section--phase-3 .phase-3b {
+    margin-bottom: 70px; }
+    @media (min-width: 576px) {
+      .page--projects__at-summer-cycling .section--phase-3 .phase-3b {
+        width: 200%;
+        left: -100%;
+        max-width: 609px;
+        margin-bottom: 140px; } }
+    @media (min-width: 768px) {
+      .page--projects__at-summer-cycling .section--phase-3 .phase-3b {
+        width: 160%;
+        left: -60%; } }
+  .page--projects__at-summer-cycling .section--phase-3 .phase-3c {
+    margin-bottom: 70px; }
+    @media (min-width: 576px) {
+      .page--projects__at-summer-cycling .section--phase-3 .phase-3c {
+        max-width: 465px;
+        margin-bottom: 140px;
+        width: 200%; } }
+  .page--projects__at-summer-cycling .section--phase-3 .phase-3d {
+    width: 60%; }
+    @media (min-width: 576px) {
+      .page--projects__at-summer-cycling .section--phase-3 .phase-3d {
+        width: 80%;
+        margin-top: -70%; } }
+    @media (min-width: 768px) {
+      .page--projects__at-summer-cycling .section--phase-3 .phase-3d {
+        max-width: 327px;
+        width: 100%; } }
+
+.page--projects__at-summer-cycling .section--phase-2 .text-group {
+  margin-bottom: 0; }
+  @media (min-width: 576px) {
+    .page--projects__at-summer-cycling .section--phase-2 .text-group {
+      margin-bottom: 60px; } }
+
+.page--projects__at-summer-cycling .section--snapchat .text-group {
+  margin-bottom: 35px; }
+  @media (min-width: 576px) {
+    .page--projects__at-summer-cycling .section--snapchat .text-group {
+      margin-bottom: 0; } }
+
+.page--projects__at-summer-cycling .section--snapchat .phone-wrapper {
+  display: block;
+  position: relative;
+  width: 60%;
+  max-width: 227px;
+  margin: 0 auto; }
+  @media (min-width: 576px) {
+    .page--projects__at-summer-cycling .section--snapchat .phone-wrapper {
+      width: auto;
+      max-width: 327px;
+      margin: 0; } }
+
+.page--projects__at-summer-cycling .section--snapchat .phone {
+  position: relative; }
+
+.page--projects__at-summer-cycling .section--snapchat .phone-bg {
+  position: absolute; }
+
+.page--projects__at-summer-cycling .section--snapchat .mini-slider__slides-mask {
+  position: absolute;
+  width: 88%;
+  top: 0;
+  left: 6%; }
+
+.page--projects__at-summer-cycling .section--snapchat .mini-slider__slides {
+  width: 400%; }
+
+.page--projects__at-summer-cycling .section--decals .text-group {
+  margin-bottom: 70px; }
+  @media (min-width: 576px) {
+    .page--projects__at-summer-cycling .section--decals .text-group {
+      margin-bottom: 0; } }
+
+.page--projects__at-summer-cycling .section--decals .decal {
+  max-width: 419px;
+  width: 80%;
+  margin-bottom: 0; }
+  @media (min-width: 576px) {
+    .page--projects__at-summer-cycling .section--decals .decal {
+      width: 100%;
+      margin-bottom: 0; } }
+
+.page--projects__at-summer-cycling .section--stories .text-group {
+  margin-bottom: 35px; }
+  @media (min-width: 576px) {
+    .page--projects__at-summer-cycling .section--stories .text-group {
+      margin-bottom: 0; } }
+
+.page--projects__at-summer-cycling .section--stories .phone-wrapper {
+  display: block;
+  position: relative;
+  width: 60%;
+  max-width: 227px;
+  margin: 0 auto; }
+  @media (min-width: 576px) {
+    .page--projects__at-summer-cycling .section--stories .phone-wrapper {
+      width: auto;
+      max-width: 327px;
+      margin: 0; } }
+
+.page--projects__at-summer-cycling .section--stories .phone {
+  max-width: 98%;
+  pointer-events: none;
+  position: relative; }
+
+.page--projects__at-summer-cycling .section--stories .mini-slider__slides-mask {
+  position: absolute;
+  width: 84.70948%;
+  top: 3%;
+  left: 7.64526%; }
+
+.page--projects__at-summer-cycling .section--stories .mini-slider__slides {
+  width: 400%; }
+
+.page--projects__at-summer-cycling .section--stories .phone-video__image-group {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+          justify-content: center;
+  background-color: #000;
+  cursor: pointer;
+  pointer-events: all; }
+
+.page--projects__at-summer-cycling .section--stories .phone-video__image-group:hover .phone-video__image {
+  opacity: 1; }
+
+.page--projects__at-summer-cycling .section--stories .phone-video__image {
+  position: relative;
+  opacity: 0.95;
+  -webkit-transition: opacity 0.2s;
+  transition: opacity 0.2s; }
+
+.page--projects__at-summer-cycling .section--stories .phone-video__play-btn {
+  position: absolute;
+  width: 56px; }
+
+.page--projects__at-summer-cycling .section--stories .text-group-b {
+  margin-bottom: 0; }
+  @media (min-width: 576px) {
+    .page--projects__at-summer-cycling .section--stories .text-group-b {
+      margin-bottom: 60px; } }
+
+.page--projects__at-summer-cycling .section--social-posts .text-group {
+  margin-bottom: 35px; }
+  @media (min-width: 576px) {
+    .page--projects__at-summer-cycling .section--social-posts .text-group {
+      margin-bottom: 0; } }
+
+.page--projects__at-summer-cycling .section--social-posts .phone-wrapper {
+  display: block;
+  position: relative;
+  width: 60%;
+  max-width: 227px;
+  margin: 0 auto;
+  margin-bottom: 60px; }
+  @media (min-width: 576px) {
+    .page--projects__at-summer-cycling .section--social-posts .phone-wrapper {
+      width: auto;
+      max-width: 327px;
+      margin: 0; } }
+
+.page--projects__at-summer-cycling .section--social-posts .phone {
+  position: relative; }
+
+.page--projects__at-summer-cycling .section--social-posts .mini-slider__slides-mask {
+  position: absolute;
+  width: 100%;
+  top: 11%;
+  left: 0; }
+
+.page--projects__at-summer-cycling .section--social-posts .mini-slider__slides {
+  width: 400%; }
+
+.page--projects__at-summer-cycling .section--social-posts .phone-video__image-group {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+          justify-content: center;
+  background-color: #000;
+  cursor: pointer; }
+
+.page--projects__at-summer-cycling .section--social-posts .phone-video__image-group:hover .phone-video__image {
+  opacity: 1; }
+
+.page--projects__at-summer-cycling .section--social-posts .phone-video__image {
+  position: relative;
+  opacity: 0.95;
+  -webkit-transition: opacity 0.2s;
+  transition: opacity 0.2s; }
+
+.page--projects__at-summer-cycling .section--social-posts .phone-video__play-btn {
+  position: absolute;
+  width: 56px; }
+
+.page--projects__at-summer-cycling .section--social-posts .text-group-b {
+  margin-bottom: 0; }
+  @media (min-width: 576px) {
+    .page--projects__at-summer-cycling .section--social-posts .text-group-b {
+      margin-bottom: 60px; } }
+
+.page--projects__at-summer-cycling .section--video-feature .text-group {
+  margin-top: 70px;
+  margin-bottom: 0; }
+
+.page--projects__at-summer-cycling .section--ooh .text-group {
+  margin-top: 70px;
+  margin-bottom: 0; }
+/*# sourceMappingURL=page--projects__at-summer-cycling.css.map */

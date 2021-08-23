@@ -1,0 +1,62 @@
+.page--projects .section--intro {
+  padding-bottom: 70px; }
+  .page--projects .section--intro .feature-header {
+    margin-bottom: 70px; }
+
+.page--projects .section--projects {
+  padding-top: 0; }
+  .page--projects .section--projects .project {
+    max-width: 360px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px; }
+  .page--projects .section--projects .project__image-mask {
+    overflow: hidden;
+    margin-bottom: 20px; }
+  .page--projects .section--projects .project__image {
+    -webkit-transition: -webkit-transform 0.4s;
+    transition: -webkit-transform 0.4s;
+    transition: transform 0.4s;
+    transition: transform 0.4s, -webkit-transform 0.4s;
+    cursor: pointer; }
+  .page--projects .section--projects .project:hover .project__image {
+    -webkit-transform: scale(1.05);
+            transform: scale(1.05); }
+  .page--projects .section--projects .project__link {
+    display: block;
+    text-decoration: none; }
+  .page--projects .section--projects .project__title {
+    margin-bottom: 5px;
+    position: relative;
+    display: -webkit-inline-box;
+    display: inline-flex;
+    -webkit-box-align: center;
+            align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    /* light */
+    font-size: 16px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #ed1c24;
+    -webkit-transition: color 0.2s;
+    transition: color 0.2s; }
+    .page--projects .section--projects .project__title:after {
+      font-family: "icons" !important;
+      font-style: normal !important;
+      font-weight: normal !important;
+      font-variant: normal !important;
+      text-transform: none !important;
+      speak: none;
+      margin-left: 10px;
+      content: "c";
+      -webkit-transition: margin-left 0.2s;
+      transition: margin-left 0.2s; }
+  .page--projects .section--projects .project:hover .project__title {
+    color: #fff; }
+  .page--projects .section--projects .project:hover .project__title:after {
+    margin-left: 12px; }
+  .page--projects .section--projects .project__client {
+    display: block;
+    color: #777777; }
+/*# sourceMappingURL=page--projects.css.map */

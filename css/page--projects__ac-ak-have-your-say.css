@@ -1,0 +1,79 @@
+.page--projects__ac-ak-have-your-say .section--intro {
+  padding-bottom: 0; }
+
+.page--projects__ac-ak-have-your-say .section--video-feature {
+  padding-top: 70px; }
+  @media (min-width: 576px) {
+    .page--projects__ac-ak-have-your-say .section--video-feature {
+      padding-top: 105px; } }
+  @media (min-width: 768px) {
+    .page--projects__ac-ak-have-your-say .section--video-feature {
+      padding-top: 140px; } }
+  .page--projects__ac-ak-have-your-say .section--video-feature .text-group {
+    margin-bottom: 60px; }
+
+.page--projects__ac-ak-have-your-say .section--ooh .poster-row {
+  position: relative; }
+
+.page--projects__ac-ak-have-your-say .section--ooh .text-group {
+  margin-bottom: 60px; }
+
+.page--projects__ac-ak-have-your-say .section--social-content .text-group-a {
+  margin-bottom: 0; }
+  @media (min-width: 576px) {
+    .page--projects__ac-ak-have-your-say .section--social-content .text-group-a {
+      margin-bottom: 60px; } }
+
+.page--projects__ac-ak-have-your-say .section--social-content .phone-wrapper {
+  display: block;
+  position: relative;
+  width: 60%;
+  max-width: 227px;
+  margin: 0 auto; }
+  @media (min-width: 576px) {
+    .page--projects__ac-ak-have-your-say .section--social-content .phone-wrapper {
+      width: auto;
+      max-width: 327px;
+      margin: 0; } }
+
+.page--projects__ac-ak-have-your-say .section--social-content .phone {
+  position: relative; }
+
+.page--projects__ac-ak-have-your-say .section--social-content .mini-slider__slides-mask {
+  position: absolute;
+  width: 84.70948%;
+  top: 30.185759%;
+  left: 7.64526%; }
+
+.page--projects__ac-ak-have-your-say .section--social-content .mini-slider__slides {
+  width: 400%; }
+
+.page--projects__ac-ak-have-your-say .section--social-content .phone-video__image-group {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+          justify-content: center;
+  background-color: #000;
+  cursor: pointer; }
+
+.page--projects__ac-ak-have-your-say .section--social-content .phone-video__image-group:hover .phone-video__image {
+  opacity: 1; }
+
+.page--projects__ac-ak-have-your-say .section--social-content .phone-video__image {
+  position: relative;
+  opacity: 0.95;
+  -webkit-transition: opacity 0.2s;
+  transition: opacity 0.2s; }
+
+.page--projects__ac-ak-have-your-say .section--social-content .phone-video__play-btn {
+  position: absolute;
+  width: 56px; }
+
+.page--projects__ac-ak-have-your-say .section--social-content .text-group-b {
+  margin-bottom: 0; }
+  @media (min-width: 576px) {
+    .page--projects__ac-ak-have-your-say .section--social-content .text-group-b {
+      margin-bottom: 60px; } }
+/*# sourceMappingURL=page--projects__ac-ak-have-your-say.css.map */

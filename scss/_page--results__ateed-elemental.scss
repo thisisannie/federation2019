@@ -1,0 +1,159 @@
+.page--results__ateed-elemental {
+    .section--intro {
+        padding-bottom: 0;
+        .project-intro-description {
+            margin-bottom: 0;
+        }
+    }
+    .section--website {
+        padding-top: 70px;
+        padding-bottom: 70px;
+        @media (min-width: 576px) {
+            padding-top: 105px;
+            padding-bottom: 105px;
+        }
+        @media (min-width: 768px) {
+            padding-top: 140px;
+            padding-bottom: 140px;
+        }
+        .device-group {
+            position: relative;
+        }
+        .phone {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 33%;
+            @media (min-width: 576px) {
+                left: -16%;
+                width: 50%;
+            }
+            @media (min-width: 768px) {
+                left: -46%;
+            }
+        }
+        .tablet {
+            position: relative;
+            width: 70%;
+            @media (min-width: 576px) {
+                padding-top: 69%;
+                width: auto;
+            }
+            @media (min-width: 768px) {
+                padding-top: 51%;
+            }
+            @media (min-width: 992px) {
+                padding-top: 38%;
+            }
+            @media (min-width: 1200px) {
+                padding-top: 27%;
+            }
+        }
+    }
+    .section--icons {
+        .icon {
+            width: 302px;
+            max-width: 60%;
+            margin-bottom: 0;
+            @media (min-width: 576px) {
+                width: 302px;
+                max-width: 100%;
+                margin-bottom: auto;
+            }
+        }
+        .bgvideo-wrapper {
+            position: relative;
+            width: 100%;
+            z-index: 1;
+        }
+        .bgvideo {
+            position: relative;
+            width: 100%;
+        }
+    }
+    .section--ooh {
+        border-bottom-style: solid;
+        border-bottom-color: #fff;
+        border-bottom-width: 70px;
+        @media (min-width: 576px) {
+            border-bottom-width: 105px;
+        }
+        @media (min-width: 768px) {
+            border-bottom-width: 105px;
+        }
+        @media (min-width: 992px) {
+            border-bottom-width: 140px;
+        }
+        .text-group {
+            margin-bottom: 60px;
+            @media (min-width: 576px) {
+                margin-top: 60px;
+                margin-bottom: 105px;
+            }
+        }
+        .ooh-a {
+            width: 60%;
+            margin-bottom: 70px;
+            @media (min-width: 576px) {
+                left: 5%;
+                width: 95.185185%;
+                max-width: none;
+                margin-bottom: 30%;
+            }
+        }
+        .ooh-b {
+            width: 60%;
+            margin-bottom: 70px;
+            @media (min-width: 576px) {
+                left: -60%;
+                width: 127.41573%;
+                max-width: none;
+                margin-bottom: 10%;
+            }
+        }
+        .ooh-c {
+            margin-bottom: 0;
+            @media (min-width: 576px) {
+                left: 7%;
+                width: 122.037037%;
+                max-width: none;
+                margin-bottom: auto;
+            }
+        }
+    }
+    .section--project-stats {
+        .section--project-stats__number {
+            font-size: 24px;
+            @media (min-width: 576px) {
+                font-size: 21px;
+            }
+            @media (min-width: 768px) {
+                font-size: 24px;
+            }
+            @media (min-width: 992px) {
+                font-size: 36px;
+            }
+        }
+        .section--project-stats__number span {
+            font-size: 72px;
+            @media (min-width: 576px) {
+                font-size: 48px;
+            }
+            @media (min-width: 768px) {
+                font-size: 84px;
+            }
+            @media (min-width: 992px) {
+                font-size: 108px;
+            }
+            @media (min-width: 1200px) {
+                 font-size: 142px;
+            }
+        }
+        .section--project-stats__description {
+            font-size: 24px;
+            @media (min-width: 768px) {
+                font-size: 30px;
+            }
+        }
+    }
+}

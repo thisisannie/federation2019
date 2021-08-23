@@ -1,0 +1,44 @@
+.page--results__th-lozenge {
+    .section--intro {
+        padding-bottom: 0;
+    }
+    .section--print {
+		background-color: #fff;
+		padding-top: 70px;
+		@media (min-width: 576px) {
+			padding-top: 105px;
+		}
+		@media (min-width: 768px) {
+			padding-top: 105px;
+		}
+		@media (min-width: 992px) {
+			padding-top: 140px;
+		}
+        .text-group {
+            margin-bottom: 60px;
+		}
+		.mag {
+			margin-bottom: 35px;
+		}
+	}
+	.section--photography {
+		.container-fluid {
+			@media (min-width: 768px) {
+				padding-left: 0;
+				padding-right: 0;
+			}
+		}
+		.landscape {
+			width: 100%;
+		}
+		.text-group {
+			margin-bottom: 35px;
+			@media (min-width: 768px) {
+				margin-left: 35px;
+				padding-right: 35px;
+				margin-bottom: 0;
+			}
+		}
+	}
+}
+

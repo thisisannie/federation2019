@@ -1,0 +1,217 @@
+.page--results__zoetis-ditch-the-itch {
+    .section--intro {
+        padding-bottom: 0;
+    }
+    .section--video-feature {
+        background-color: #fff;
+        padding-top: 70px;
+        padding-bottom: 140px;
+        @media (min-width: 576px) {
+            padding-top: 105px;
+            padding-bottom: 105px;
+        }
+        @media (min-width: 768px) {
+            padding-top: 140px;
+            padding-bottom: 140px;
+        }
+        .text-group {
+            margin-bottom: 60px;
+        }
+        .feature-video {
+            max-width: 60%;
+            margin: 0 auto;
+            display: block;
+            @media (min-width: 576px) {
+                max-width:none;
+                margin: 0 auto;
+            }
+        }
+        .feature-video__image-group {
+            position: absolute;
+            width: 97.222222%;
+            top: 12.046205%;
+            left: 1.388889%;
+        }
+        .feature-video__bg {
+            position: relative;
+        }
+        .left-video {
+            margin-bottom: 60px;
+            @media (min-width: 576px) {
+                margin-bottom: 0;
+                margin-right: 10%;
+            }
+        }
+        .right-video {
+            @media (min-width: 576px) {
+                margin-left: 10%;
+            }
+        }
+    }
+    .section--website {
+        background-color: #fff;
+        .text-group {
+            margin-bottom: 60px;
+        }
+        .website {
+            margin-bottom: 70px;
+            @media (min-width: 576px) {
+                
+            }
+            @media (min-width: 768px) {
+                margin-bottom: 140px;
+            }
+        }
+        .website-b {
+            margin-top: 140px;
+        }
+        .website-c {
+            display: block;
+        }
+        .website-images {
+            margin-top: 70px;
+            @media (min-width: 576px) {
+                margin-top: 105px;
+            }
+            @media (min-width: 768px) {
+                margin-top: 140px;
+            }
+            position: relative;
+        }
+        .website-phone {
+            display: block;
+            position: relative;
+            max-width: 50%;
+            margin: 0 auto;
+            @media (min-width: 576px) {
+                position: absolute;
+                margin: 0;
+                width: 35%;
+                left: -11%;
+                top: -26%;
+            }
+        }
+    }
+    .section--ooh {
+        background-color: #fff;
+        .poster-row {
+            position: relative;
+        }
+        .text-group {
+            margin-bottom: 60px;
+        }
+    }
+    .section--project-next {
+        padding-top: 70px;
+    }
+}
+
+/* slider experiment */
+.page--results__zoetis-ditch-the-itch_slider-test {
+    .section--intro {
+        padding-bottom: 0;
+    }
+    .section--video-feature {
+        background-color: #1a1a1a;
+        padding-top: 70px;
+        padding-bottom: 140px;
+        @media (min-width: 576px) {
+            padding-top: 105px;
+            padding-bottom: 105px;
+        }
+        @media (min-width: 768px) {
+            padding-top: 140px;
+            padding-bottom: 140px;
+        }
+        .text-group {
+            margin-bottom: 60px;
+        }
+        .feature-video {
+            max-width: 60%;
+            margin: 0 auto;
+            display: block;
+            @media (min-width: 576px) {
+                max-width:none;
+                margin: 0 auto;
+            }
+        }
+        .feature-video__image-group {
+            position: absolute;
+            width: 97.222222%;
+            top: 12.046205%;
+            left: 1.388889%;
+        }
+        .feature-video__bg {
+            position: relative;
+        }
+        .left-video {
+            margin-bottom: 60px;
+            @media (min-width: 576px) {
+                margin-bottom: 0;
+                margin-right: 10%;
+            }
+        }
+        .right-video {
+            @media (min-width: 576px) {
+                margin-left: 10%;
+            }
+        }
+    }
+    .section--website {
+        background-color: #1a1a1a;
+        .text-group {
+            margin-bottom: 60px;
+        }
+        .website {
+            margin-bottom: 70px;
+            @media (min-width: 576px) {
+                
+            }
+            @media (min-width: 768px) {
+                margin-bottom: 0;
+            }
+        }
+        .website-b {
+            margin-top: 140px;
+        }
+        .website-c {
+            display: block;
+        }
+        .website-images {
+            margin-top: 70px;
+            @media (min-width: 576px) {
+                margin-top: 105px;
+            }
+            @media (min-width: 768px) {
+                margin-top: 140px;
+            }
+            position: relative;
+        }
+        .website-phone {
+            display: block;
+            position: relative;
+            max-width: 50%;
+            margin: 0 auto;
+            @media (min-width: 576px) {
+                position: absolute;
+                margin: 0;
+                width: 35%;
+                left: -11%;
+                top: -26%;
+            }
+        }
+    }
+    .section--ooh {
+        background-color: #1a1a1a;
+        .poster-row {
+            position: relative;
+        }
+        .text-group {
+            margin-bottom: 60px;
+        }
+    }
+    .section--project-next {
+        padding-top: 70px;
+    }
+}
+/* slider experiment */

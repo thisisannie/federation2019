@@ -1,0 +1,34 @@
+@media (min-width: 576px) {
+  .home .section--website-3__col {
+    padding-bottom: 50%; } }
+
+.home .section--website-3__image {
+  position: relative;
+  display: block;
+  margin-bottom: 60px; }
+  @media (min-width: 576px) {
+    .home .section--website-3__image {
+      position: absolute;
+      margin-bottom: 0; } }
+
+@media (min-width: 576px) {
+  .home .section--website-3__image-3 {
+    width: 20%;
+    left: 10%;
+    top: 10%;
+    z-index: 2; } }
+
+@media (min-width: 576px) {
+  .home .section--website-3__image-4 {
+    width: 50%;
+    left: 25%;
+    bottom: 0%;
+    z-index: 1; } }
+
+@media (min-width: 576px) {
+  .home .section--website-3__image-5 {
+    width: 40%;
+    right: 0;
+    top: 0;
+    z-index: 3; } }
+/*# sourceMappingURL=home.css.map */
