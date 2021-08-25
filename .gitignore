@@ -3,6 +3,7 @@
 # Useful .gitignore templates: https://github.com/github/gitignore
 
 *.code-workspace
+**/.DS_Store
 
 # File too big
 img/page--recent-news__simparica/Franklin_Vets_PT1_proof V2.mp4
