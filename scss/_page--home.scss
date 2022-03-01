@@ -170,8 +170,8 @@
         .feature-img__text--mobile {
             position: absolute;
             display: block;
-            font-size: 49px;
-            top: -112px;
+            font-size: 42px;
+            top: -90px;
             left: -15px;
             @media (min-width: 576px) {
                 display: none;
@@ -290,7 +290,7 @@
         }
         .feature-img__text--mobile {
             display: block;
-            font-size: 49px;
+            font-size: 42px;
             top: auto;
             bottom: -70px;
             left: -85%;
@@ -322,7 +322,7 @@
             // margin-bottom: 70px;
         }
         .feature-header__text {
-            font-size: 49px;
+            font-size: 42px;
             left: -15px;
             display: block;
             @media (min-width: 576px) {
