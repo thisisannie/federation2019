@@ -18,7 +18,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.6/plugins/animation.gsap.min.js"></script>
 
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDtDZugGhHDXI_xfMPMaku1KuZhZluModA"></script>
-<script src="http://www.youtube.com/player_api"></script>
+<script src="https://www.youtube.com/player_api"></script>
 <script src="js/google-map.js"></script>
 <script src="js/video-manager.js"></script>
 <script src="js/animation.js"></script>
