@@ -29,13 +29,13 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="img/page--recent-news__q-airbnb/Header-Image-1400x600.jpg" alt="" class="feature-image">
+        <img src="img/news/q-airbnb/Header-Image-1400x600.jpg" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
             <div class="row justify-content-center">
 <!--
-                <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-2">
+                <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-1">
                     <div class="project-detail__tag-container">
                         <ul class="project-detail__tags animate--stagger-left">
                             <li class="project-detail__item">???</li>
@@ -46,7 +46,7 @@
                     </div>
                 </div>
 -->
-                <div class="col-12 col-sm-8 col-lg-7 col-xl-6">
+                <div class="col-12 col-sm-8 col-lg-7 col-xl-7">
                     <div class="project-detail__description">
                         <p class="animate animate--fade-up-25">Q Card and Q Mastercard are perfect for home improvements. So we encouraged customers to turn their spare room into spare cash with Airbnb. 3 months to pay is perfect for home owners looking to make small improvements such as bed linen, towels, toasters and a few pot plants prior to listing. They can get costs back in rent before they’ve had to pay anything!</p>
                     </div>
@@ -64,13 +64,13 @@
                                 <li data-slide="1" data-slide-title="" data-slide-paragraph="" class="mini-slider__slide">
                                     <div class="feature-video feature" id="q-airbnb-news-video-b">
                                        <div class="feature-video__image-group">
-                                            <img src="img/page--recent-news__q-airbnb/Img-01-946x495.jpg" alt="" class="feature-video__image">
+                                            <img src="img/news/q-airbnb/Img-01-946x495.jpg" alt="" class="feature-video__image">
                                             <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>
                                 <li data-slide="2" data-slide-title="" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="img/page--recent-news__q-airbnb/Img-02-946x495.jpg" alt="">
+                                    <img src="img/news/q-airbnb/Img-02-946x495.jpg" alt="">
                                 </li>
                             </ul>
                         </div>

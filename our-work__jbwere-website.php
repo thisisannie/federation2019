@@ -30,7 +30,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="project-feature-image">
-                    <img src="img/page--results__jbwere-website/jbwere-feature-image.jpg" alt="" class="project-feature-image__photo">
+                    <img src="img/results/jbwere-website/jbwere-feature-image.jpg" alt="" class="project-feature-image__photo">
                 </div>
             </div>
         </div>
@@ -39,7 +39,7 @@
         <div class="section section--white project-detail">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-2">
+                    <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-1">
                         <div class="project-detail__tag-container">
                             <ul class="project-detail__tags animate--stagger-left">
                                 <li class="project-detail__item">Brand Strategy</li>
@@ -51,7 +51,7 @@
                             <span class="project-detail__square" id="project-detail__square"></span>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-8 col-lg-7 col-xl-6 offset-xl-1">
+                    <div class="col-12 col-sm-8 col-lg-7 col-xl-7 offset-xl-1">
                         <div class="project-detail__description">
                             <p class="animate animate--fade-up-25">We worked with JBWere to position them as leaders in a constantly shifting financial environment. A personalised service is the core of their approach to wealth management. An investment in top quality observational photography showed JBWere advisors actively engaged in discussions and decisions, with a quality and professionalism. Overall the new position is serious, unwavering and a reinforcement of the ‘enduring fit’ that is the core of the brand.</p>
                         </div>
@@ -107,7 +107,7 @@
             </div>
            <div class="row justify-content-center">
                 <div class="col-12 col-md-10">
-                    <img src="img/page--results__jbwere-website/website-b.jpg" alt="" class="website animate animate--fade-up-25">
+                    <img src="img/results/jbwere-website/website-b.jpg" alt="" class="website animate animate--fade-up-25">
                 </div>
             </div>
             <div class="row d-none d-sm-block">
@@ -125,14 +125,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 col-sm-6 order-2 order-sm-1">
-                    <img src="img/page--results__jbwere-website/photography-a.jpg" alt="" class="photo-a animate animate--fade-up-25">
+                    <img src="img/results/jbwere-website/photography-a.jpg" alt="" class="photo-a animate animate--fade-up-25">
                 </div>
                 <div class="col-12 col-sm-6 order-1 order-sm-2">
                     <div class="text-group">
                         <h2 class="h2--small animate animate--fade-up-25">Photography</h2>
                         <p class="animate animate--fade-up-25">An engaged, friendly, professional study. Quietly observing teams working together. Over 600 of them!</p>
                     </div>
-                    <img src="img/page--results__jbwere-website/photography-b.jpg" alt="" class="photo-b animate animate--fade-up-25">
+                    <img src="img/results/jbwere-website/photography-b.jpg" alt="" class="photo-b animate animate--fade-up-25">
                 </div>
             </div>
         </div>    
@@ -141,7 +141,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-12 col-sm-6 order-2 order-sm-1">
-                    <img src="img/page--results__jbwere-website/transitions.png" alt="" class="tablet animate animate--fade-up-25">
+                    <img src="img/results/jbwere-website/transitions.png" alt="" class="tablet animate animate--fade-up-25">
                 </div>
                 <div class="col-12 col-sm-6 order-1 order-sm-2">
                     <div class="text-group">
@@ -156,19 +156,19 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <a href="results__ac-ak-have-your-say" class="link-button section--project-next__button">Next project</a>
+                    <a href="our-work__ac-ak-have-your-say" class="link-button section--project-next__button">Next project</a>
                 </div>
             </div>
             <div class="row justify-content-center section--project-next__row">
                 <div class="col-12 col-sm-10 col-md-9">
-                    <a href="results__ac-ak-have-your-say" class="project-next-img">
+                    <a href="our-work__ac-ak-have-your-say" class="project-next-img">
                         <h2 class="visuallyhidden">AK Have Your Say</h2>
                         <div class="project-next-img__text-mask project-next-img__text-mask--outer">
                             <div class="project-next-img__text project-next-img__text--outer">
                                 <span class="animate animate--slide-left-25">AK Have Your Say</span>
                             </div>
                         </div>
-                        <img src="img/page--results/next-project--akhys.jpg" alt="" class="project-next-img__image">
+                        <img src="img/results/next-project--akhys.jpg" alt="" class="project-next-img__image">
                         <div class="project-next-img__text-mask project-next-img__text-mask--inner">
                             <div class="project-next-img__text project-next-img__text--inner">
                                 <span class="animate animate--slide-left-25">AK Have Your Say</span>

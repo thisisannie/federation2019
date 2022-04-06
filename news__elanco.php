@@ -27,7 +27,7 @@
         </div>
     </div>
     <div class="section section--black section--banner section--change-agents-banner">
-        <img src="img/page--latest__elanco/Seresto-Cat-on-tin-Gold.jpg" alt="" class="feature-image">
+        <img src="img/news/elanco/Seresto-Cat-on-tin-Gold.jpg" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">

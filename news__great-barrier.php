@@ -27,13 +27,13 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="img/page--recent-news__great-barrier/Header-Image-1400x600.jpg" alt="" class="feature-image">
+        <img src="img/news/great-barrier/Header-Image-1400x600.jpg" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
             <div class="row justify-content-center">
 <!--
-                <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-2">
+                <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-1">
                     <div class="project-detail__tag-container">
                         <ul class="project-detail__tags animate--stagger-left">
                             <li class="project-detail__item">???</li>
@@ -44,7 +44,7 @@
                     </div>
                 </div>
 -->
-                <div class="col-12 col-sm-8 col-lg-7 col-xl-6">
+                <div class="col-12 col-sm-8 col-lg-7 col-xl-7">
                     <div class="project-detail__description">
                         <p class="animate animate--fade-up-25">You can’t send junk mail out about good waste habits. So our communication itself was reusable and environmentally friendly, especially for the islands birds.</p>
                     </div>
@@ -60,10 +60,10 @@
                         <div class="mini-slider__slides-mask animate animate--fade-up-25">
                             <ul class="mini-slider__slides">
                                 <li data-slide="1" data-slide-title="" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="img/page--recent-news__great-barrier/Img-01-946x495.jpg" alt="">
+                                    <img src="img/news/great-barrier/Img-01-946x495.jpg" alt="">
                                 </li>
                                 <li data-slide="2" data-slide-title="" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="img/page--recent-news__great-barrier/Img-02-946x495.jpg" alt="">
+                                    <img src="img/news/great-barrier/Img-02-946x495.jpg" alt="">
                                 </li>
                             </ul>
                         </div>

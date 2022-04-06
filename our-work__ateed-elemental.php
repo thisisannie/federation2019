@@ -31,7 +31,7 @@
             <div class="row justify-content-center">
                 <div class="feature-video">
                     <div class="feature-video__image-group" id="elemental__video">
-                        <img src="img/page--results__ateed-elemental/banner.jpg" alt="" class="feature-video__image">
+                        <img src="img/results/ateed-elemental/banner.jpg" alt="" class="feature-video__image">
                         <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
                     </div>
                 </div>
@@ -42,7 +42,7 @@
         <div class="section section--white project-detail">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-2">
+                    <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-1">
                         <div class="project-detail__tag-container">
                             <ul class="project-detail__tags animate--stagger-left">
                                 <li class="project-detail__item">Creative Strategy</li>
@@ -54,7 +54,7 @@
                             <span class="project-detail__square" id="project-detail__square"></span>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-8 col-lg-7 col-xl-6 offset-xl-1">
+                    <div class="col-12 col-sm-8 col-lg-7 col-xl-7 offset-xl-1">
                         <div class="project-detail__description">
                             <p class="animate animate--fade-up-25">Elemental AKL is a brand new Auckland festival to be held every winter. We were tasked to bring meaning to this new entity, create excitement around the inaugural event and form a design language that can adapt and develop over time to become iconic.</p>
                             <p class="animate animate--fade-up-25">Our transformational new brand identity represented the multi-faceted nature of the festival: a stage for various creative components. Aligning events to the elements gave us a structure for festival goers to navigate through the event. Creating stylised icons for each element delivered a modern visual identity now set to become synonymous with the festival. Marking a month long celebration of Auckland’s unique energy.</p>
@@ -104,8 +104,8 @@
                 </div>
                 <div class="col-12 col-sm-6 col-lg-6">
                     <div class="device-group">
-                        <img src="img/page--results__ateed-elemental/tablet.png" alt="" class="tablet animate animate--fade-up-25">
-                        <img src="img/page--results__ateed-elemental/phone.png" alt="" class="phone animate animate--fade-up-25">
+                        <img src="img/results/ateed-elemental/tablet.png" alt="" class="tablet animate animate--fade-up-25">
+                        <img src="img/results/ateed-elemental/phone.png" alt="" class="phone animate animate--fade-up-25">
                     </div>
                 </div>
             </div>
@@ -141,11 +141,11 @@
                         <p class="animate animate--fade-up-25">Single placements announced the festival, with consecutive posters and revolving digital OOH highlighting each element.</p>
                         <button class="button button--red animate animate--fade-up-25" id="elemental__video-b">Watch</button>
                     </div>
-                    <img src="img/page--results__ateed-elemental/ooh-b.jpg" alt="" class="ooh-b animate animate--fade-up-25">
+                    <img src="img/results/ateed-elemental/ooh-b.jpg" alt="" class="ooh-b animate animate--fade-up-25">
                 </div>
                 <div class="col-12 col-sm-6 col-lg-6">
-                    <img src="img/page--results__ateed-elemental/ooh-a.jpg" alt="" class="ooh-a animate animate--fade-up-25">
-                    <img src="img/page--results__ateed-elemental/ooh-c.jpg" alt="" class="ooh-c animate animate--fade-up-25">
+                    <img src="img/results/ateed-elemental/ooh-a.jpg" alt="" class="ooh-a animate animate--fade-up-25">
+                    <img src="img/results/ateed-elemental/ooh-c.jpg" alt="" class="ooh-c animate animate--fade-up-25">
                 </div>
             </div>
         </div>    
@@ -154,19 +154,19 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <a href="results__jbwere-website" class="link-button section--project-next__button">Next project</a>
+                    <a href="our-work__jbwere-website" class="link-button section--project-next__button">Next project</a>
                 </div>
             </div>
             <div class="row justify-content-center section--project-next__row">
                 <div class="col-12 col-sm-10 col-md-9">
-                    <a href="results__jbwere-website" class="project-next-img">
+                    <a href="our-work__jbwere-website" class="project-next-img">
                         <h2 class="visuallyhidden">JBWere website</h2>
                         <div class="project-next-img__text-mask project-next-img__text-mask--outer">
                             <div class="project-next-img__text project-next-img__text--outer">
                                 <span class="animate animate--slide-left-25">JBWere website</span>
                             </div>
                         </div>
-                        <img src="img/page--results/next-project--jbwere.jpg" alt="" class="project-next-img__image">
+                        <img src="img/results/next-project--jbwere.jpg" alt="" class="project-next-img__image">
                         <div class="project-next-img__text-mask project-next-img__text-mask--inner">
                            <div class="project-next-img__text project-next-img__text--inner">
                                 <span class="animate animate--slide-left-25">JBWere website</span>

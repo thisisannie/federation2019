@@ -27,12 +27,12 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="img/page--recent-news__blink-blink-blink/banner.jpg" alt="" class="feature-image">
+        <img src="img/news/blink-blink-blink/banner.jpg" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-2">
+                <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-1">
                     <div class="project-detail__tag-container">
                         <ul class="project-detail__tags animate--stagger-left">
                            <li class="project-detail__item">Behaviour Change</li>
@@ -43,7 +43,7 @@
                         <span class="project-detail__square"></span>
                     </div>
                 </div>
-                <div class="col-12 col-sm-8 col-lg-7 col-xl-6 offset-xl-1">
+                <div class="col-12 col-sm-8 col-lg-7 col-xl-7 offset-xl-1">
                     <div class="project-detail__description">
                         <p class="animate animate--fade-up-25">Motorists are responsible for most accidents between vehicles and bikes. We simply have a blind spot when it comes to bikes. Experts call this “inattentional blindness” – an inability to see an unexpected object in plain sight. We wanted to hardwire a new behaviour with motorists to think bike when they make a turn. Using the sound of the turning indicator to say bike, bike, bike, we encourage drivers to be extra vigilant and to see what they were missing.</p>
                     </div>
@@ -61,18 +61,18 @@
                                 <li data-slide="1" data-slide-title="Radio" data-slide-paragraph="" class="mini-slider__slide">
                                     <div class="feature-video feature" id="blink-blink-video-a">
                                        <div class="feature-video__image-group">
-                                            <img src="img/page--recent-news__blink-blink-blink/slide-a.jpg" alt="" class="feature-video__image">
+                                            <img src="img/news/blink-blink-blink/slide-a.jpg" alt="" class="feature-video__image">
                                             <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>
                                 <li data-slide="2" data-slide-title="OOH" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="img/page--recent-news__blink-blink-blink/slide-b.jpg" alt="">
+                                    <img src="img/news/blink-blink-blink/slide-b.jpg" alt="">
                                 </li>
                                 <li data-slide="3" data-slide-title="Social Video" data-slide-paragraph="" class="mini-slider__slide">
                                     <div class="feature-video feature" id="blink-blink-video-c">
                                        <div class="feature-video__image-group">
-                                            <img src="img/page--recent-news__blink-blink-blink/slide-c.jpg" alt="" class="feature-video__image">
+                                            <img src="img/news/blink-blink-blink/slide-c.jpg" alt="" class="feature-video__image">
                                             <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>

@@ -31,7 +31,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="project-feature-image">
-                    <img src="img/page--results__ac-ak-have-your-say/banner.jpg" alt="" class="project-feature-image__photo">
+                    <img src="img/results/ac-ak-have-your-say/banner.jpg" alt="" class="project-feature-image__photo">
                 </div>
             </div>
         </div>
@@ -40,7 +40,7 @@
         <div class="section section--white project-detail">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-2">
+                    <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-1">
                         <div class="project-detail__tag-container">
                             <ul class="project-detail__tags animate--stagger-left">
                                 <li class="project-detail__item">Online Video</li>
@@ -52,7 +52,7 @@
                             <span class="project-detail__square" id="project-detail__square"></span>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-8 col-lg-7 col-xl-6 offset-xl-1">
+                    <div class="col-12 col-sm-8 col-lg-7 col-xl-7 offset-xl-1">
                         <div class="project-detail__description">
                             <p class="animate animate--fade-up-25">Auckland Council’s long term plans around transport, sewarage and stormwater, environmental protection, growth and urban planning were up for public consultation. It’s big stuff that does matter. But to engage a jaded, disparate audience our challenge was to reinforce that their opinions mattered too.</p>
                             <p class="animate animate--fade-up-25">The campaign had to be genuine, in touch, and highly relevant. Our 30 day game plan promoted real people’s real views, in real-time. We created urgency and mass awareness, making March the month to get involved and have your voice heard.</p>
@@ -104,7 +104,7 @@
                 <div class="col-12 col-md-10">
                     <div class="feature-video feature animate animate--fade-up-25" id="akhys__feature-video">
                        <div class="feature-video__image-group">
-                            <img src="img/page--results__ac-ak-have-your-say/featured-video.jpg" alt="" class="feature-video__image">
+                            <img src="img/results/ac-ak-have-your-say/featured-video.jpg" alt="" class="feature-video__image">
                             <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
                         </div>
                     </div>
@@ -124,13 +124,13 @@
             </div>
             <div class="row flex-nowrap poster-row">
                 <div class="col-5 col-md-4 offset-md-3">
-                    <img src="img/page--results__ac-ak-have-your-say/poster-a.jpg" alt="" class="poster">
+                    <img src="img/results/ac-ak-have-your-say/poster-a.jpg" alt="" class="poster">
                 </div>
                 <div class="col-5 col-md-4">
-                    <img src="img/page--results__ac-ak-have-your-say/poster-b.jpg" alt="" class="poster">
+                    <img src="img/results/ac-ak-have-your-say/poster-b.jpg" alt="" class="poster">
                 </div>
                 <div class="col-5 col-md-4">
-                    <img src="img/page--results__ac-ak-have-your-say/poster-c.jpg" alt="" class="poster">
+                    <img src="img/results/ac-ak-have-your-say/poster-c.jpg" alt="" class="poster">
                 </div>
             </div>
         </div>
@@ -158,30 +158,30 @@
                     </div>
                     <div class="col-12 col-sm-5 offset-sm-1 col-md-5 offset-md-1">
                         <div class="phone-wrapper animate animate--fade-up-25">
-                            <img src="img/page--results__ac-ak-have-your-say/phone.png" alt="" class="phone">
+                            <img src="img/results/ac-ak-have-your-say/phone.png" alt="" class="phone">
                             <div class="mini-slider__slides-mask">
                                 <ul class="mini-slider__slides">
                                     <li data-slide="1" class="mini-slider__slide">
                                         <div class="phone-video__image-group" id="akhys-social-1">
-                                            <img src="img/page--results__ac-ak-have-your-say/social-video-1.jpg" alt="" class="phone-video__image">
+                                            <img src="img/results/ac-ak-have-your-say/social-video-1.jpg" alt="" class="phone-video__image">
                                             <img src="img/video-play-btn.png" alt="" class="phone-video__play-btn">
                                         </div>
                                     </li>
                                     <li data-slide="2" class="mini-slider__slide">
                                         <div class="phone-video__image-group" id="akhys-social-2">
-                                            <img src="img/page--results__ac-ak-have-your-say/social-video-2.jpg" alt="" class="phone-video__image">
+                                            <img src="img/results/ac-ak-have-your-say/social-video-2.jpg" alt="" class="phone-video__image">
                                             <img src="img/video-play-btn.png" alt="" class="phone-video__play-btn">
                                         </div>
                                     </li>
                                     <li data-slide="3" class="mini-slider__slide">
                                         <div class="phone-video__image-group" id="akhys-social-3">
-                                            <img src="img/page--results__ac-ak-have-your-say/social-video-3.jpg" alt="" class="phone-video__image">
+                                            <img src="img/results/ac-ak-have-your-say/social-video-3.jpg" alt="" class="phone-video__image">
                                             <img src="img/video-play-btn.png" alt="" class="phone-video__play-btn">
                                         </div>
                                     </li>
                                     <li data-slide="4" class="mini-slider__slide">
                                         <div class="phone-video__image-group" id="akhys-social-4">
-                                            <img src="img/page--results__ac-ak-have-your-say/social-video-4.jpg" alt="" class="phone-video__image">
+                                            <img src="img/results/ac-ak-have-your-say/social-video-4.jpg" alt="" class="phone-video__image">
                                             <img src="img/video-play-btn.png" alt="" class="phone-video__play-btn">
                                         </div>
                                     </li>
@@ -198,12 +198,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <a href="results__cavbrem-rebrand" class="link-button section--project-next__button animate animate--fade-up-25">Next project</a>
+                    <a href="our-work__cavbrem-rebrand" class="link-button section--project-next__button animate animate--fade-up-25">Next project</a>
                 </div>
             </div>
             <div class="row justify-content-center section--project-next__row">
                 <div class="col-12 col-sm-10 col-md-9">
-                    <a href="results__cavbrem-rebrand" class="project-next-img">
+                    <a href="our-work__cavbrem-rebrand" class="project-next-img">
                         <h2 class="visuallyhidden">A World of Difference</h2>
                         <div class="project-next-img__text-mask project-next-img__text-mask--outer">
                             <div class="project-next-img__text project-next-img__text--outer">

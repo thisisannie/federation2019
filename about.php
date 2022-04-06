@@ -8,12 +8,12 @@
                     <h1 class="visuallyhidden">Federation | About Us</h1>
                     <div class="feature-img__text-mask feature-img__text-mask--outer">
                         <div class="feature-img__text feature-img__text--outer">
-                            <span class="animate animate--slide-right-25">Anything</span><br>
-                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;is possible</span>
+                            <span class="animate animate--slide-right-25">Leading</span><br>
+                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;change</span>
                         </div>
                         <div class="feature-img__text feature-img__text--mobile feature-img__text--outer">
-                            <span class="animate animate--slide-right-25">Anything </span><br>
-                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;is possible</span>
+                            <span class="animate animate--slide-right-25">Leading </span><br>
+                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;change</span>
                         </div>
                     </div>
                     <div class="feature-img__bgvideo-wrapper" id="feature-img__bgvideo-wrapper">
@@ -21,23 +21,42 @@
                     </div>
                     <div class="feature-img__text-mask feature-img__text-mask--inner">
                         <div class="feature-img__text feature-img__text--desktop feature-img__text--inner">
-                        <span class="animate animate--slide-right-25">Anything </span><br>
-                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;is possible</span>
+                        <span class="animate animate--slide-right-25">Leading </span><br>
+                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;change</span>
                         </div>
                         <div class="feature-img__text feature-img__text--mobile feature-img__text--inner">
-                            <span class="animate animate--slide-right-25">Anything </span><br>
-                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;is possible</span>
+                            <span class="animate animate--slide-right-25">Leading </span><br>
+                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;change</span>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
         <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="feature-header">
+                        <h2 class="visuallyhidden">What would you like to change?</h2>
+                        <div class="feature-header__text">
+							<span class="animate animate--slide-right-25">What would you</span><br>
+                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;like to change?</span>
+                        </div>
+                        <div class="feature-header__text feature-header__text--mobile">
+							<span class="animate animate--slide-right-25">What would</span><br>
+                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;you like</span><br>
+							<span class="animate animate--slide-right-25">to change</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div class="row justify-content-center">
                 <div class="col-12 col-md-8">
-					<p class="animate animate--fade-up-25">The world is a different place and we firmly believe this is the year for brands to disrupt and transform. Our challenger attitude is in our DNA and it shapes our view that together with you, we can make anything happen. Federation was founded in the middle of the GFC to challenge the status quo of the red-tape bound agency networks. Time and time again, we see a direct link between what we do and breakthrough results. Anything really is possible.</p>
+                    <p class="animate animate--fade-up-25">We are creators and changemakers.  A leading, independent advertising agency in Aotearoa New Zealand.</p>
+                    <p class="animate animate--fade-up-25">We know everything in the universe is connected.  And we’re here to help you navigate it, with a deep understanding of people, purpose, culture and society.</p>
+                    <p class="animate animate--fade-up-25">We believe how your brand is seen on the outside is shaped by who you are on the inside. We question everything. And imagine a better world for your customers with entirely new and connected experiences.</p>
+					<!-- <p class="animate animate--fade-up-25">The world is a different place and we firmly believe this is the year for brands to disrupt and transform. Our challenger attitude is in our DNA and it shapes our view that together with you, we can make anything happen. Federation was founded in the middle of the GFC to challenge the status quo of the red-tape bound agency networks. Time and time again, we see a direct link between what we do and breakthrough results. Anything really is possible.</p> -->
                     <!-- <p class="animate animate--fade-up-25">It’s exciting times for brands, and that’s what keeps our blood pumping. Bespoke teams of talent bring energy, intuition and innovation to every challenge that arrives.</p> -->
-                    <a href="results" class="button button--red-inverse animate animate--fade-up-25">See the results</a>
+                    <a href="our-work" class="button button--red-inverse animate animate--fade-up-25">See the results</a>
                 </div>
             </div>
         </div>
@@ -47,22 +66,27 @@
             <div class="row">
                 <div class="col-12">
                     <div class="feature-header">
-                        <h2 class="visuallyhidden">Let’s disrupt the future together</h2>
+                        <h2 class="visuallyhidden">You will love working with&nbsp;us. That’s our promise.</h2>
                         <div class="feature-header__text">
-							<span class="animate animate--slide-right-25">Let’s disrupt the</span><br>
-                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;future together</span>
+							<span class="animate animate--slide-right-25">You will love working with&nbsp;us.</span><br>
+                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;That’s our promise.</span>
                         </div>
                         <div class="feature-header__text feature-header__text--mobile">
-							<span class="animate animate--slide-right-25">Let’s disrupt </span><br>
-                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;the future</span><br>
-							<span class="animate animate--slide-right-25">together</span>
+							<span class="animate animate--slide-right-25">You will love</span><br>
+                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;working with&nbsp;us.</span><br>
+							<span class="animate animate--slide-right-25">That's our promise.</span>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="row justify-content-center">
                 <div class="col-12 col-sm-6">
-                    <p class="animate animate--fade-up-25">Independence defines our spirit. As an agency – and as individuals – you’ll find us authentic, entrepreneurial and tenacious. This culture is at the heart of how we do things and what we look for in our people. We work hard, and we do what we do because we love it. We are a collective of creative and strategic thinkers from every conceivable marketing background. Let’s go disrupt the future together.</p>
+                    <p class="animate animate--fade-up-25">We are a phenomenal team of innovators and collaborators. Creating fame.  Penetrating conversations.  Increasing relevance.  Achieving your boldest ambitions.</p>
+                    <p class="animate animate--fade-up-25">Climate and purpose run through our veins.</p>
+                    <p class="animate animate--fade-up-25">We’re taking on climate change because we care about future generations. We are the first and only agency in New Zealand to qualify with Cambridge University’s Sustainability Leadership Institute. We are the first and only full-service agency to launch a genuine sustainability consultancy, which we’ve called <strong>impact</strong>. Why? Because we understand that the best brands put people and planet first, owning and communicating purpose as their inimitable, unfair advantage.</p>
+                    <p class="animate animate--fade-up-25"><strong>So why don’t we talk?  Let’s lead your next big change together.</strong></p>
+                    <a href="mailto:hello@federation.net.nz" class="button button--red-inverse animate animate--fade-up-25">hello@federation.net.nz</a>
+                    <!-- <p class="animate animate--fade-up-25">Independence defines our spirit. As an agency – and as individuals – you’ll find us authentic, entrepreneurial and tenacious. This culture is at the heart of how we do things and what we look for in our people. We work hard, and we do what we do because we love it. We are a collective of creative and strategic thinkers from every conceivable marketing background. Let’s go disrupt the future together.</p> -->
                 </div>
             </div>
         </div>

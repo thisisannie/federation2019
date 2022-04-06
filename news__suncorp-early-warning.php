@@ -30,13 +30,13 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="img/page--recent-news__suncorp/Header-Image-1400x600.jpg" alt="" class="feature-image">
+        <img src="img/news/suncorp/Header-Image-1400x600.jpg" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
             <div class="row justify-content-center">
 <!--
-                <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-2">
+                <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-1">
                     <div class="project-detail__tag-container">
                         <ul class="project-detail__tags animate--stagger-left">
                             <li class="project-detail__item">PRINT</li>
@@ -50,7 +50,7 @@
                     </div>
                 </div>
 -->
-                <div class="col-12 col-sm-8 col-lg-7 col-xl-6">
+                <div class="col-12 col-sm-8 col-lg-7 col-xl-7">
                     <div class="project-detail__description">
                         <p class="animate animate--fade-up-25">Suncorp is always thinking of ways to protect you and your property. Their new severe weather alert service in co-operation with Metservice NZ can help you get prepared for whatever mother nature throws your way.</p>
                         <p class="animate animate--fade-up-25">Customers receive an early warning of severe weather events affecting their community, plus helpful tips on how to keep themselves and their property safe.</p>
@@ -67,10 +67,10 @@
                         <div class="mini-slider__slides-mask animate animate--fade-up-25">
                             <ul class="mini-slider__slides">
                                 <li data-slide="1" data-slide-title="Title-1" data-slide-paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam." class="mini-slider__slide">
-                                    <img src="img/page--recent-news__suncorp/Img-01-946x495.jpg" alt="">
+                                    <img src="img/news/suncorp/Img-01-946x495.jpg" alt="">
                                 </li>
                                 <li data-slide="2" data-slide-title="Title-2" data-slide-paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.-2" class="mini-slider__slide">
-                                    <img src="img/page--recent-news__suncorp/Img-02-946x495.jpg" alt="">
+                                    <img src="img/news/suncorp/Img-02-946x495.jpg" alt="">
                                 </li>
                             </ul>
                         </div>

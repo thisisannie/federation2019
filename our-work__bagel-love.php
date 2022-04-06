@@ -32,7 +32,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="project-feature-image">
-                    <img src="img/page--projects__bagel-love/banner.jpg" alt="" class="project-feature-image__photo">
+                    <img src="img/projects/bagel-love/banner.jpg" alt="" class="project-feature-image__photo">
                 </div>
             </div>
         </div>
@@ -41,7 +41,7 @@
         <div class="section section--white project-detail">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-2">
+                    <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-1">
                         <div class="project-detail__tag-container">
                             <ul class="project-detail__tags animate--stagger-left" id="project-detail__tags">
                                 <li class="project-detail__item">OOH</li>
@@ -51,7 +51,7 @@
                             <span class="project-detail__square" id="project-detail__square"></span>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-8 col-lg-7 col-xl-6 offset-xl-1">
+                    <div class="col-12 col-sm-8 col-lg-7 col-xl-7 offset-xl-1">
                         <div class="project-detail__description">
                             <p class="animate animate--fade-up-25">COVID had a real impact on NZ business and many of us reached out to help our neighbours as best we could. Bagel Love live around the corner from our offices and is a staff lunch favourite. Through lockdown we worked closely with them to develop a compelling brand for their amazing bagels to get more bagel lovers in the door. And with the generous help of media partners around town we got people talking and most importantly buying.</p>
                         </div>
@@ -96,7 +96,7 @@
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-12 col-md-10">
-						<img src="img/page--projects__bagel-love/ooh.jpg" alt="" class="ooh animate animate--fade-up-25">
+						<img src="img/projects/bagel-love/ooh.jpg" alt="" class="ooh animate animate--fade-up-25">
 					</div>
 				</div>
 				<div class="row">
@@ -119,7 +119,7 @@
 						</div>
 					</div>
 					<div class="col-12 col-md-5 order-md-1">
-						<img src="img/page--projects__bagel-love/poster.jpg" alt="" class="poster animate animate--fade-up-25">
+						<img src="img/projects/bagel-love/poster.jpg" alt="" class="poster animate animate--fade-up-25">
 					</div>
 				</div>
 			</div>
@@ -140,7 +140,7 @@
 									<span class="animate animate--slide-left-25">Elemental</span>
 								</div>
 							</div>
-							<img src="img/page--results/next-project--elemental.jpg" alt="" class="project-next-img__image">
+							<img src="img/results/next-project--elemental.jpg" alt="" class="project-next-img__image">
 							<div class="project-next-img__text-mask project-next-img__text-mask--inner">
 							<div class="project-next-img__text project-next-img__text--inner">
 									<span class="animate animate--slide-left-25">Elemental</span>

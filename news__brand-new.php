@@ -27,12 +27,12 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="img/page--recent-news__brand-new/banner.jpg" alt="" class="feature-image">
+        <img src="img/news/brand-new/banner.jpg" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
             <div class="row justify-content-center">
-                <!-- <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-2">
+                <!-- <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-1">
                     <div class="project-detail__tag-container">
                         <ul class="project-detail__tags animate--stagger-left">
                             <li class="project-detail__item">Creative</li>
@@ -44,7 +44,7 @@
                         <span class="project-detail__square"></span>
                     </div>
                 </div> -->
-                <div class="col-12 col-sm-8 col-lg-7 col-xl-6">
+                <div class="col-12 col-sm-8 col-lg-7 col-xl-7">
                     <div class="project-detail__description">
                         <p class="animate animate--fade-up-25">FEDERATION's growth and disruptive non-traditional model is behind our recruitment drive of new ‘pivot resources’ that are enabling clients to change gears fast in the post-COVID world.</p>
                         <p class="animate animate--fade-up-25">

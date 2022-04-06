@@ -31,7 +31,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="project-feature-image">
-                    <img src="img/page--results__zoetis-ditch-the-itch/dog.jpg" alt="" class="project-feature-image__photo">
+                    <img src="img/results/zoetis-ditch-the-itch/dog.jpg" alt="" class="project-feature-image__photo">
                 </div>
             </div>
         </div>
@@ -40,7 +40,7 @@
         <div class="section section--white project-detail">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-2">
+                    <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-1">
                         <div class="project-detail__tag-container">
                             <ul class="project-detail__tags animate--stagger-left" id="project-detail__tags">
                                 <li class="project-detail__item">PRINT</li>
@@ -55,7 +55,7 @@
                             <span class="project-detail__square" id="project-detail__square"></span>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-8 col-lg-7 col-xl-6 offset-xl-1">
+                    <div class="col-12 col-sm-8 col-lg-7 col-xl-7 offset-xl-1">
                         <div class="project-detail__description">
                             <p class="animate animate--fade-up-25">Zoetis has a proven and effective range of treatments for all sorts of dog itches. Traditionally these products have been marketed individually. But dog owners aren’t always sure what causes their pet’s irritation. Or what the right solution is. And their dogs can’t simply tell them. *Woof!?</p>
                             <p class="animate animate--fade-up-25">We had to help owners get to the bottom of their dogs particular itch. So, combining the usually separate marketing budgets, we created a central hub of knowledge around itch causes and remedies. The content rich site educates and advises owners. An online itch identifier helps them get an idea of the problem and pre-sells a Zoetis solution before they visit their vet.</p>
@@ -106,18 +106,18 @@
             <div class="row">
                 <div class="col-12 col-sm-6 col-md-5 offset-md-1">
                     <div class="feature-video feature left-video animate animate--fade-up-25" >
-                        <img src="img/page--results__zoetis-ditch-the-itch/fb-bg.png" alt="" class="feature-video__bg">
+                        <img src="img/results/zoetis-ditch-the-itch/fb-bg.png" alt="" class="feature-video__bg">
                        <div class="feature-video__image-group" id="zoetis__video-a">
-                            <img src="img/page--results__zoetis-ditch-the-itch/dog-video-a.jpg" alt="" class="feature-video__image">
+                            <img src="img/results/zoetis-ditch-the-itch/dog-video-a.jpg" alt="" class="feature-video__image">
                             <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-5">
                     <div class="feature-video feature right-video animate animate--fade-up-25" >
-                        <img src="img/page--results__zoetis-ditch-the-itch/fb-bg.png" alt="" class="feature-video__bg">
+                        <img src="img/results/zoetis-ditch-the-itch/fb-bg.png" alt="" class="feature-video__bg">
                        <div class="feature-video__image-group" id="zoetis__video-b">
-                            <img src="img/page--results__zoetis-ditch-the-itch/dog-video-b.jpg" alt="" class="feature-video__image">
+                            <img src="img/results/zoetis-ditch-the-itch/dog-video-b.jpg" alt="" class="feature-video__image">
                             <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
                         </div>
                     </div>
@@ -138,22 +138,22 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col-12 col-md-10">
-                    <img src="img/page--results__zoetis-ditch-the-itch/website.jpg" alt="" class="website animate animate--fade-up-25">
+                    <img src="img/results/zoetis-ditch-the-itch/website.jpg" alt="" class="website animate animate--fade-up-25">
                 </div>
             </div>
             <div class="row poster-row">
                 <div class="col-12 col-md-6">
-                    <img src="img/page--results__zoetis-ditch-the-itch/website-a.jpg" alt="" class="website-a animate animate--fade-up-25">
+                    <img src="img/results/zoetis-ditch-the-itch/website-a.jpg" alt="" class="website-a animate animate--fade-up-25">
                 </div>
                 <div class="col-12 col-md-6">
-                    <img src="img/page--results__zoetis-ditch-the-itch/website-b.jpg" alt="" class="website-b animate animate--fade-up-25">
+                    <img src="img/results/zoetis-ditch-the-itch/website-b.jpg" alt="" class="website-b animate animate--fade-up-25">
                 </div>
             </div>
             <div class="row justify-content-center">
                 <div class="col-12 col-md-8">
                    <div class="website-images">
-                        <img src="img/page--results__zoetis-ditch-the-itch/website-c.jpg" alt="" class="website-c animate animate--fade-up-25 d-none d-sm-block">
-                        <img src="img/page--results__zoetis-ditch-the-itch/website-phone.png" alt="" class="website-phone animate animate--fade-up-25">
+                        <img src="img/results/zoetis-ditch-the-itch/website-c.jpg" alt="" class="website-c animate animate--fade-up-25 d-none d-sm-block">
+                        <img src="img/results/zoetis-ditch-the-itch/website-phone.png" alt="" class="website-phone animate animate--fade-up-25">
                    </div>
                 </div>
             </div>
@@ -171,16 +171,16 @@
             </div>
             <div class="row flex-nowrap poster-row">
                 <div class="col-5 col-md-4 offset-md-1">
-                    <img src="img/page--results__zoetis-ditch-the-itch/poster-a.jpg" alt="" class="poster">
+                    <img src="img/results/zoetis-ditch-the-itch/poster-a.jpg" alt="" class="poster">
                 </div>
                 <div class="col-5 col-md-4">
-                    <img src="img/page--results__zoetis-ditch-the-itch/poster-b.jpg" alt="" class="poster">
+                    <img src="img/results/zoetis-ditch-the-itch/poster-b.jpg" alt="" class="poster">
                 </div>
                 <div class="col-5 col-md-4">
-                    <img src="img/page--results__zoetis-ditch-the-itch/poster-c.jpg" alt="" class="poster">
+                    <img src="img/results/zoetis-ditch-the-itch/poster-c.jpg" alt="" class="poster">
                 </div>
                  <div class="col-5 col-md-4">
-                    <img src="img/page--results__zoetis-ditch-the-itch/poster-d.jpg" alt="" class="poster">
+                    <img src="img/results/zoetis-ditch-the-itch/poster-d.jpg" alt="" class="poster">
                 </div>
             </div>
         </div>
@@ -189,19 +189,19 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <a href="results__at-summer-cycling" class="link-button section--project-next__button">Next project</a>
+                    <a href="our-work__at-summer-cycling" class="link-button section--project-next__button">Next project</a>
                 </div>
             </div>
             <div class="row justify-content-center section--project-next__row">
                 <div class="col-12 col-sm-10 col-md-9">
-                    <a href="results__at-summer-cycling" class="project-next-img">
+                    <a href="our-work__at-summer-cycling" class="project-next-img">
                         <h2 class="visuallyhidden">Live the bike life</h2>
                         <div class="project-next-img__text-mask project-next-img__text-mask--outer">
                             <div class="project-next-img__text project-next-img__text--outer">
                                 <span class="animate animate--slide-left-25">Live the bike life</span>
                             </div>
                         </div>
-                        <img src="img/page--results/next-project--summer-cycling.jpg" alt="" class="project-next-img__image">
+                        <img src="img/results/next-project--summer-cycling.jpg" alt="" class="project-next-img__image">
                         <div class="project-next-img__text-mask project-next-img__text-mask--inner">
                            <div class="project-next-img__text project-next-img__text--inner">
                                 <span class="animate animate--slide-left-25">Live the bike life</span>

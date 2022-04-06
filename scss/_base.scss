@@ -1281,7 +1281,7 @@ body {
     }
     .mini-slider__current-progress {
         position: absolute;
-        width: 25%;
+        width: 10%;
         top: 0;
         left: 0;
         bottom: 0;
@@ -1300,7 +1300,7 @@ body {
     }
     .mini-slider__slide {
         display: inline-block;
-        width: 25%;
+        width: 10%;
     }
     .mini-slider__title {
         font-family: 'Montserrat', sans-serif;
@@ -1655,7 +1655,7 @@ body {
             font-weight: normal !important;
             font-variant: normal !important;
             text-transform: none !important;
-            speak: none;
+            speak-as: none;
             margin-left: 10px;
             content: "c";
             transition: margin-left 0.2s;

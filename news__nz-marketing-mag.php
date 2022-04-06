@@ -32,7 +32,7 @@
         </div>
     </div>
     <div class="section section--black section--banner section--change-agents-banner">
-        <img src="img/page--recent-news__nz-marketing-mag/mag-news-banner.jpg" alt="" class="feature-image">
+        <img src="img/news/nz-marketing-mag/mag-news-banner.jpg" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">

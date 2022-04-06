@@ -28,13 +28,13 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="img/page--recent-news__hop-top-up/Header-Image-1400x600.jpg" alt="" class="feature-image">
+        <img src="img/news/hop-top-up/Header-Image-1400x600.jpg" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
             <div class="row justify-content-center">
 <!--
-                <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-2">
+                <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-1">
                     <div class="project-detail__tag-container">
                         <ul class="project-detail__tags animate--stagger-left">
                             <li class="project-detail__item">???</li>
@@ -45,7 +45,7 @@
                     </div>
                 </div>
 -->
-                <div class="col-12 col-sm-8 col-lg-7 col-xl-6">
+                <div class="col-12 col-sm-8 col-lg-7 col-xl-7">
                     <div class="project-detail__description">
                         <p class="animate animate--fade-up-25">Queuing up to top up your Hop Card at kiosks, machines and diaries is not the best way to enjoy your commute. Auckland Transport ran a campaign to remind commuters that they could do this online and save the hassle of queuing.</p>
                         <p class="animate animate--fade-up-25">We devised a striking visual campaign using queuing commuters as typeface. It ran across digital screens in all transport hubs and online.</p>
@@ -62,10 +62,10 @@
                         <div class="mini-slider__slides-mask animate animate--fade-up-25">
                             <ul class="mini-slider__slides">
                                 <li data-slide="1" data-slide-title="Title-1" data-slide-paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam." class="mini-slider__slide">
-                                    <img src="img/page--recent-news__hop-top-up/Img-01-946x495.jpg" alt="" class="feature-video__image">
+                                    <img src="img/news/hop-top-up/Img-01-946x495.jpg" alt="" class="feature-video__image">
                                 </li>
                                 <li data-slide="2" data-slide-title="Title-2" data-slide-paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.-2" class="mini-slider__slide">
-                                    <img src="img/page--recent-news__hop-top-up/Img-02-946x495.jpg" alt="" class="feature-video__image">
+                                    <img src="img/news/hop-top-up/Img-02-946x495.jpg" alt="" class="feature-video__image">
                                 </li>
                             
                             </ul>

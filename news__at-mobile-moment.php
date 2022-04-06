@@ -27,12 +27,12 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="img/page--recent-news__mobile-moment/banner.jpg" alt="" class="feature-image">
+        <img src="img/news/at-mobile-moment/banner.jpg" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-2">
+                <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-1">
                     <div class="project-detail__tag-container">
                         <ul class="project-detail__tags animate--stagger-left">
                             <li class="project-detail__item">Digital</li>
@@ -40,7 +40,7 @@
                         <span class="project-detail__square"></span>
                     </div>
                 </div>
-                <div class="col-12 col-sm-8 col-lg-7 col-xl-6 offset-xl-1">
+                <div class="col-12 col-sm-8 col-lg-7 col-xl-7 offset-xl-1">
                     <div class="project-detail__description">
                         <p class="animate animate--fade-up-25">Teaming up with independent agency FEDERATION, AT introduce Aucklanders to the behaviour change message of ‘Mobile Moment’ – setting up your mobile safely, before you begin driving.  The new video campaign launches with a 30 second film pushed out via YouTube, TVNZ On Demand and on the brand’s Facebook page.</p>
 						<p class="animate animate--fade-up-25">Driver distraction – an emerging priority in the road safety space – is an increasing problem on our roads due to the high number of people using map apps, changing music tracks and social media scrolling while behind the wheel. The new campaign depicts four surfers hurrying to head off to the beach, but not before their responsible driver pauses for a second to ensure he’s safely sorted his phone before getting the car and his passengers on the road.</p>
@@ -63,18 +63,18 @@
                                 <li data-slide="1" data-slide-title="OOH video" data-slide-paragraph="" class="mini-slider__slide">
                                     <div class="feature-video feature" id="at-mobile-moment">
                                        <div class="feature-video__image-group">
-                                            <img src="img/page--recent-news__mobile-moment/video.jpg" alt="" class="feature-video__image">
+                                            <img src="img/news/at-mobile-moment/video.jpg" alt="" class="feature-video__image">
                                             <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>
                                 <!-- <li data-slide="2" data-slide-title="OOH" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="img/page--recent-news__emirates-bali/slide-b.jpg" alt="">
+                                    <img src="img/news/emirates-bali/slide-b.jpg" alt="">
                                 </li>
                                 <li data-slide="3" data-slide-title="Activation" data-slide-paragraph="" class="mini-slider__slide">
                                     <div class="feature-video feature" id="emirates-bali-activation">
                                         <div class="feature-video__image-group">
-                                            <img src="img/page--recent-news__emirates-bali/slide-c.jpg" alt="" class="feature-video__image">
+                                            <img src="img/news/emirates-bali/slide-c.jpg" alt="" class="feature-video__image">
                                             <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>

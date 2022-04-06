@@ -142,3 +142,21 @@ $('#at-mobile-moment').on('click', function(){
 $('#blues, #blues-link').on('click', function(){
     VideoManager.openModal('5YaGokU9KRY');
 });
+$('#blues, #blues-link').on('click', function(){
+    VideoManager.openModal('5YaGokU9KRY');
+});
+$('#video-massey-recruitment-1').on('click', function(){
+    VideoManager.openModal('1Gfj08IDdYQ');
+});
+$('#video-massey-recruitment-2').on('click', function(){
+    VideoManager.openModal('A6xz7oJhzS0');
+});
+$('#video-summer-cycling').on('click', function(){
+    VideoManager.openModal('842WKuT_FEw');
+});
+$('#video-drive-karma').on('click', function(){
+    VideoManager.openModal('59y6N7lSJTE');
+});
+$('#video-alcohol-awareness').on('click', function(){
+    VideoManager.openModal('spEMC0lUsBI');
+});

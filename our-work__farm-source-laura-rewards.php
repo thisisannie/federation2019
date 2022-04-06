@@ -32,7 +32,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="project-feature-image">
-                    <img src="img/page--results__farm-source-laura-rewards/laura-rewards-photo.jpg" alt="" class="project-feature-image__photo">
+                    <img src="img/results/farm-source-laura-rewards/laura-rewards-photo.jpg" alt="" class="project-feature-image__photo">
                 </div>
             </div>
         </div>
@@ -41,7 +41,7 @@
         <div class="section section--white project-detail">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-2">
+                    <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-1">
                         <div class="project-detail__tag-container">
                             <ul class="project-detail__tags animate--stagger-left">
                                 <li class="project-detail__item">CRM Strategy</li>
@@ -52,7 +52,7 @@
                             <span class="project-detail__square" id="project-detail__square"></span>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-8 col-lg-7 col-xl-6 offset-xl-1">
+                    <div class="col-12 col-sm-8 col-lg-7 col-xl-7 offset-xl-1">
                         <div class="project-detail__description">
                             <p class="animate animate--fade-up-25">Farm Source Rewards is an awesome program that passes profit value back to farmers. It can open a world of rewards, but interest in it was lower than it should be. The solution: a comms program clearly explaining how FSR works, that’s engaging, surprising and sharable.</p>
                             <p class="animate animate--fade-up-25">Meet Laura Daniels, comedienne, dancer and actor, appearing here in the role of ‘City Girl wooed by Rewards’. Savvy and sassy Laura discovers these Farm Source Rewards can get you lots of nice things, so she sets off to make herself eligible. The infotaining video series was released weekly along with direct deals and incentives.</p>
@@ -107,7 +107,7 @@
                                 <li data-slide="1" data-slide-title="Who is eligible" class="mini-slider__slide">
                                     <div class="feature-video feature" id="laura-rewards__video-a">
                                        <div class="feature-video__image-group">
-                                            <img src="img/page--results__farm-source-laura-rewards/video-a.jpg" alt="" class="feature-video__image">
+                                            <img src="img/results/farm-source-laura-rewards/video-a.jpg" alt="" class="feature-video__image">
                                             <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>
@@ -115,7 +115,7 @@
                                 <li data-slide="2" data-slide-title="How do I earn?" class="mini-slider__slide">
                                     <div class="feature-video feature" id="laura-rewards__video-b">
                                        <div class="feature-video__image-group">
-                                            <img src="img/page--results__farm-source-laura-rewards/video-b.jpg" alt="" class="feature-video__image">
+                                            <img src="img/results/farm-source-laura-rewards/video-b.jpg" alt="" class="feature-video__image">
                                             <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>
@@ -123,7 +123,7 @@
                                 <li data-slide="3" data-slide-title="How do I redeem?" class="mini-slider__slide">
                                     <div class="feature-video feature" id="laura-rewards__video-c">
                                        <div class="feature-video__image-group">
-                                            <img src="img/page--results__farm-source-laura-rewards/video-c.jpg" alt="" class="feature-video__image">
+                                            <img src="img/results/farm-source-laura-rewards/video-c.jpg" alt="" class="feature-video__image">
                                             <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>
@@ -131,7 +131,7 @@
                                 <li data-slide="4" data-slide-title="The Farm Source Rewards Card" class="mini-slider__slide">
                                     <div class="feature-video feature" id="laura-rewards__video-d">
                                        <div class="feature-video__image-group">
-                                            <img src="img/page--results__farm-source-laura-rewards/video-d.jpg" alt="" class="feature-video__image">
+                                            <img src="img/results/farm-source-laura-rewards/video-d.jpg" alt="" class="feature-video__image">
                                             <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>
@@ -169,7 +169,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-5">
-                    <img src="img/page--results__farm-source-laura-rewards/ipad.png" alt="" class="animate animate--fade-up-25">
+                    <img src="img/results/farm-source-laura-rewards/ipad.png" alt="" class="animate animate--fade-up-25">
                 </div>
             </div>
         </div>
@@ -178,19 +178,19 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <a href="results__zoetis-ditch-the-itch" class="link-button section--project-next__button animate animate--fade-up-25">Next project</a>
+                    <a href="our-work__zoetis-ditch-the-itch" class="link-button section--project-next__button animate animate--fade-up-25">Next project</a>
                 </div>
             </div>
             <div class="row justify-content-center section--project-next__row">
                 <div class="col-12 col-sm-10 col-md-9">
-                    <a href="results__zoetis-ditch-the-itch" class="project-next-img">
+                    <a href="our-work__zoetis-ditch-the-itch" class="project-next-img">
                         <h2 class="visuallyhidden">Ditch the itch</h2>
                         <div class="project-next-img__text-mask project-next-img__text-mask--outer">
                             <div class="project-next-img__text project-next-img__text--outer">
                                 <span class="animate animate--slide-left-25">Ditch the itch</span>
                             </div>
                         </div>
-                        <img src="img/page--results/next-project--ditch-the-itch.jpg" alt="" class="project-next-img__image">
+                        <img src="img/results/next-project--ditch-the-itch.jpg" alt="" class="project-next-img__image">
                         <div class="project-next-img__text-mask project-next-img__text-mask--inner">
                            <div class="project-next-img__text project-next-img__text--inner">
                                 <span class="animate animate--slide-left-25">Ditch the itch</span>

@@ -31,7 +31,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="project-feature-image">
-                    <img src="img/page--projects__true-honey/banner.jpg" alt="" class="project-feature-image__photo">
+                    <img src="img/projects/true-honey/banner.jpg" alt="" class="project-feature-image__photo">
                 </div>
             </div>
         </div>
@@ -40,7 +40,7 @@
         <div class="section section--white project-detail">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-2">
+                    <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-1">
                         <div class="project-detail__tag-container">
                             <ul class="project-detail__tags animate--stagger-left" id="project-detail__tags">
                                 <li class="project-detail__item">Web Design</li>
@@ -52,7 +52,7 @@
                             <span class="project-detail__square" id="project-detail__square"></span>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-8 col-lg-7 col-xl-6 offset-xl-1">
+                    <div class="col-12 col-sm-8 col-lg-7 col-xl-7 offset-xl-1">
                         <div class="project-detail__description">
                             <p class="animate animate--fade-up-25">The True Honey Co. understand that there is something special about Mānuka honey and they take their responsibilities to the New Zealand environment very seriously. This care and attention has led them to producing some of the best Mānuka honey in the world, including the world’s highest rated Mānuka honey. We wanted to give The True Honey Co. the perfect vehicle in which to tell their story and make their product available to the world. We wanted to present them as a premium brand so it was clear as soon as you visit the site, you are buying something special.</p>
                             <p class="animate animate--fade-up-25">We started from the ground up, assessing different e-commerce platforms and finding the most secure platform we could. Using Shopify as our starting point, we integrated this with The True Honey Co.’s existing warehousing and distribution platforms, as well as partnering the site with Ominisend, giving them, fully automated email communications. Once live, we ran a campaign through Social media, display and native to promote the new site and drive customer acquisition. With a smoother UX, we are seeing repeat visits and purchases made, along with an increase in new customers.</p>
@@ -93,8 +93,8 @@
 				<div class="row justify-content-center">
 					<div class="col-12 col-md-10">
 						<div class="website-images">
-							<img src="img/page--projects__true-honey/website.jpg" alt="" class="website animate animate--fade-up-25">
-							<img src="img/page--projects__true-honey/phone.png" alt="" class="phone animate animate--fade-up-25">
+							<img src="img/projects/true-honey/website.jpg" alt="" class="website animate animate--fade-up-25">
+							<img src="img/projects/true-honey/phone.png" alt="" class="phone animate animate--fade-up-25">
 						</div>
 					</div>
 				</div>
@@ -117,17 +117,17 @@
 							<h2 class="h2--small animate animate--fade-up-25">Photography</h2>
 							<p class="animate animate--fade-up-25">Clean photography style, making the product the hero.</p>
 						</div>
-						<img src="img/page--projects__true-honey/honeycomb.jpg" alt="" class="honeycomb animate animate--fade-up-25">
-						<img src="img/page--projects__true-honey/tab.jpg" alt="" class="tab animate animate--fade-up-25">
+						<img src="img/projects/true-honey/honeycomb.jpg" alt="" class="honeycomb animate animate--fade-up-25">
+						<img src="img/projects/true-honey/tab.jpg" alt="" class="tab animate animate--fade-up-25">
 					</div>
 					<div class="col-12 col-md-6 order-md-1">
 						<div class="feature-video animate animate--fade-up-25">
 							<div class="feature-video__image-group" id="true-honey-boxing-clever">
-	                            <img src="img/page--projects__true-honey/boxing-clever.jpg" alt="" class="feature-video__image boxing-clever">
+	                            <img src="img/projects/true-honey/boxing-clever.jpg" alt="" class="feature-video__image boxing-clever">
 	                            <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
 	                        </div>
 						</div>
-						<img src="img/page--projects__true-honey/850.jpg" alt="" class="boxes-850 animate animate--fade-up-25">
+						<img src="img/projects/true-honey/850.jpg" alt="" class="boxes-850 animate animate--fade-up-25">
 					</div>
 				</div>
 			</div>
@@ -148,7 +148,7 @@
 									<span class="animate animate--slide-left-25">Lozenge launch</span>
 								</div>
 							</div>
-							<img src="img/page--results/next-project--lozenge-launch.jpg" alt="" class="project-next-img__image">
+							<img src="img/results/next-project--lozenge-launch.jpg" alt="" class="project-next-img__image">
 							<div class="project-next-img__text-mask project-next-img__text-mask--inner">
 							<div class="project-next-img__text project-next-img__text--inner">
 									<span class="animate animate--slide-left-25">Lozenge launch</span>

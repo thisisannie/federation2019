@@ -29,7 +29,7 @@
         </div>
     </div>
     <div class="section section--black section--banner section--change-agents-banner">
-        <img src="img/page--latest__tony/tony.jpg" alt="" class="feature-image">
+        <img src="img/news/tony/tony.jpg" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">

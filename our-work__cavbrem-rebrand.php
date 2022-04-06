@@ -32,12 +32,12 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="project-feature-image">
-                    <img src="img/page--results__cavbrem-rebrand/snow.jpg" alt="" class="project-feature-image__photo">
+                    <img src="img/results/cavbrem-rebrand/snow.jpg" alt="" class="project-feature-image__photo">
                     <div class="best-logo-container">
                         <div class="container">
                             <div class="row">
                                 <div class="col-12 offset-lg-1 offset-xl-2">
-                                    <img src="img/page--results__cavbrem-rebrand/best-logo.png" alt="" class="best-logo">
+                                    <img src="img/results/cavbrem-rebrand/best-logo.png" alt="" class="best-logo">
                                 </div>
                             </div>
                         </div>
@@ -50,7 +50,7 @@
         <div class="section section--white project-detail">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-2">
+                    <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-1">
                         <div class="project-detail__tag-container">
                             <ul class="project-detail__tags animate--stagger-left">
                                 <li class="project-detail__item">Brand Strategy</li>
@@ -63,7 +63,7 @@
                             <span class="project-detail__square" id="project-detail__square"></span>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-8 col-lg-7 col-xl-6 offset-xl-1">
+                    <div class="col-12 col-sm-8 col-lg-7 col-xl-7 offset-xl-1">
                         <div class="project-detail__description">
                             <p class="animate animate--fade-up-25">When Cavalier Bremworth created two innovative and sustainable Solution Dyed Nylon carpets they looked to Federation for a category breaking re-launch that would create a rapid shift in consumer perceptions. The iconic and memorable brand campaign embodied the gravity of their decision to redefine their business from the inside out. A World of Difference became an internal mantra as well as a consumer promise, extending effortlessly into each brand touch point.</p>
                             <p class="animate animate--fade-up-25">Research showed our target market took decisions around the brand, cut and style of their carpet in the same way they choose their personal fashion style.</p>
@@ -107,7 +107,7 @@
                 <div class="col-12 col-md-10">
                     <div class="feature-video feature animate animate--fade-up-25" id="cavbrem-rebrand__feature-video">
                        <div class="feature-video__image-group">
-                            <img src="img/page--results__cavbrem-rebrand/video-feature.jpg" alt="" class="feature-video__image">
+                            <img src="img/results/cavbrem-rebrand/video-feature.jpg" alt="" class="feature-video__image">
                             <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
                         </div>
                     </div>
@@ -127,13 +127,13 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-10">
-                    <img src="img/page--results__cavbrem-rebrand/website-desktop.jpg" alt="" class="website-desktop-img animate animate--fade-up-25">
+                    <img src="img/results/cavbrem-rebrand/website-desktop.jpg" alt="" class="website-desktop-img animate animate--fade-up-25">
                 </div>
             </div>
             <div class="row">
                 <div class="col-12 col-sm-6 col-md-6">
-                    <img src="img/page--results__cavbrem-rebrand/website-search.png" alt="" class="website-search-img animate animate--fade-up-25">
-                    <img src="img/page--results__cavbrem-rebrand/website-inspiration.jpg" alt="" class="website-search-img animate animate--fade-up-25">
+                    <img src="img/results/cavbrem-rebrand/website-search.png" alt="" class="website-search-img animate animate--fade-up-25">
+                    <img src="img/results/cavbrem-rebrand/website-inspiration.jpg" alt="" class="website-search-img animate animate--fade-up-25">
                 </div>
                 <div class="col-12 col-sm-6 col-md-5">
                     <div class="text-group">
@@ -142,7 +142,7 @@
                         <p class="animate animate--fade-up-25">We empowered customers with impartial advice and helpful tools like the Buying Guide, In-store Checklist and Carpet Selector. Users could save their favourite carpets to a Wishlist and order free samples too – getting carpets into the homes of potential customers even before they've visited a store.</p>
                         <a href="https://www.cavbrem.co.nz/" target="_blank" class="button button--red animate animate--fade-up-25">Launch site</a>
                     </div>
-                    <img src="img/page--results__cavbrem-rebrand/ipad.png" alt="" class="website-ipad animate animate--fade-up-25">
+                    <img src="img/results/cavbrem-rebrand/ipad.png" alt="" class="website-ipad animate animate--fade-up-25">
                 </div>
             </div>
         </div>
@@ -156,11 +156,11 @@
                         <p class="animate animate--fade-up-25">Cutting though at the retail level is a tough challenge, where competition is fierce and where large competitor brands often incentivise the sales staff to sell their products over any other.</p>
                         <p class="animate animate--fade-up-25">Our challenge was to make Cavalier Bremworth so irresistible to the consumer, that sales intervention is futile. Our bold new point of sale stands, with integrated iPads for online ordering, have proved very popular with the sales team and customers alike.</p>
                     </div>
-                    <img src="img/page--results__cavbrem-rebrand/Cav-Brem-POS-589x557_v1@2x.jpg" alt="" class="booklet-bags-b animate animate--fade-up-25 d-none d-sm-block">
+                    <img src="img/results/cavbrem-rebrand/Cav-Brem-POS-589x557_v1@2x.jpg" alt="" class="booklet-bags-b animate animate--fade-up-25 d-none d-sm-block">
                 </div>
                 <div class="col-12 col-sm-6 col-md-5 offset-md-1">
-                    <img src="img/page--results__cavbrem-rebrand/Cav-Brem-POS-603x421_v1@2x.jpg" alt="" class="booklet-bags-a animate animate--fade-up-25">
-                    <img src="img/page--results__cavbrem-rebrand/Cav-Brem-POS-589x557_v1@2x.jpg" alt="" class="booklet-bags-b animate animate--fade-up-25 d-sm-none">
+                    <img src="img/results/cavbrem-rebrand/Cav-Brem-POS-603x421_v1@2x.jpg" alt="" class="booklet-bags-a animate animate--fade-up-25">
+                    <img src="img/results/cavbrem-rebrand/Cav-Brem-POS-589x557_v1@2x.jpg" alt="" class="booklet-bags-b animate animate--fade-up-25 d-sm-none">
                 </div>
             </div>
         </div>
@@ -169,19 +169,19 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <a href="results__farm-source-laura-rewards" class="link-button section--project-next__button animate animate--fade-up-25">Next project</a>
+                    <a href="our-work__farm-source-laura-rewards" class="link-button section--project-next__button animate animate--fade-up-25">Next project</a>
                 </div>
             </div>
             <div class="row justify-content-center section--project-next__row">
                 <div class="col-12 col-sm-10 col-md-9">
-                    <a href="results__farm-source-laura-rewards" class="project-next-img">
+                    <a href="our-work__farm-source-laura-rewards" class="project-next-img">
                         <h2 class="visuallyhidden">Laura Rewards</h2>
                         <div class="project-next-img__text-mask project-next-img__text-mask--outer">
                             <div class="project-next-img__text project-next-img__text--outer">
                                 <span class="animate animate--slide-left-25">Laura Rewards</span>
                             </div>
                         </div>
-                        <img src="img/page--results/next-project--laura-rewards.jpg" alt="" class="project-next-img__image">
+                        <img src="img/results/next-project--laura-rewards.jpg" alt="" class="project-next-img__image">
                         <div class="project-next-img__text-mask project-next-img__text-mask--inner">
                            <div class="project-next-img__text project-next-img__text--inner">
                                 <span class="animate animate--slide-left-25">Laura Rewards</span>

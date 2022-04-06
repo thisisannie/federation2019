@@ -1,7 +1,7 @@
 <footer>
 <div class="footer">
     <a href="index"><img src="img/logo.png" alt="" class="footer__logo"></a>
-    <a href="contact" class="footer__link-button">Let’s talk&nbsp;<span>about your goals</span></a>
+    <a href="lets-talk" class="footer__link-button">Let’s talk&nbsp;<span>about your goals</span></a>
     <a href="https://www.linkedin.com/company/federation./?originalSubdomain=nz" target="_blank"><img src="img/linkedin.png" alt="" class="footer__linkedin"></a>
 </div>
 </footer>
@@ -20,7 +20,7 @@
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDtDZugGhHDXI_xfMPMaku1KuZhZluModA"></script>
 <script src="https://www.youtube.com/player_api"></script>
 <script src="js/google-map.js"></script>
-<script src="js/video-manager.js"></script>
+<script src="js/video-manager.js?v2"></script>
 <script src="js/animation.js"></script>
 <script src="js/main.js"></script>
 

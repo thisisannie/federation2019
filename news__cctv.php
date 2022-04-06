@@ -29,13 +29,13 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="img/page--recent-news__cctv/Header-Image-1400x600.jpg" alt="" class="feature-image">
+        <img src="img/news/cctv/Header-Image-1400x600.jpg" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
             <div class="row justify-content-center">
 <!--
-                <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-2">
+                <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-1">
                     <div class="project-detail__tag-container">
                         <ul class="project-detail__tags animate--stagger-left">
                             <li class="project-detail__item">???</li>
@@ -49,7 +49,7 @@
                     </div>
                 </div>
 -->
-                <div class="col-12 col-sm-8 col-lg-7 col-xl-6">
+                <div class="col-12 col-sm-8 col-lg-7 col-xl-7">
                     <div class="project-detail__description">
                         <p class="animate animate--fade-up-25">Auckland Transport wanted to let people know that a new network of CCTV cameras had been installed in bus lanes on all the major routes in the city. Any unauthorized car driver caught in one now faced an immediate $150 fine.</p>
                         <p class="animate animate--fade-up-25">The challenge was to get this message across in a noticeable way that was not nagging or threatening in tone. The use of humour helps the message to be hard hitting without being authoritarian.</p>
@@ -63,7 +63,7 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-10">
-                        <img src="img/page--recent-news__cctv/Img-946x495.jpg" alt="">
+                        <img src="img/news/cctv/Img-946x495.jpg" alt="">
                     </div>
                 </div>
             </div>

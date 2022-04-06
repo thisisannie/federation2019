@@ -31,7 +31,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="project-feature-image">
-                    <img src="img/page--results__at-summer-cycling/banner.jpg" alt="" class="project-feature-image__photo">
+                    <img src="img/results/at-summer-cycling/banner.jpg" alt="" class="project-feature-image__photo">
                 </div>
             </div>
         </div>
@@ -40,7 +40,7 @@
         <div class="section section--white project-detail">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-2">
+                    <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-1">
                         <div class="project-detail__tag-container">
                             <ul class="project-detail__tags" id="project-detail__tags">
                                 <li class="project-detail__item">Behaviour Change Strategy</li>
@@ -53,7 +53,7 @@
                             <span class="project-detail__square" id="project-detail__square"></span>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-8 col-lg-7 col-xl-6 offset-xl-1">
+                    <div class="col-12 col-sm-8 col-lg-7 col-xl-7 offset-xl-1">
                         <div class="project-detail__description">
                             <p class="animate animate--fade-up-25">Cycling in Auckland has really gathered momentum over the last five years. Our behaviour changing journey with Auckland Transport Cycling began with the ‘Love My Ride’ advocate campaign. Next stage was to hero the infrastructure and cool places to enjoy ‘Life in the Bike Lane’.</p>
                             <p class="animate animate--fade-up-25">‘Live the Bike Life’ is the current iteration underlining the rational and emotional benefits of a life lived by bike. All the way our strategy has been to keep it real and make sure cycling in Auckland is seen as a practical and fun opportunity for everyone, not just greying guys squeezed in to lycra.</p>
@@ -100,16 +100,16 @@
                         <h2 class="h2--small animate animate--fade-up-25">OOH</h2>
                         <p class="animate animate--fade-up-25">Selling the rational and physiological virtues of the bike life. Targeting city car commuters and public transport users.</p>
                     </div>
-                    <img src="img/page--results__at-summer-cycling/phase-3b.jpg" alt="" class="phase-3b animate animate--fade-up-25">
+                    <img src="img/results/at-summer-cycling/phase-3b.jpg" alt="" class="phase-3b animate animate--fade-up-25">
                 </div>
                 <div class="col-12 col-sm-6 col-md-5 offset-md-1">
-                    <img src="img/page--results__at-summer-cycling/phase-3a.jpg" alt="" class="phase-3a animate animate--fade-up-25">
-                    <img src="img/page--results__at-summer-cycling/phase-3c.jpg" alt="" class="phase-3c animate animate--fade-up-25">
+                    <img src="img/results/at-summer-cycling/phase-3a.jpg" alt="" class="phase-3a animate animate--fade-up-25">
+                    <img src="img/results/at-summer-cycling/phase-3c.jpg" alt="" class="phase-3c animate animate--fade-up-25">
                 </div>
             </div>
             <div class="row">
                 <div class="col-12 col-sm-6 col-md-5 offset-md-1 order-2 order-sm-1">
-                    <img src="img/page--results__at-summer-cycling/phase-3d.jpg" alt="" class="phase-3d animate animate--fade-up-25">
+                    <img src="img/results/at-summer-cycling/phase-3d.jpg" alt="" class="phase-3d animate animate--fade-up-25">
                 </div>
                 <div class="col-12 col-sm-6 order-1 order-sm-2">
                     <div class="text-group">
@@ -148,21 +148,21 @@
                     </div>
                     <div class="col-12 col-sm-5 offset-sm-1 col-md-5 offset-md-1">
                         <div class="phone-wrapper animate animate--fade-up-25">
-                            <img src="img/page--results__at-summer-cycling/phone-bg.png" alt="" class="phone-bg">
+                            <img src="img/results/at-summer-cycling/phone-bg.png" alt="" class="phone-bg">
                             <div class="mini-slider__slides-mask">
                                 <ul class="mini-slider__slides">
                                     <li data-slide="1" class="mini-slider__slide">
-                                        <img src="img/page--results__at-summer-cycling/snapchat-geofilter-b.png" alt="" class="phone-video__image">
+                                        <img src="img/results/at-summer-cycling/snapchat-geofilter-b.png" alt="" class="phone-video__image">
                                     </li>
                                     <li data-slide="2" class="mini-slider__slide">
-                                        <img src="img/page--results__at-summer-cycling/snapchat-geofilter-c.png" alt="" class="phone-video__image">
+                                        <img src="img/results/at-summer-cycling/snapchat-geofilter-c.png" alt="" class="phone-video__image">
                                     </li>
                                     <li data-slide="3" class="mini-slider__slide">
-                                        <img src="img/page--results__at-summer-cycling/snapchat-geofilter-d.png" alt="" class="phone-video__image">
+                                        <img src="img/results/at-summer-cycling/snapchat-geofilter-d.png" alt="" class="phone-video__image">
                                     </li>
                                 </ul>
                             </div>
-                            <img src="img/page--results__at-summer-cycling/phone.png" alt="" class="phone">
+                            <img src="img/results/at-summer-cycling/phone.png" alt="" class="phone">
                         </div>
                         <div class="mini-slider__mobile-nav-wrapper"></div>
                     </div>
@@ -174,7 +174,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 col-sm-6 col-md-6 order-2 order-sm-1">
-                    <img src="img/page--results__at-summer-cycling/decals.png" alt="" class="animate animate--fade-up-25 decal">
+                    <img src="img/results/at-summer-cycling/decals.png" alt="" class="animate animate--fade-up-25 decal">
                 </div>
                 <div class="col-12 col-sm-6 col-md-5 d-flex align-items-center order-1 order-sm-2">
                     <div class="text-group">
@@ -212,19 +212,19 @@
                                 <ul class="mini-slider__slides">
                                     <li data-slide="1" class="mini-slider__slide">
                                         <div class="phone-video__image-group" id="bike-life-1">
-                                            <img src="img/page--results__at-summer-cycling/snap_pink.jpg" alt="" class="phone-video__image">
+                                            <img src="img/results/at-summer-cycling/snap_pink.jpg" alt="" class="phone-video__image">
                                             <img src="img/video-play-btn.png" alt="" class="phone-video__play-btn">
                                         </div>
                                     </li>
                                     <li data-slide="2" class="mini-slider__slide">
-                                        <img src="img/page--results__at-summer-cycling/snap_lightpath.jpg" alt="" class="phone-video__image">
+                                        <img src="img/results/at-summer-cycling/snap_lightpath.jpg" alt="" class="phone-video__image">
                                     </li>
                                     <li data-slide="3" class="mini-slider__slide">
-                                        <img src="img/page--results__at-summer-cycling/snap_rainbow.jpg" alt="" class="phone-video__image">
+                                        <img src="img/results/at-summer-cycling/snap_rainbow.jpg" alt="" class="phone-video__image">
                                     </li>
                                 </ul>
                             </div>
-                            <img src="img/page--results__at-summer-cycling/phone-full.png" alt="" class="phone">
+                            <img src="img/results/at-summer-cycling/phone-full.png" alt="" class="phone">
                         </div>
                         <div class="mini-slider__mobile-nav-wrapper"></div>
                     </div>
@@ -237,7 +237,7 @@
             <div class="row">
                 <div class="col-12 col-sm-6 col-md-5 offset-md-1 d-flex align-items-center order-2 order-sm-1">
                     <div class="phone-video__image-group" id="bike-life-fb-1">
-                        <img src="img/page--results__at-summer-cycling/fb-post-image-a.jpg" alt="" class="phone-video__image">
+                        <img src="img/results/at-summer-cycling/fb-post-image-a.jpg" alt="" class="phone-video__image">
                         <img src="img/video-play-btn.png" alt="" class="phone-video__play-btn">
                     </div>
                 </div>
@@ -261,7 +261,7 @@
                 <div class="col-12 col-md-10">
                     <div class="feature-video feature animate animate--fade-up-25" id="summer-cycling">
                        <div class="feature-video__image-group">
-                            <img src="img/page--results__at-summer-cycling/video-feature.jpg" alt="" class="feature-video__image">
+                            <img src="img/results/at-summer-cycling/video-feature.jpg" alt="" class="feature-video__image">
                             <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
                         </div>
                     </div>
@@ -281,7 +281,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-10">
-                    <img src="img/page--results__at-summer-cycling/ooh.jpg" alt="">
+                    <img src="img/results/at-summer-cycling/ooh.jpg" alt="">
                 </div>
             </div>
             <div class="row">
@@ -298,19 +298,19 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <a href="results__ateed-elemental" class="link-button section--project-next__button">Next project</a>
+                    <a href="our-work__ateed-elemental" class="link-button section--project-next__button">Next project</a>
                 </div>
             </div>
             <div class="row justify-content-center section--project-next__row">
                 <div class="col-12 col-sm-10 col-md-9">
-                    <a href="results__ateed-elemental" class="project-next-img">
+                    <a href="our-work__ateed-elemental" class="project-next-img">
                         <h2 class="visuallyhidden">Elemental</h2>
                         <div class="project-next-img__text-mask project-next-img__text-mask--outer">
                             <div class="project-next-img__text project-next-img__text--outer">
                                 <span class="animate animate--slide-left-25">Elemental</span>
                             </div>
                         </div>
-                        <img src="img/page--results/next-project--elemental.jpg" alt="" class="project-next-img__image">
+                        <img src="img/results/next-project--elemental.jpg" alt="" class="project-next-img__image">
                         <div class="project-next-img__text-mask project-next-img__text-mask--inner">
                             <div class="project-next-img__text project-next-img__text--inner">
                                 <span class="animate animate--slide-left-25">Elemental</span>

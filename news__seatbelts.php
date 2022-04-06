@@ -27,13 +27,13 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="img/page--recent-news__seatbelts/Header-Image-1400x600.jpg" alt="" class="feature-image">
+        <img src="img/news/seatbelts/Header-Image-1400x600.jpg" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
             <div class="row justify-content-center">
 <!--
-                <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-2">
+                <div class="col-12 col-sm-4 col-lg-3 offset-lg-1 col-xl-2 offset-xl-1">
                     <div class="project-detail__tag-container">
                         <ul class="project-detail__tags animate--stagger-left">
                             <li class="project-detail__item">???</li>
@@ -47,7 +47,7 @@
                     </div>
                 </div>
 -->
-                <div class="col-12 col-sm-8 col-lg-7 col-xl-6">
+                <div class="col-12 col-sm-8 col-lg-7 col-xl-7">
                     <div class="project-detail__description">
                         <p class="animate animate--fade-up-25">Auckland Transport wanted to target their seatbelts message to young men 17 – 25 year olds in the city and Greater Auckland area. This audience do not respond to standard negative public safety messaging. But they do listen to role models and their sporting heroes.</p>
                         <p class="animate animate--fade-up-25">We enlisted the help of League and Rugby players from teams closest to the hearts of our audience. The Vodafone Warriors and Auckland Blues. The message was “We can take the knocks on the field, but not on the road. Seatbelts save lives.” We created a 30” social video, a suite of digital assets and radio. We also took it outdoors with billboards, adshels and bus-backs in targeted areas.</p>
@@ -66,16 +66,16 @@
                                 <li data-slide="1" data-slide-title="Title-1" data-slide-paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam." class="mini-slider__slide">
                                     <div class="feature-video feature" id="seatbelts__video">
                                        <div class="feature-video__image-group">
-                                            <img src="img/page--recent-news__seatbelts/Video-01-946x495.jpg" alt="" class="feature-video__image">
+                                            <img src="img/news/seatbelts/Video-01-946x495.jpg" alt="" class="feature-video__image">
                                             <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>
                                 <li data-slide="2" data-slide-title="Title-2" data-slide-paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.-2" class="mini-slider__slide">
-                                    <img src="img/page--recent-news__seatbelts/Img-02-946x495.jpg" alt="">
+                                    <img src="img/news/seatbelts/Img-02-946x495.jpg" alt="">
                                 </li>
                                 <li data-slide="3" data-slide-title="Title-3" data-slide-paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.-3" class="mini-slider__slide">
-                                    <img src="img/page--recent-news__seatbelts/Img-03-946x495.jpg" alt="">
+                                    <img src="img/news/seatbelts/Img-03-946x495.jpg" alt="">
                                 </li>
                             </ul>
                         </div>

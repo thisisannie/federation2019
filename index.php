@@ -44,7 +44,7 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-md-8">
                     <p class="animate animate--fade-up-25">Welcome to Federation. We are the fully integrated 100% New Zealand agency partnering with local and global brands to deliver transformative business results. We create marketing campaigns and solutions for the challenges you have right now and the opportunities you have next. We combine strategy and creativity with human data to create ideas for real people in the real world we live in now.</p>
-                    <a href="results" class="button button--red-inverse animate animate--fade-up-25">See our case studies</a>
+                    <a href="our-work" class="button button--red-inverse animate animate--fade-up-25">See our case studies</a>
                 </div>
             </div>
         </div>            
@@ -217,7 +217,7 @@
             <div class="row intro">
                 <div class="col-12 col-sm-6 offset-sm-1">
                     <p class="animate animate--fade-up-25">Find out what Federation has been up to lately. We’ll keep you posted on our latest projects, events and happenings.</p>
-                    <a href="recent-news" class="button button--red d-none d-sm-inline-block animate animate--fade-up-25">More latest news</a>
+                    <a href="news" class="button button--red d-none d-sm-inline-block animate animate--fade-up-25">More latest news</a>
                 </div>
             </div>
             <div class="row">
@@ -232,7 +232,7 @@
                                     </div>
                                 </div>
                                 <div class="news-article__image-mask">
-                                    <img src="img/page--recent-news__mobile-moment/article.jpg" alt="" class="news-article__image">
+                                    <img src="img/news/at-mobile-moment/article.jpg" alt="" class="news-article__image">
                                 </div>
                                 <div class="news-article__text-mask news-article__text-mask--inner">
                                     <div class="news-article__text news-article__text--inner">
@@ -256,7 +256,7 @@
                                     </div>
                                 </div>
                                 <div class="news-article__image-mask">
-                                    <img src="img/page--recent-news__the-blues/article.png" alt="" class="news-article__image">
+                                    <img src="img/news/the-blues/article.png" alt="" class="news-article__image">
                                 </div>
                                 <div class="news-article__text-mask news-article__text-mask--inner">
                                     <div class="news-article__text news-article__text--inner">
@@ -272,7 +272,7 @@
             </div>
             <div class="row">
                 <div class="col-12 col-sm-6 offset-sm-1">
-                    <a href="recent-news" class="button button--red d-inline-block d-sm-none animate animate--fade-up-25">More latest news</a>
+                    <a href="news" class="button button--red d-inline-block d-sm-none animate animate--fade-up-25">More latest news</a>
                 </div>
             </div>
         </div>
