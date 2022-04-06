@@ -98,28 +98,6 @@
 				<li class="horizontal-scroller__item">
                     <div class="profile-item">
                         <div class="image-box">
-                            <img src="img/page--about/staff-photos_julia.jpg" alt="" class="image">
-                            <span class="close-btn"></span>
-                        </div>
-                        <p class="name">Julia Davies<br>
-                        <span class="title">Business Director</span></p>
-                        <p class="description">After living in London for the past 4 years, managing campaigns for Virgin Media, diversity awareness for Barclays Bank, and social media campaigns for LADbible, Julia couldn’t be happier to be back home in NZ! Julia loves the beautiful empty beaches, getting out on the water and exploring new bush walks. On the weekends you can find her in the Coromandel visiting family, attempting to learn to surf, or practicing yoga, her new obsession since becoming a qualified teacher in India last year.</p>
-                    </div>
-                </li>
-                <li class="horizontal-scroller__item">
-                    <div class="profile-item">
-                        <div class="image-box">
-                            <img src="img/page--about/staff-photos_laura.jpg" alt="" class="image">
-                            <span class="close-btn"></span>
-                        </div>
-                        <p class="name">Laura Beadle<br>
-                        <span class="title">Account Manager</span></p>
-                        <p class="description">Since joining Federation, Laura has created a reputation as the agency’s pocket rocket – racing through large workloads with exacting precision and speed. Laura joined Federation from Stanley Street where she worked across a portfolio of large, fast paced retail accounts.</p>
-                    </div>
-                </li>
-				<li class="horizontal-scroller__item">
-                    <div class="profile-item">
-                        <div class="image-box">
                             <img src="img/page--about/maddie_bu.jpg" alt="" class="image">
                             <span class="close-btn"></span>
                         </div>
@@ -216,17 +194,6 @@
                         <p class="description">Gene has been into Design since his teenage years. During his career he has gained a broad range of experience in the digital sphere. He loves a good creative digital challenge, believes in constant improvement and bringing the best possible experience for the end user. In his spare time he enjoys crate diving for vinyl & whipping up a storm in the kitchen.</p>
                     </div>
                 </li>
-				<li class="horizontal-scroller__item">
-                    <div class="profile-item">
-                        <div class="image-box">
-                            <img src="img/page--about/Julie.jpg" alt="" class="image">
-                            <span class="close-btn"></span>
-                        </div>
-                        <p class="name">Julie Ballereau<br>
-                        <span class="title">Art Director</span></p>
-                        <p class="description">An Art Director for more than 10 years Julie’s career has taken her around the globe. From her native France through South Korea all the way down to beautiful Aotearoa. On top of a glowing reputation forged in the beauty and luxury space she has worked on campaigns for global and local brands including Netflix, Samsung, Huawawei. Julie is a self proclaimed nerd, straddling new technology, manga, and even has a gaming room.</p>
-                    </div>
-                </li>
                 <li class="horizontal-scroller__item">
                     <div class="profile-item">
                         <div class="image-box">
@@ -271,17 +238,6 @@
 						<p class="description">After spending time in London working on product launch and brand campaigns for Apple, Ollie has rejoined our client service team. He has a particular interest in sports marketing, brand strategy and creative execution. Having also worked on Spark, Volvo and Vodafone, Ollie has an impressive array of experience.</p>
 					</div>
 				</li>
-				<li class="horizontal-scroller__item">
-                    <div class="profile-item">
-                        <div class="image-box">
-                            <img src="img/page--about/staff-photos_simon.jpg" alt="" class="image">
-                            <span class="close-btn"></span>
-                        </div>
-                        <p class="name">Simon Velk<br>
-                        <span class="title">Business Director</span></p>
-                        <p class="description">Simon Velk joined our team from the UK, where he worked extensively with global technology clients. He has outstanding experience in digital, social, data, direct marketing, customer journey and inbound marketing. His specialist skills include Inbound marketing and customer journey for sale conversion campaigns. His thorough approach and CX knowledge add depth to Federation’s offering.</p>
-                    </div>
-                </li>
             </ul>
         </div>
         
@@ -391,19 +347,6 @@
                 </div>
                 <p class="description">Gene has been into Design since his teenage years. During his career he has gained a broad range of experience in the digital sphere. He loves a good creative digital challenge, believes in constant improvement and bringing the best possible experience for the end user. In his spare time he enjoys crate diving for vinyl & whipping up a storm in the kitchen.</p>
             </div>
-			<div class="profile-item">
-				<div class="image-box">
-					<img src="img/page--about/Julie.jpg" alt="" class="image">
-					<span class="close-btn"></span>
-				</div>
-				<p class="name">Julie Ballereau<br>
-				<span class="title">Art Director</span></p>
-				<div class="more-button-container">
-                    <div class="profile-button profile-button--see-more">See more</div>
-                    <div class="profile-button profile-button--close d-none">Close</div>
-                </div>
-				<p class="description">An Art Director for more than 10 years Julie’s career has taken her around the globe. From her native France through South Korea all the way down to beautiful Aotearoa. On top of a glowing reputation forged in the beauty and luxury space she has worked on campaigns for global and local brands including Netflix, Samsung, Huawawei. Julie is a self proclaimed nerd, straddling new technology, manga, and even has a gaming room.</p>
-			</div>
             <div class="profile-item">
 				<div class="image-box">
 					<img src="img/page--about/Phoebe.jpg" alt="" class="image">
@@ -456,45 +399,6 @@
                 </div>
 				<p class="description">After spending time in London working on product launch and brand campaigns for Apple, Ollie has rejoined our client service team. He has a particular interest in sports marketing, brand strategy and creative execution. Having also worked on Spark, Volvo and Vodafone, Ollie has an impressive array of experience.</p>
 			</div>
-            <div class="profile-item">
-                <div class="image-box">
-                    <img src="img/page--about/staff-photos_simon.jpg" alt="" class="image">
-                    <span class="close-btn"></span>
-                </div>
-                <p class="name">Simon Velk<br>
-                <span class="title">Business Director</span></p>
-                <div class="more-button-container">
-                    <div class="profile-button profile-button--see-more">See more</div>
-                    <div class="profile-button profile-button--close d-none">Close</div>
-                </div>
-                <p class="description">Simon Velk joined our team from the UK, where he worked extensively with global technology clients. He has outstanding experience in digital, social, data, direct marketing, customer journey and inbound marketing. His specialist skills include Inbound marketing and customer journey for sale conversion campaigns. His thorough approach and CX knowledge add depth to Federation’s offering.</p>
-            </div>
-			<div class="profile-item">
-				<div class="image-box">
-					<img src="img/page--about/staff-photos_julia.jpg" alt="" class="image">
-					<span class="close-btn"></span>
-				</div>
-				<p class="name">Julia Davies<br>
-				<span class="title">Business Director</span></p>
-				<div class="more-button-container">
-                    <div class="profile-button profile-button--see-more">See more</div>
-                    <div class="profile-button profile-button--close d-none">Close</div>
-                </div>
-				<p class="description">After living in London for the past 4 years, managing campaigns for Virgin Media, diversity awareness for Barclays Bank, and social media campaigns for LADbible, Julia couldn’t be happier to be back home in NZ! Julia loves the beautiful empty beaches, getting out on the water and exploring new bush walks. On the weekends you can find her in the Coromandel visiting family, attempting to learn to surf, or practicing yoga, her new obsession since becoming a qualified teacher in India last year.</p>
-			</div>
-            <div class="profile-item">
-                <div class="image-box">
-                    <img src="img/page--about/staff-photos_laura.jpg" alt="" class="image">
-                    <span class="close-btn"></span>
-                </div>
-                <p class="name">Laura Beadle<br>
-                <span class="title">Account Manager</span></p>
-                <div class="more-button-container">
-                    <div class="profile-button profile-button--see-more">See more</div>
-                    <div class="profile-button profile-button--close d-none">Close</div>
-                </div>
-                <p class="description">Since joining Federation, Laura has created a reputation as the agency’s pocket rocket – racing through large workloads with exacting precision and speed. Laura joined Federation from Stanley Street where she worked across a portfolio of large, fast paced retail accounts.</p>
-            </div>
 			<div class="profile-item">
 				<div class="image-box">
 					<img src="img/page--about/maddie_bu.jpg" alt="" class="image">
@@ -523,7 +427,7 @@
             <img src="img/page--about/true-honey.jpg" alt="" class="image-c">
         </div>
     </div>
-<!--
+
      <div class="section section--white section--clients">
         <div class="container">
             <div class="row">
@@ -580,7 +484,7 @@
                 </li>
             </ul>
         </div>
--->
+
 
     </div>
     
