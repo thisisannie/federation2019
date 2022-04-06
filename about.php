@@ -427,7 +427,7 @@
             <img src="img/page--about/true-honey.jpg" alt="" class="image-c">
         </div>
     </div>
-
+<!-- 
      <div class="section section--white section--clients">
         <div class="container">
             <div class="row">
@@ -483,7 +483,7 @@
                     <div class="client-logo-container"><img src="img/page--about/kings-college.png" class="logo"></div>
                 </li>
             </ul>
-        </div>
+        </div> -->
 
 
     </div>
