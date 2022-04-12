@@ -49,19 +49,19 @@
         }
         .feature-img__text {
             @media (min-width: 576px) {
-                font-size: 8.2vw;
+                font-size: 14vw;
                 top: 14%;
                 left: 0;
             }
-            @media (min-width: 768px) {
-                font-size: 8.2vw;
-            }
-            @media (min-width: 992px) {
-                font-size: 8.2vw;
-            }
-            @media (min-width: 1200px) {
-                font-size: 8.2vw;
-            }
+            // @media (min-width: 768px) {
+            //     font-size: 8.2vw;
+            // }
+            // @media (min-width: 992px) {
+            //     font-size: 8.2vw;
+            // }
+            // @media (min-width: 1200px) {
+            //     font-size: 8.2vw;
+            // }
         }
         .feature-img__text--mobile {
             position: absolute;

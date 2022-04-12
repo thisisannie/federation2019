@@ -39,10 +39,10 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col-12 col-sm-5">
-                    <div class="article--the-lab__profile-container simon">
-                        <img src="img/news/the-lab/simon.jpg" alt="Simon" class="article--the-lab__profile-img animate animate--fade-up-25">
-                        <p class="article--the-lab__profile-name animate animate--fade-up-25">Simon Velk<br>
-                        <span class="article--the-lab__profile-title animate animate--fade-up-25">Business Director</span></p>
+                    <div class="article--the-lab__profile-container daisy">
+                        <img src="img/news/daisy/lab_daisy.jpg" alt="Daisy Conroy-Botica" class="article--the-lab__profile-img animate animate--fade-up-25">
+                        <p class="article--the-lab__profile-name animate animate--fade-up-25">Daisy Conroy-Botica<br>
+                        <span class="article--the-lab__profile-title animate animate--fade-up-25">Digital and Social Lead</span></p>
                     </div>
                 </div>
                 <div class="col-12 col-sm-5">

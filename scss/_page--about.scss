@@ -129,10 +129,17 @@
         // @media (min-width: 992px) {
         //     padding-top: 140px;
         // }
+
         .feature-header {
             margin-bottom: 35px;
             @media (min-width: 576px) {
                 margin-bottom: 70px;
+            }
+            .feature-header__text {
+                font-size: 65px;
+                @media (max-width: 576px) {
+                    font-size: 40px;
+                }
             }
         }
         .founders {

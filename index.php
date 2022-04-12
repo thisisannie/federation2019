@@ -1,5 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+    function includeNewsItem($side, $title, $copy, $slug, $img) {
+        include('partials/news-item.php');
+    } 
+?>
 
+<?php include 'header.php'; ?>
 <?php include 'work-video.php'; ?>
 
 <div class="page page--home">   
@@ -7,18 +12,15 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="feature-img">
-                    <h1 class="visuallyhidden">Federation | Transforming brands, behaviours and results</h1>
+                    <h1 class="visuallyhidden">Federation | Leading Change</h1>
                     <div class="feature-img__text-mask feature-img__text-mask--outer">
                         <div class="feature-img__text feature-img__text--outer">
-                            <span class="animate animate--slide-right-25">Transforming brands,</span><br>
-                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;behaviours</span><br>
-                            <span class="animate animate--slide-right-25">and results</span>
+                            <span class="animate animate--slide-right-25">Leading</span><br>
+                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;change</span>
                         </div>
                         <div class="feature-img__text feature-img__text--mobile feature-img__text--outer">
-						<span class="animate animate--slide-right-25">Transforming</span><br>
-                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;brands,</span><br>
-                            <span class="animate animate--slide-right-25">behaviours</span><br>
-							<span class="animate animate--slide-left-25">&nbsp;&nbsp;and results</span>
+						<span class="animate animate--slide-right-25">Leading</span><br>
+                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;change</span>
                         </div>
                     </div>
                     <div class="feature-img__bgvideo-wrapper" id="feature-img__bgvideo-wrapper">
@@ -26,15 +28,12 @@
                     </div>
                     <div class="feature-img__text-mask feature-img__text-mask--inner">
                         <div class="feature-img__text feature-img__text--desktop feature-img__text--inner">
-                            <span class="animate animate--slide-right-25">Transforming</span><br>
-                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;brands, behaviours</span><br>
-                            <span class="animate animate--slide-right-25">and results</span>
+                            <span class="animate animate--slide-right-25">Leading</span><br>
+                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;change</span>
                         </div>
                         <div class="feature-img__text feature-img__text--mobile feature-img__text--inner">
-                            <span class="animate animate--slide-right-25">Transforming</span><br>
-                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;brands,</span><br>
-                            <span class="animate animate--slide-right-25">behaviours</span><br>
-							<span class="animate animate--slide-left-25">&nbsp;&nbsp;and results</span>
+                            <span class="animate animate--slide-right-25">Leading</span><br>
+                            <span class="animate animate--slide-left-25">&nbsp;&nbsp;change</span>
                         </div>
                     </div>
                 </div>
@@ -43,7 +42,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-8">
-                    <p class="animate animate--fade-up-25">Welcome to Federation. We are the fully integrated 100% New Zealand agency partnering with local and global brands to deliver transformative business results. We create marketing campaigns and solutions for the challenges you have right now and the opportunities you have next. We combine strategy and creativity with human data to create ideas for real people in the real world we live in now.</p>
+                    <p class="animate animate--fade-up-25">Welcome to Federation.  We are a leading, independent advertising agency in Aotearoa, New Zealand. We create marketing solutions for the challenges you have now - and the opportunities you have next. Let us help you navigate your next move.</p>
                     <a href="our-work" class="button button--red-inverse animate animate--fade-up-25">See our case studies</a>
                 </div>
             </div>
@@ -221,7 +220,23 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-12 col-sm-6 col-md-5 news-col">
+                <?php 
+                    includeNewsItem(
+                        "left",
+                        "Massey",
+                        "Federation Wins Massey University Account After 4-Way Pitch.",
+                        "massey",
+                        "massey-posters-thumb_v2.png"
+                    );
+                    includeNewsItem(
+                        "right",
+                        "Maritime NZ",
+                        "Maritime NZ taps Federation as new behaviour-change agency.",
+                        "maritime",
+                        "thumb_maritime.jpg"
+                    );
+                ?>
+                <!-- <div class="col-12 col-sm-6 col-md-5 news-col">
                     <div class="news-article news-article--left">
 						<a href="news__at-mobile-moment" class="news-article__link">
                             <div class="news-article__feature-img">   
@@ -269,7 +284,7 @@
                         </a>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div class="row">
                 <div class="col-12 col-sm-6 offset-sm-1">
                     <a href="news" class="button button--red d-inline-block d-sm-none animate animate--fade-up-25">More latest news</a>
