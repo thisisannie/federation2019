@@ -30,7 +30,7 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="img/news/suncorp/Header-Image-1400x600.jpg" alt="" class="feature-image">
+        <img src="img/news/suncorp-early-warning/Header-Image-1400x600.jpg" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
@@ -67,10 +67,10 @@
                         <div class="mini-slider__slides-mask animate animate--fade-up-25">
                             <ul class="mini-slider__slides">
                                 <li data-slide="1" data-slide-title="Title-1" data-slide-paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam." class="mini-slider__slide">
-                                    <img src="img/news/suncorp/Img-01-946x495.jpg" alt="">
+                                    <img src="img/news/suncorp-early-warning/Img-01-946x495.jpg" alt="">
                                 </li>
                                 <li data-slide="2" data-slide-title="Title-2" data-slide-paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.-2" class="mini-slider__slide">
-                                    <img src="img/news/suncorp/Img-02-946x495.jpg" alt="">
+                                    <img src="img/news/suncorp-early-warning/Img-02-946x495.jpg" alt="">
                                 </li>
                             </ul>
                         </div>

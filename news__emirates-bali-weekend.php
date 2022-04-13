@@ -27,7 +27,7 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="img/news/emirates-bali/banner.jpg" alt="" class="feature-image">
+        <img src="img/news/emirates-bali-weekend/banner.jpg" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
@@ -60,18 +60,18 @@
                                 <li data-slide="1" data-slide-title="OOH video" data-slide-paragraph="" class="mini-slider__slide">
                                     <div class="feature-video feature" id="magical-mondays">
                                        <div class="feature-video__image-group">
-                                            <img src="img/news/emirates-bali/slide-a.jpg" alt="" class="feature-video__image">
+                                            <img src="img/news/emirates-bali-weekend/slide-a.jpg" alt="" class="feature-video__image">
                                             <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>
                                 <li data-slide="2" data-slide-title="OOH" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="img/news/emirates-bali/slide-b.jpg" alt="">
+                                    <img src="img/news/emirates-bali-weekend/slide-b.jpg" alt="">
                                 </li>
                                 <li data-slide="3" data-slide-title="Activation" data-slide-paragraph="" class="mini-slider__slide">
                                     <div class="feature-video feature" id="emirates-bali-activation">
                                         <div class="feature-video__image-group">
-                                            <img src="img/news/emirates-bali/slide-c.jpg" alt="" class="feature-video__image">
+                                            <img src="img/news/emirates-bali-weekend/slide-c.jpg" alt="" class="feature-video__image">
                                             <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>

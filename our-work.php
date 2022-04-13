@@ -229,7 +229,7 @@
                                             <div class="project">
                                                 <a href="news__at-blink-blink-blink" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="img/news/blink-blink-blink.jpg" alt="" class="project__image">
+                                                        <img src="img/news/at-blink-blink-blink/blink-blink-blink.jpg" alt="" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Bike Bike Bike</h2>
                                                     <span class="project__client">Auckland Transport</span>
@@ -240,7 +240,7 @@
                                             <div class="project">
                                                 <a href="news__samoa" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="img/news/samoa.jpg" alt="" class="project__image">
+                                                        <img src="img/news/samoa/samoa.jpg" alt="" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Samoa</h2>
                                                     <span class="project__client">Samoa tourism</span>
@@ -266,7 +266,7 @@
                                             <div class="project">
                                                 <a href="news__cctv" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="img/news/cctv-bus-lanes-img.jpg" alt="" class="project__image">
+                                                        <img src="img/news/cctv/cctv-bus-lanes-img.jpg" alt="" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">CCTV Bus Lanes</h2>
                                                     <span class="project__client">Auckland Transport</span>
@@ -277,7 +277,7 @@
                                             <div class="project">
                                                 <a href="news__great-barrier" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="img/news/great-barrier-img.jpg" alt="" class="project__image">
+                                                        <img src="img/news/great-barrier/great-barrier-img.jpg" alt="" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Great Barrier</h2>
                                                     <span class="project__client">Auckland Council</span>
@@ -288,7 +288,7 @@
                                             <div class="project">
                                                 <a href="news__hop-top-up" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="img/news/hop-top-up-img.jpg" alt="" class="project__image">
+                                                        <img src="img/news/hop-top-up/hop-top-up-img.jpg" alt="" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Hop Top Up</h2>
                                                     <span class="project__client">Auckland Transport</span>
@@ -303,7 +303,7 @@
                                             <div class="project">
                                                 <a href="news__simparica" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="img/news/simparica-img.jpg" alt="" class="project__image">
+                                                        <img src="img/news/simparica/simparica-img.jpg" alt="" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Simparica Taste Test</h2>
                                                     <span class="project__client">Zoetis</span>

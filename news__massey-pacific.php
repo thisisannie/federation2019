@@ -89,14 +89,6 @@
                                 <li data-slide="4" data-slide-title="Logo" data-slide-paragraph="" class="mini-slider__slide">
                                     <img src="img/news/<?php echo  $array['slug']; ?>/logo-945x496.jpg" alt="">
                                 </li>
-                                <!-- <li data-slide="3" data-slide-title="Activation" data-slide-paragraph="" class="mini-slider__slide">
-                                    <div class="feature-video feature" id="emirates-bali-activation">
-                                        <div class="feature-video__image-group">
-                                            <img src="img/news/emirates-bali/slide-c.jpg" alt="" class="feature-video__image">
-                                            <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
-                                        </div>
-                                    </div>
-                                </li> -->
                             </ul>
                         </div>
                     </div>

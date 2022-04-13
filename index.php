@@ -271,7 +271,7 @@
                                     </div>
                                 </div>
                                 <div class="news-article__image-mask">
-                                    <img src="img/news/the-blues/article.png" alt="" class="news-article__image">
+                                    <img src="img/news/blues/article.png" alt="" class="news-article__image">
                                 </div>
                                 <div class="news-article__text-mask news-article__text-mask--inner">
                                     <div class="news-article__text news-article__text--inner">

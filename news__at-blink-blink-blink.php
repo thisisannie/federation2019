@@ -27,7 +27,7 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="img/news/blink-blink-blink/banner.jpg" alt="" class="feature-image">
+        <img src="img/news/at-blink-blink-blink/banner.jpg" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
@@ -61,18 +61,18 @@
                                 <li data-slide="1" data-slide-title="Radio" data-slide-paragraph="" class="mini-slider__slide">
                                     <div class="feature-video feature" id="blink-blink-video-a">
                                        <div class="feature-video__image-group">
-                                            <img src="img/news/blink-blink-blink/slide-a.jpg" alt="" class="feature-video__image">
+                                            <img src="img/news/at-blink-blink-blink/slide-a.jpg" alt="" class="feature-video__image">
                                             <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>
                                 <li data-slide="2" data-slide-title="OOH" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="img/news/blink-blink-blink/slide-b.jpg" alt="">
+                                    <img src="img/news/at-blink-blink-blink/slide-b.jpg" alt="">
                                 </li>
                                 <li data-slide="3" data-slide-title="Social Video" data-slide-paragraph="" class="mini-slider__slide">
                                     <div class="feature-video feature" id="blink-blink-video-c">
                                        <div class="feature-video__image-group">
-                                            <img src="img/news/blink-blink-blink/slide-c.jpg" alt="" class="feature-video__image">
+                                            <img src="img/news/at-blink-blink-blink/slide-c.jpg" alt="" class="feature-video__image">
                                             <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>

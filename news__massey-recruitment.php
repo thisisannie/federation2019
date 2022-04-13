@@ -99,14 +99,6 @@
                                 <li data-slide="6" data-slide-title="OOH Series" data-slide-paragraph="" class="mini-slider__slide">
                                     <img src="img/news/<?php echo  $array['slug']; ?>/OOH-series-945x496.jpg" alt="">
                                 </li>
-                                <!-- <li data-slide="3" data-slide-title="Activation" data-slide-paragraph="" class="mini-slider__slide">
-                                    <div class="feature-video feature" id="emirates-bali-activation">
-                                        <div class="feature-video__image-group">
-                                            <img src="img/news/emirates-bali/slide-c.jpg" alt="" class="feature-video__image">
-                                            <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
-                                        </div>
-                                    </div>
-                                </li> -->
                             </ul>
                         </div>
                     </div>
@@ -128,23 +120,6 @@
                         </div>
                     </div>
                 </div>
-                <!--<div class="row">
-                    <div class="col-12 col-sm-6 col-md-6 offset-md-1">
-                        <p class="mini-slider__title animate animate--fade-up-25">30" Video</p>
-                        <p class="mini-slider__paragraph animate animate--fade-up-25">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-                    </div>
-                    <div class="col-12 col-sm-6 col-md-4">
-                        <div class="mini-slider__nav animate animate--fade-up-25">
-                            <svg width="9.9" height="18.94" viewBox="0 0 9.9 18.94" class="mini-slider__btn mini-slider__btn--inactive mini-slider__btn--left"><path d="M10.24.69,1.4,9.82l8.85,9.12" transform="translate(-0.7 -0.35)" fill="none" /></svg>
-                            <span data-slide="1" class="mini-slider__slide-no mini-slider__slide-no--current">1</span>
-                            <span class="mini-slider__progress-meter">
-                                <span class="mini-slider__current-progress"></span>
-                            </span>
-                            <span class="mini-slider__slide-no mini-slider__slide-no--total">3</span>
-                            <svg width="9.9" height="18.94" viewBox="0 0 9.9 18.94" class="mini-slider__btn mini-slider__btn--right"><path d="M.75.69,9.6,9.82.75,18.94" transform="translate(-0.4 -0.35)" fill="none" /></svg>
-                        </div> 
-                    </div>
-                </div>-->
             </div>
         </div>
     </div>
