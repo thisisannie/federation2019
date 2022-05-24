@@ -4,6 +4,9 @@ RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
 Redirect 301 /results /our-work
 Redirect 301 /results__ac-ak-have-your-say /our-work__ac-ak-have-your-say
 Redirect 301 /results__ac-elections /our-work__ac-elections
