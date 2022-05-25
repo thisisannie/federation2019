@@ -6,15 +6,28 @@
 	<title>Federation | Leading change</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon.png"/>   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500&family=Raleway:wght@100;300;400;500;700&display=swap" rel="stylesheet"> 
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.png"/>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500&family=Raleway:wght@100;300;400;500;700&display=swap" rel="stylesheet"> 
 	<link rel="stylesheet" href="css/normalize.css">
 	<link rel="stylesheet" href="css/bootstrap-grid.css">
 	<link rel="stylesheet" type="text/css" href="css/slick.css"/>
 	<link rel="stylesheet" type="text/css" href="css/slick-theme.css"/>
 	<link rel="stylesheet" href="css/style.css?v=29">
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-N89WZG3');</script>
+
 	<script src="js/pace.min.js"></script>
 </head>
-<body>	
+<body>
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N89WZG3"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
 	<div class="loading" id="loading"></div>
 	<header>
 		<div class="header" id="header">
