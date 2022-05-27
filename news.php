@@ -201,10 +201,13 @@
             "copy" => "Finding the right way to reach a specific audience.",
             "img" => "seatbelts.jpg",
         ],
-    ]
-?>
+    ];
+    
+    $page_title = "News";
+    $page_description = "The world is a dynamically changing place. New work. New people. New capabilities. New technologies. Check out what’s been happening with Federation.";
 
-<?php include 'header.php'; ?>
+    include 'header.php';
+?>
 
 <div class="page page--recent-news">   
     <div class="section section--white section--intro">

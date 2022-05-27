@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "Cavalier Bremworth Rebrand";
+    $page_description = "When Cavalier Bremworth looked to Federation for a category breaking re-launch that would create a rapid shift in consumer perceptions.";
 
-<?php include 'work-video.php'; ?>
+    include 'header.php';
+    include 'work-video.php';
+?>
 
 <div class="page page--results__cavbrem-rebrand">
     <div class="section section--white section--projects-intro">
@@ -65,7 +69,7 @@
                     </div>
                     <div class="col-12 col-sm-8 col-lg-7 col-xl-7 offset-xl-1">
                         <div class="project-detail__description">
-                            <p class="animate animate--fade-up-25">When Cavalier Bremworth created two innovative and sustainable Solution Dyed Nylon carpets they looked to Federation for a category breaking re-launch that would create a rapid shift in consumer perceptions. The iconic and memorable brand campaign embodied the gravity of their decision to redefine their business from the inside out. A World of Difference became an internal mantra as well as a consumer promise, extending effortlessly into each brand touch point.</p>
+                            <p class="animate animate--fade-up-25">When Cavalier Bremworth created two innovative and sustainable Solution Dyed Nylon carpets they looked to Federation for a category-breaking re-launch that would create a rapid shift in consumer perceptions. The iconic and memorable brand campaign embodied the gravity of their decision to redefine their business from the inside out. A World of Difference became an internal mantra as well as a consumer promise, extending effortlessly into each brand touch point.</p>
                             <p class="animate animate--fade-up-25">Research showed our target market took decisions around the brand, cut and style of their carpet in the same way they choose their personal fashion style.</p>
                             <p class="animate animate--fade-up-25">Every element of the carpet buying experience has been considered and reinvented. From the TVCs to the new website with educational video content, through to the fully redesigned in-store experience, collateral, brochures and even elegantly designed carpet sample takeaway bags. By drawing a strong link between carpet and fashion, Federation transformed Cavalier Bremworth from a trusted brand in a tired category to an unexpected brand with a global feel.</p>
                         </div>

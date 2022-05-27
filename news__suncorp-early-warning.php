@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "Suncorp Early Warning";
+    $page_description = "Their new severe weather alert service in co-operation with Metservice NZ can help you get prepared for whatever mother nature throws your way.";
 
-<?php include 'work-video.php'; ?>
+    include 'header.php';
+    include 'work-video.php';
+?>
 
 <div class="page page--recent-news__article">
     <div class="section section--white section--projects-intro">

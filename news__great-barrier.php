@@ -1,4 +1,9 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "Great Barrier - Auckland Council";
+    $page_description = "You can’t send junk mail out about good waste habits. So our communication itself was reusable and environmentally friendly, especially for the islands birds.";
+
+    include 'header.php';
+?>
 
 <?php include 'work-video.php'; ?>
 

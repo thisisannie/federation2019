@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "L’Oréal appoints Federation for Consumer Products";
+    $page_description = "We’re thrilled L’Oréal New Zealand uses Federation for it’s Consumer Products Division, the umbrella group for the L’Oréal Paris, Garnier and Maybelline brands.";
 
-<?php include 'work-video.php'; ?>
+    include 'header.php';
+    include 'work-video.php';
+?>
 
 <div class="page page--recent-news__article">
     <div class="section section--white section--projects-intro">

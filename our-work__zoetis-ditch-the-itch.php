@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "Ditch the Itch";
+    $page_description = "Educating dog owners to the underlying problems of itches by interpreting their dog's symptoms.";
 
-<?php include 'work-video.php'; ?>
+    include 'header.php';
+    include 'work-video.php';
+?>
 
 <div class="page page--results__zoetis-ditch-the-itch">
     <div class="section section--white section--projects-intro">

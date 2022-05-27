@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "The Lab - MarTech with heart";
+    $page_description = "We use emotion-based principles and creativity to connect digital ecosystems, technology platforms, data and great content to drive value";
 
-<?php include 'work-video.php'; ?>
+    include 'header.php';
+    include 'work-video.php';
+?>
 
 <div class="page page--recent-news__article article--the-lab"> 
     <div class="section section--white section--banner section--change-agents-banner">
@@ -32,7 +36,7 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-sm-10 col-lg-7">
                     <div class="project-detail__description">
-                        <p class="animate animate--fade-up-25">AT the LAB we enable brands to deliver MarTech with heart, creating remarkable experiences and ‘wow’ moments for customers to truly connect with them as real people, at every stage in their customer journey.</p>
+                        <p class="animate animate--fade-up-25">At the LAB we enable brands to deliver MarTech with heart, creating remarkable experiences and ‘wow’ moments for customers to truly connect with them as real people, at every stage in their customer journey.</p>
                         <p class="animate animate--fade-up-25">We use emotion-based principles and creativity to connect digital ecosystems, technology platforms, data and great content to drive real value.</p>
                     </div>
                 </div>

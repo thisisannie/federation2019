@@ -1,4 +1,9 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "JBWere website";
+    $page_description = "Creating a brand that embraces our changing world, with a new websitesite that introduces and represents them to visitors.";
+
+    include 'header.php';
+?>
 
 <div class="page page--results__jbwere-website">
     <div class="section section--white section--projects-intro">

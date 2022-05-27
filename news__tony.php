@@ -1,4 +1,9 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "Tony Clewett joins Federation as Chief Creative Officer";
+    $page_description = "One of New Zealand’s foremost creative advertising leaders and one of the genuinely nice guys of the industry.";
+
+    include 'header.php';
+?>
 
 <?php include 'work-video.php'; ?>
 

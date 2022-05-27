@@ -1,7 +1,10 @@
-<?php include 'header.php'; ?>
-<?php include 'work-video.php'; ?>
-
 <?php 
+    $page_title = "Summer Cycling - Auckland Transport";
+    $page_description = "Biking delivers joy, freedom, and fresh air – with this in mind we set out to inspire Aucklanders to grab their bike for their next short journey.";
+
+    include 'header.php';
+    include 'work-video.php';
+
 	$array = [
 		"title1" => "Summer",
 		"title2" => "Cycling",

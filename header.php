@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<title>
-		<?php echo isset($page_title) ? $page_title : 'Federation | Leading change' ?>
+		<?php echo isset($page_title) ? "Federation | " . $page_title : 'Federation | Leading change' ?>
 	</title>
 	<meta name="description" content="<?php echo isset($page_description) ? $page_description : 'A leading, independent advertising agency creating marketing solutions in Aotearoa, New Zealand' ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">

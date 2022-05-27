@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "True Honey Lozenge Launch";
+    $page_description = "Launching a new product category for The True Honey Co to New Zealand, Middle East and UK markets. Striking print ads like an art piece in a gallery.";
 
-<?php include 'work-video.php'; ?>
+    include 'header.php';
+		include 'work-video.php';
+?>
 
 <div class="page page--results__th-lozenge">
     <div class="section section--white section--projects-intro">
@@ -22,7 +26,7 @@
             <div class="row">
                 <div class="col-12 col-sm-10 offset-sm-2 col-md-6">
                     <h4 class="animate animate--fade-up-25 project-intro-company">The True Honey Co.</h4>
-                    <p class="animate animate--fade-up-25 project-intro-description">Launching a new product Category for The True Honey Co to New Zealand, Middle East and UK markets.</p>
+                    <p class="animate animate--fade-up-25 project-intro-description">Launching a new product category for The True Honey Co for New Zealand, Middle East and UK markets.</p>
                 </div>
             </div>
         </div>

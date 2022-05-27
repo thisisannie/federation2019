@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "Q Mastercard + Airbnb";
+    $page_description = "Q Card and Q Mastercard are perfect for home improvements. So we encouraged customers to turn their spare room into spare cash with Airbnb.";
 
-<?php include 'work-video.php'; ?>
+    include 'header.php';
+    include 'work-video.php';
+?>
 
 <div class="page page--recent-news__article">
     <div class="section section--white section--projects-intro">

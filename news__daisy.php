@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
-<?php include 'work-video.php'; ?>
 <?php 
+    $page_title = "Daisy Conroy-Botica joins Federation as Social Strategy Lead";
+    $page_description = "Formerly the Social and Digital Manager at Special Group, Daisy has been apointed into the newly created role of Digital and Social Strategy Lead.";
+
+    include 'header.php';
+    include 'work-video.php';
+    
 	$array = [
 		"title1" => "Daisy joins",
 		"title2" => "Federation",

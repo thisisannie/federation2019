@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "Seat belts - Auckland Transport";
+    $page_description = "Auckland Transport wanted to target their seatbelts message to young men 17 – 25 year olds in the city and Greater Auckland area.";
 
-<?php include 'work-video.php'; ?>
+    include 'header.php';
+    include 'work-video.php';
+?>
 
 <div class="page page--recent-news__article">
     <div class="section section--white section--projects-intro">

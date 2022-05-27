@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+	$page_title = "Bagel Love - the love you hunger for";
+	$page_description = "COVID had a real impact on NZ business and many of us reached out to help our neighbours. Through lockdown we worked closely with them to develop a compelling brand.";
 
-<?php include 'work-video.php'; ?>
+	include 'header.php';
+	include 'work-video.php'; 
+?>
 
 <div class="page page--results__bagel-love">
     <div class="section section--white section--projects-intro">

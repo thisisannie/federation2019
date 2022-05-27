@@ -1,11 +1,14 @@
 <?php 
     function includeNewsItem($side, $title, $copy, $slug, $img) {
         include('partials/news-item.php');
-    } 
-?>
+    }
 
-<?php include 'header.php'; ?>
-<?php include 'work-video.php'; ?>
+    $page_title = "Leading change";
+    $page_description = "A leading, independent advertising agency in Aotearoa, New Zealand. Marketing solutions for your challenges and new opportunities.";
+
+    include 'header.php';
+    include 'work-video.php'; 
+?>
 
 <div class="page page--home">   
     <div class="section section--white section--intro">

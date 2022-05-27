@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "NZ Marketing Magazine";
+    $page_description = "When it comes to digital B2B marketing, all that’s really required is the internet and a creative mind.";
 
-<?php include 'work-video.php'; ?>
+    include 'header.php';
+    include 'work-video.php';
+?>
 
 <div class="page page--recent-news__article">
     <div class="section section--white section--projects-intro">

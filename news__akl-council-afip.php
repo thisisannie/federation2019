@@ -1,6 +1,7 @@
-<?php include 'header.php'; ?>
-<?php include 'work-video.php'; ?>
 <?php 
+    $page_title = "Auckland Future in Progress";
+    $page_description = "Out of Home advertising for Auckland Council, building a better Auckland with a city centre that puts people first.";     
+
 	$array = [
 		"title1" => "Auckland Future",
 		"title2" => "in Progress – Summer OOH",
@@ -9,6 +10,9 @@
 		"slug" => "akl-council-afip",
         "bannerimg" => "AKL-Council-AFIP-1400x600-hero_v1.jpg",
 	];
+
+    include 'header.php';
+    include 'work-video.php';
 ?>
 
 <div class="page page--recent-news__article">

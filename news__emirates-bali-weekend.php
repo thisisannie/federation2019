@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "Emirates Bali Week";
+    $page_description = "With Emirates direct daily flights to Bali, getting there has never been so easy. Our interactive activation gave people a taste of the magical island experience";
 
-<?php include 'work-video.php'; ?>
+    include 'header.php';
+    include 'work-video.php';
+?>
 
 <div class="page page--recent-news__article">
     <div class="section section--white section--projects-intro">

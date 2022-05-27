@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "Elanco";
+    $page_description = "Elanco Animal Health (formerly Bayer) has unveiled a brand new, integrated campaign for its market-leading flea treatment for cats and dogs, Seresto.";
 
-<?php include 'work-video.php'; ?>
+    include 'header.php';
+    include 'work-video.php';
+?>
 
 <div class="page page--recent-news__article">
     <div class="section section--white section--projects-intro">

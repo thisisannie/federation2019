@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
-<?php include 'work-video.php'; ?>
 <?php 
+    $page_title = "Bobby McKay joins Federation";
+    $page_description = "Hot on the back of the appointment of new creative team Hathaway and France from Stanley Street, Federation’S Chief Creative Officer Tony Clewett has announced another key hire.";
+
+    include 'header.php';
+    include 'work-video.php';
+    
 	$array = [
 		"title1" => "Bobbie joins",
 		"title2" => "Federation",
@@ -45,10 +49,10 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-sm-8 col-lg-7 col-xl-7">
                     <div class="project-detail__description">
-                        <p class="animate animate--fade-up-25"><strong>Hot on the back of the appointment of new creative team Hathaway and France from Stanley Street, FEDERATION’S Chief Creative Officer Tony Clewett has announced another key hire, this time the appointment of award-winning creative, Bobbie McKay, into the newly created role of Creative Group Head.</strong></p>
+                        <p class="animate animate--fade-up-25"><strong>Hot on the back of the appointment of new creative team Hathaway and France from Stanley Street, Federation’s Chief Creative Officer Tony Clewett has announced another key hire, this time the appointment of award-winning creative, Bobbie McKay, into the newly created role of Creative Group Head.</strong></p>
                         <p class="animate animate--fade-up-25">Clewett says the agency is on a roll after a number of key new business wins and the appointment of McKay continues the agency’s creative momentum. He says McKay is “an award winning creative and known talent for her wit and left-field thinking. Bobbie can spin a mesmerizing yarn and make even the toughest audiences crack a smile when they least expect it. I’m often in awe as to how she can command a room. It’s a true pleasure to have Bobbie join the Feds family.”</p>
 						<p class="animate animate--fade-up-25">Previously, McKay led the Z Energy account at Shine as Creative Director. Prior to that, she was Creative Group Head at FCB, working with Clewett on several key accounts, including Vodafone New Zealand, Air New Zealand and Pak‘nSave.</p>
-						<p class="animate animate--fade-up-25">McKay says, “the opportunity to work with Tony is always a big drawcard. I’ve been having a great time at FEDERATION so coming on board permanently is fantastic. They’re a driven bunch and super smart. It’s an agency that’s full of formidable talent and cool people as well – double bonus. I’ve watched the work coming out since Tony’s arrival and it’s exciting to be part of the amazing new story that’s unfolding.”</p>
+						<p class="animate animate--fade-up-25">McKay says, “the opportunity to work with Tony is always a big drawcard. I’ve been having a great time at Federation so coming on board permanently is fantastic. They’re a driven bunch and super smart. It’s an agency that’s full of formidable talent and cool people as well – double bonus. I’ve watched the work coming out since Tony’s arrival and it’s exciting to be part of the amazing new story that’s unfolding.”</p>
 						<p class="animate animate--fade-up-25">Clewett adds, “this is certainly an exciting time for an independent agency in Aotearoa and there’s plenty more to come. Watch this space.”</p>
                     </div>
                 </div>

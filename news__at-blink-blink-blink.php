@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "Auckland Transport's Bike Bike Bike";
+    $page_description = "An audio aide memoir to get drivers thinking about bike riders every time they turn.";
 
-<?php include 'work-video.php'; ?>
+    include 'header.php';
+    include 'work-video.php'; 
+?>
 
 <div class="page page--recent-news__article">
     <div class="section section--white section--projects-intro">

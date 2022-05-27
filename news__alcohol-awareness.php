@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
-<?php include 'work-video.php'; ?>
 <?php 
+    $page_title = "Alcohol Awareness";
+    $page_description = "Playing a key role in Auckland Transport’s Vision Zero strategy, we created a behavioural change campaign that prompts Aucklanders to ensure a safe ride home.";
+
+    include 'header.php';
+    include 'work-video.php';
+
 	$array = [
 		"title1" => "Alcohol",
 		"title2" => "Awareness",

@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
-<?php include 'work-video.php'; ?>
 <?php 
+    $page_title = "Motorbike Safety";
+    $page_description = "With a Vision Zero goal that identifies one death on our roads is one too many, AT worked with Federation to create a disruptive behaviour-change campaign.";
+
+    include 'header.php';
+    include 'work-video.php';
+
 	$array = [
 		"title1" => "Motorbike",
 		"title2" => "Safety",
@@ -58,7 +62,7 @@
 
                 <div class="col-12 col-sm-8 col-lg-7 col-xl-7 offset-xl-1">
                     <div class="project-detail__description">
-                        <p class="animate animate--fade-up-25">With a Vision Zero goal that identifies one death on our roads is one too many, AT worked with FEDERATION to create a disruptive behaviour-change campaign aimed squarely at reducing motorcycle crashes at intersections. Our research identified that if riders knew how to maximise their vision on the road, they could spot dangers earlier, and crucially, avoid them altogether.</p>
+                        <p class="animate animate--fade-up-25">With a Vision Zero goal that identifies one death on our roads is one too many, AT worked with Federation to create a disruptive behaviour-change campaign aimed squarely at reducing motorcycle crashes at intersections. Our research identified that if riders knew how to maximise their vision on the road, they could spot dangers earlier, and crucially, avoid them altogether.</p>
                         <p class="animate animate--fade-up-25">The result is a campaign that uses disruptive visual metaphors and messaging, reframing how motorcyclists need to ride. We replaced the riders with native birds known for their exceptional vision and hypervigilance, the Ruru and the Karearea, and hit the message home with the clear message, “Intersections. See everything. React to anything”.</p>
                     </div>
                 </div>

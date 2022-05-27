@@ -85,10 +85,12 @@
             "title" => "Account Manager",
             "description" => "Born and raised right here in central Auckland. Maddie has spent the last few years chasing the snow and adventure all around the world. After graduating University with a BA in Psychology she worked in the ski industry. Selling adventure gave her the opportunity to interact with an amazingly diverse range of people, from bums to biologists. When she’s not off seeking powder or hunting for shoe sales, she can be found religiously researching new eateries.",
         ],
-    ]
-?>
+    ];
+    $page_title = "About Us";
+    $page_description = "In a world where businesses are expected to change at lightning speeds, we are changemakers.";
 
-<?php include 'header.php'; ?>
+    include 'header.php';
+?>
 
 <div class="page page--about">   
     <div class="section section--white section--intro">

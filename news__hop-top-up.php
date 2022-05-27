@@ -1,4 +1,9 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "Hop Top Up - Auckland Transport";
+    $page_description = "Auckland Transport ran a campaign to remind commuters that they could do this online and save the hassle of queuing.";
+
+    include 'header.php';
+?>
 
 <?php include 'work-video.php'; ?>
 

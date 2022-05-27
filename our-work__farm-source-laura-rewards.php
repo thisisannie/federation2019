@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "Laura Loves Rewards";
+    $page_description = "Igniting interest in a well-established rewards programme, Farm Source Rewards is an awesome program that passes profit value back to farmers.";
 
-<?php include 'work-video.php'; ?>
+    include 'header.php';
+    include 'work-video.php';
+?>
 
 <div class="page page--results__farm-source-laura-rewards">
     <div class="section section--white section--projects-intro">

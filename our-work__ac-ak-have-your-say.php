@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "AK Have Your Say";
+    $page_description = "Turning public opinion in to actual influence on Auckland’s long-term planning and policy by giving Aucklanders a voice.";
 
-<?php include 'work-video.php'; ?>
+    include 'header.php';
+    include 'work-video.php';
+?>
 
 <div class="page page--results__ac-ak-have-your-say">
     <div class="section section--white section--projects-intro">

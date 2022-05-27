@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
-<?php include 'work-video.php'; ?>
 <?php 
+    $page_title = "Auckland Transport's Drive Karma";
+    $page_description = "As part of the Auckland Transport’s Vison Zero goal Federation developed a behaviour change campaign.";
+
+    include 'header.php';
+    include 'work-video.php';
+
 	$array = [
 		"title1" => "Drive Calmer,",
 		"title2" => "Spread Good Karma",

@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "Samoa tourism";
+    $page_description = "Our campaign was aimed at independent and intrepid travellers showing off the unique and authentic experiences of Samoa. Strong simple OOH transported commuters.";
 
-<?php include 'work-video.php'; ?>
+    include 'header.php';
+    include 'work-video.php';
+?>
 
 <div class="page page--recent-news__article">
     <div class="section section--white section--projects-intro">

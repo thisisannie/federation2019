@@ -1,4 +1,9 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "Creating value is what we do";
+    $page_description = "We have dedicated specialists across brand strategy, customer experience, technology, digital, direct, data, content and social.";
+
+    include 'header.php';
+?>
 
 <div class="page page--what-we-do">
 	<div class="section section--white section--intro">

@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
-<?php include 'work-video.php'; ?>
 <?php 
+	$page_title = "New Zealand Opera";
+	$page_description = "New Zealand Opera has appointed Federation, effective immediately, as the lead agency in New Zealand for brand, creative, strategy and design.";
+
+	include 'header.php';
+	include 'work-video.php';
+
 	$array = [
 		"title1" => "New Zealand",
 		"title2" => "Opera",

@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
-<?php include 'work-video.php'; ?>
 <?php 
+    $page_title = "Massey Pacific - Massey University";
+    $page_description = "We designed a new visual identity for Pacific@Massey to encompass rich culture and history, as well as celebrate the success and achievement of past, current and future students.";
+
+    include 'header.php';
+    include 'work-video.php';
+    
 	$array = [
 		"title1" => "Massey",
 		"title2" => "Pacific",

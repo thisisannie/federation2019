@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "True E-Commerce - The True Honey Co";
+    $page_description = "Developing an engaging e-commerce experience and smooth UX to tell the True Honey Story.";
 
-<?php include 'work-video.php'; ?>
+    include 'header.php';
+    include 'work-video.php';
+?>
 
 <div class="page page--results__true-honey">
     <div class="section section--white section--projects-intro">

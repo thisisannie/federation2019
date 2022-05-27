@@ -1,4 +1,9 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "404 Page Not Found";
+    $page_description = "Sorry, but the page you were trying to view does not exist.";
+
+    include 'header.php';
+?>
 
 <div class="page page--404">
     <div class="section section--black section--404">

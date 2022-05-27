@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "CCTV Bus Lanes";
+    $page_description = "Auckland Transport wanted to let people know that a new network of CCTV cameras had been installed in bus lanes on all the major routes in the city.";
 
-<?php include 'work-video.php'; ?>
+    include 'header.php';
+    include 'work-video.php';
+?>
 
 <div class="page page--recent-news__article">
     <div class="section section--white section--projects-intro">

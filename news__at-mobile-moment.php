@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "Auckland Transport Mobile Moment";
+    $page_description = "Auckland Transport have this week released a new behaviour change campaign encouraging drivers to set up their mobile phone safely before heading out on the region’s roads.";
 
-<?php include 'work-video.php'; ?>
+    include 'header.php';
+    include 'work-video.php';
+?>
 
 <div class="page page--recent-news__article">
     <div class="section section--white section--projects-intro">
@@ -42,9 +46,9 @@
                 </div>
                 <div class="col-12 col-sm-8 col-lg-7 col-xl-7 offset-xl-1">
                     <div class="project-detail__description">
-                        <p class="animate animate--fade-up-25">Teaming up with independent agency FEDERATION, AT introduce Aucklanders to the behaviour change message of ‘Mobile Moment’ – setting up your mobile safely, before you begin driving.  The new video campaign launches with a 30 second film pushed out via YouTube, TVNZ On Demand and on the brand’s Facebook page.</p>
+                        <p class="animate animate--fade-up-25">Teaming up with independent agency Federation, AT introduce Aucklanders to the behaviour change message of ‘Mobile Moment’ – setting up your mobile safely, before you begin driving.  The new video campaign launches with a 30 second film pushed out via YouTube, TVNZ On Demand and on the brand’s Facebook page.</p>
 						<p class="animate animate--fade-up-25">Driver distraction – an emerging priority in the road safety space – is an increasing problem on our roads due to the high number of people using map apps, changing music tracks and social media scrolling while behind the wheel. The new campaign depicts four surfers hurrying to head off to the beach, but not before their responsible driver pauses for a second to ensure he’s safely sorted his phone before getting the car and his passengers on the road.</p>
-						<p class="animate animate--fade-up-25">Tony Clewett, FEDERATION Chief Creative Officer: "To have a ‘Mobile Moment’ is to simply plan ahead, so you can drive safely and more focussed. It’s a super easy call to action, and super relatable. The truth is many of our audience have an incredibly strong attachment to their mobiles. It’s a pretty hard ask to change behaviour, but it is possible for each of us to own our behaviour by making it a real thing and convincing mobile users to instead adopt a new, more positive, behaviour".</p>
+						<p class="animate animate--fade-up-25">Tony Clewett, Federation Chief Creative Officer: "To have a ‘Mobile Moment’ is to simply plan ahead, so you can drive safely and more focussed. It’s a super easy call to action, and super relatable. The truth is many of our audience have an incredibly strong attachment to their mobiles. It’s a pretty hard ask to change behaviour, but it is possible for each of us to own our behaviour by making it a real thing and convincing mobile users to instead adopt a new, more positive, behaviour".</p>
 						<p class="animate animate--fade-up-25">Clewett, renowned for his behaviour-change smarts, adds: "badging our desired behaviour of setting up your mobile before you go also creates a platform that Auckland Transport can take ownership of over the years to positively work towards changing the long-term habits of our audience".</p>
 						<p class="animate animate--fade-up-25">The number of distracted drivers remains under-reported in crash statistics worldwide due to the difficulty in obtaining reliable information around pre-crash circumstances. Since 2015 there have been 16 fatal crashes and 247 serious injuries on Auckland roads.</p>
 						<p class="animate animate--fade-up-25">Auckland is a Vision Zero region, meaning Auckland Transport is committed to a goal of no deaths or serious injuries on Tamaki Makaurau roads by 2050.</p>

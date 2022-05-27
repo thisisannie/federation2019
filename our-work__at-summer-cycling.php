@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "Live the bike life - Auckland Transport";
+    $page_description = "Our behaviour changing journey with Auckland Transport Cycling began with the ‘Love My Ride’ advocate campaign.";
 
-<?php include 'work-video.php'; ?>
+    include 'header.php';
+    include 'work-video.php';
+?>
 
 <div class="page page--results__at-summer-cycling">
     <div class="section section--white section--projects-intro">

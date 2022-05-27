@@ -1,4 +1,9 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "Portfolio";
+    $page_description = "From the rich consumer insights and behavioural data we harness, to the creation of a compelling brand narrative.";
+
+    include 'header.php';
+?>
 
 <div class="page page--results">
     <div class="section section--white section--intro">

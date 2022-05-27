@@ -1,4 +1,9 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "Let's Talk";
+    $page_description = "Have a business challenge or market opportunity you need fresh thinking on? We'll offer an exciting way forward strategically, creatively, commercially.";
+
+    include 'header.php';
+?>
 
 <div class="page page--contact">   
     <div class="section section--white section--intro">

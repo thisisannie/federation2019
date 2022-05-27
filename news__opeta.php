@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
-<?php include 'work-video.php'; ?>
 <?php 
+	$page_title = "Opeta Elika joins Federation as Senior Designer";
+	$page_description = "Opeta Elika, whose ground-breaking social impact work is held in Te Papa, joins Federation as Senior Designer, Culture & Brand.";
+
+	include 'header.php';
+	include 'work-video.php';
+
 	$array = [
 		"title1" => "Opeta",
 		"title2" => "Elika",

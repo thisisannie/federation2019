@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
+<?php 
+    $page_title = "ATEED Elemental";
+    $page_description = "We brought meaning to this new festival, created excitement around the inaugural event and formed a design language which will become iconic.";
 
-<?php include 'work-video.php'; ?>
+    include 'header.php';
+    include 'work-video.php';
+?>
 
 <div class="page page--results__ateed-elemental">
     <div class="section section--white section--projects-intro">

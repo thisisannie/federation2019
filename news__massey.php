@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
-<?php include 'work-video.php'; ?>
 <?php 
+	$page_title = "Massey University";
+	$page_description = "Federation Wins Massey University Account After 4-Way Pitch for brand, integrated campaigns and media.";
+
+	include 'header.php';
+	include 'work-video.php';
+
 	$array = [
 		"title1" => "Massey",
 		"title2" => "University",

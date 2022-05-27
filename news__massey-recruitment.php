@@ -1,6 +1,10 @@
-<?php include 'header.php'; ?>
-<?php include 'work-video.php'; ?>
 <?php 
+    $page_title = "Success from a thousand little moments";
+    $page_description = "Using real student insights to build Massey Universities 2022 recruitment campaign, celebrating success from a thousand little moments.";
+
+    include 'header.php';
+    include 'work-video.php';
+
 	$array = [
 		"title1" => "Success from a",
 		"title2" => "Thousand Little Moments",
