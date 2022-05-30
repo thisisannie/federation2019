@@ -4,9 +4,9 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<title>
-		<?php echo isset($page_title) ? "Federation | " . $page_title : 'Federation | Leading change' ?>
+		<?php echo !empty($page_title) ? "Federation | " . $page_title : 'Federation | Leading change' ?>
 	</title>
-	<meta name="description" content="<?php echo isset($page_description) ? $page_description : 'A leading, independent advertising agency creating marketing solutions in Aotearoa, New Zealand' ?>">
+	<meta name="description" content="<?php echo !empty($page_description) ? $page_description : 'A leading, independent advertising agency creating marketing solutions in Aotearoa, New Zealand' ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.png"/>
 	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500&family=Raleway:wght@100;300;400;500;700&display=swap" rel="stylesheet"> 

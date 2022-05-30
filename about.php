@@ -87,7 +87,7 @@
         ],
     ];
     $page_title = "About Us";
-    $page_description = "In a world where businesses are expected to change at lightning speeds, we are changemakers.";
+    $page_description = "In a world where businesses are expected to change at lightning speeds, we are changemakers. How is your brand seen on the outside?";
 
     include 'header.php';
 ?>
