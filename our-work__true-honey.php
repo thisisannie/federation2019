@@ -2,8 +2,9 @@
     $page_title = "True E-Commerce - The True Honey Co";
     $page_description = "Developing an engaging e-commerce experience and smooth UX to tell the True Honey Story.";
 
-    include 'header.php';
-    include 'work-video.php';
+    include 'config.php';
+	include ABSPATH . '/header.php';
+    include ABSPATH . '/work-video.php';
 ?>
 
 <div class="page page--results__true-honey">
@@ -35,7 +36,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="project-feature-image">
-                    <img src="img/projects/true-honey/banner.jpg" alt="" class="project-feature-image__photo">
+                    <img src="<?=HTML_ROOT;?>/img/projects/true-honey/banner.jpg" alt="" class="project-feature-image__photo">
                 </div>
             </div>
         </div>
@@ -84,7 +85,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <a href="contact" class="section--project-stats__button" id="section--project-stats__button">
+                        <a href="<?=HTML_ROOT;?>/lets-talk" class="section--project-stats__button" id="section--project-stats__button">
                             <span class="section--project-stats__button-line-a">Impressed?</span>
                             <span class="section--project-stats__button-line-b"><span class="section--project-stats__button-white">Let’s talk</span> about your goals</span>
                         </a>
@@ -97,8 +98,8 @@
 				<div class="row justify-content-center">
 					<div class="col-12 col-md-10">
 						<div class="website-images">
-							<img src="img/projects/true-honey/website.jpg" alt="" class="website animate animate--fade-up-25">
-							<img src="img/projects/true-honey/phone.png" alt="" class="phone animate animate--fade-up-25">
+							<img src="<?=HTML_ROOT;?>/img/projects/true-honey/website.jpg" alt="" class="website animate animate--fade-up-25">
+							<img src="<?=HTML_ROOT;?>/img/projects/true-honey/phone.png" alt="" class="phone animate animate--fade-up-25">
 						</div>
 					</div>
 				</div>
@@ -121,17 +122,17 @@
 							<h2 class="h2--small animate animate--fade-up-25">Photography</h2>
 							<p class="animate animate--fade-up-25">Clean photography style, making the product the hero.</p>
 						</div>
-						<img src="img/projects/true-honey/honeycomb.jpg" alt="" class="honeycomb animate animate--fade-up-25">
-						<img src="img/projects/true-honey/tab.jpg" alt="" class="tab animate animate--fade-up-25">
+						<img src="<?=HTML_ROOT;?>/img/projects/true-honey/honeycomb.jpg" alt="" class="honeycomb animate animate--fade-up-25">
+						<img src="<?=HTML_ROOT;?>/img/projects/true-honey/tab.jpg" alt="" class="tab animate animate--fade-up-25">
 					</div>
 					<div class="col-12 col-md-6 order-md-1">
 						<div class="feature-video animate animate--fade-up-25">
 							<div class="feature-video__image-group" id="true-honey-boxing-clever">
-	                            <img src="img/projects/true-honey/boxing-clever.jpg" alt="" class="feature-video__image boxing-clever">
-	                            <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
+	                            <img src="<?=HTML_ROOT;?>/img/projects/true-honey/boxing-clever.jpg" alt="" class="feature-video__image boxing-clever">
+	                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
 	                        </div>
 						</div>
-						<img src="img/projects/true-honey/850.jpg" alt="" class="boxes-850 animate animate--fade-up-25">
+						<img src="<?=HTML_ROOT;?>/img/projects/true-honey/850.jpg" alt="" class="boxes-850 animate animate--fade-up-25">
 					</div>
 				</div>
 			</div>
@@ -140,19 +141,19 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12">
-						<a href="our-work__th-lozenge" class="link-button section--project-next__button">Next project</a>
+						<a href="<?=HTML_ROOT;?>/our-work__th-lozenge" class="link-button section--project-next__button">Next project</a>
 					</div>
 				</div>
 				<div class="row justify-content-center section--project-next__row">
 					<div class="col-12 col-sm-10 col-md-9">
-						<a href="our-work__th-lozenge" class="project-next-img">
+						<a href="<?=HTML_ROOT;?>/our-work__th-lozenge" class="project-next-img">
 							<h2 class="visuallyhidden">Lozenge launch</h2>
 							<div class="project-next-img__text-mask project-next-img__text-mask--outer">
 								<div class="project-next-img__text project-next-img__text--outer">
 									<span class="animate animate--slide-left-25">Lozenge launch</span>
 								</div>
 							</div>
-							<img src="img/results/next-project--lozenge-launch.jpg" alt="" class="project-next-img__image">
+							<img src="<?=HTML_ROOT;?>/img/results/next-project--lozenge-launch.jpg" alt="" class="project-next-img__image">
 							<div class="project-next-img__text-mask project-next-img__text-mask--inner">
 							<div class="project-next-img__text project-next-img__text--inner">
 									<span class="animate animate--slide-left-25">Lozenge launch</span>
@@ -166,4 +167,4 @@
     </div>
 </div>
     
-<?php include 'footer.php'; ?>
+<?php include ABSPATH . '/footer.php'; ?>

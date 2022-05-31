@@ -2,8 +2,9 @@
     $page_title = "Live the bike life - Auckland Transport";
     $page_description = "Our behaviour changing journey with Auckland Transport Cycling began with the ‘Love My Ride’ advocate campaign.";
 
-    include 'header.php';
-    include 'work-video.php';
+    include 'config.php';
+	include ABSPATH . '/header.php';
+    include ABSPATH . '/work-video.php';
 ?>
 
 <div class="page page--results__at-summer-cycling">
@@ -35,7 +36,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="project-feature-image">
-                    <img src="img/results/at-summer-cycling/banner.jpg" alt="" class="project-feature-image__photo">
+                    <img src="<?=HTML_ROOT;?>/img/results/at-summer-cycling/banner.jpg" alt="" class="project-feature-image__photo">
                 </div>
             </div>
         </div>
@@ -87,7 +88,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <a href="contact" class="section--project-stats__button" id="section--project-stats__button">
+                        <a href="<?=HTML_ROOT;?>/lets-talk" class="section--project-stats__button" id="section--project-stats__button">
                             <span class="section--project-stats__button-line-a">Impressed?</span>
                             <span class="section--project-stats__button-line-b"><span class="section--project-stats__button-white">Let’s talk</span> about your goals</span>
                         </a>
@@ -104,16 +105,16 @@
                         <h2 class="h2--small animate animate--fade-up-25">OOH</h2>
                         <p class="animate animate--fade-up-25">Selling the rational and physiological virtues of the bike life. Targeting city car commuters and public transport users.</p>
                     </div>
-                    <img src="img/results/at-summer-cycling/phase-3b.jpg" alt="" class="phase-3b animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/results/at-summer-cycling/phase-3b.jpg" alt="" class="phase-3b animate animate--fade-up-25">
                 </div>
                 <div class="col-12 col-sm-6 col-md-5 offset-md-1">
-                    <img src="img/results/at-summer-cycling/phase-3a.jpg" alt="" class="phase-3a animate animate--fade-up-25">
-                    <img src="img/results/at-summer-cycling/phase-3c.jpg" alt="" class="phase-3c animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/results/at-summer-cycling/phase-3a.jpg" alt="" class="phase-3a animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/results/at-summer-cycling/phase-3c.jpg" alt="" class="phase-3c animate animate--fade-up-25">
                 </div>
             </div>
             <div class="row">
                 <div class="col-12 col-sm-6 col-md-5 offset-md-1 order-2 order-sm-1">
-                    <img src="img/results/at-summer-cycling/phase-3d.jpg" alt="" class="phase-3d animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/results/at-summer-cycling/phase-3d.jpg" alt="" class="phase-3d animate animate--fade-up-25">
                 </div>
                 <div class="col-12 col-sm-6 order-1 order-sm-2">
                     <div class="text-group">
@@ -152,21 +153,21 @@
                     </div>
                     <div class="col-12 col-sm-5 offset-sm-1 col-md-5 offset-md-1">
                         <div class="phone-wrapper animate animate--fade-up-25">
-                            <img src="img/results/at-summer-cycling/phone-bg.png" alt="" class="phone-bg">
+                            <img src="<?=HTML_ROOT;?>/img/results/at-summer-cycling/phone-bg.png" alt="" class="phone-bg">
                             <div class="mini-slider__slides-mask">
                                 <ul class="mini-slider__slides">
                                     <li data-slide="1" class="mini-slider__slide">
-                                        <img src="img/results/at-summer-cycling/snapchat-geofilter-b.png" alt="" class="phone-video__image">
+                                        <img src="<?=HTML_ROOT;?>/img/results/at-summer-cycling/snapchat-geofilter-b.png" alt="" class="phone-video__image">
                                     </li>
                                     <li data-slide="2" class="mini-slider__slide">
-                                        <img src="img/results/at-summer-cycling/snapchat-geofilter-c.png" alt="" class="phone-video__image">
+                                        <img src="<?=HTML_ROOT;?>/img/results/at-summer-cycling/snapchat-geofilter-c.png" alt="" class="phone-video__image">
                                     </li>
                                     <li data-slide="3" class="mini-slider__slide">
-                                        <img src="img/results/at-summer-cycling/snapchat-geofilter-d.png" alt="" class="phone-video__image">
+                                        <img src="<?=HTML_ROOT;?>/img/results/at-summer-cycling/snapchat-geofilter-d.png" alt="" class="phone-video__image">
                                     </li>
                                 </ul>
                             </div>
-                            <img src="img/results/at-summer-cycling/phone.png" alt="" class="phone">
+                            <img src="<?=HTML_ROOT;?>/img/results/at-summer-cycling/phone.png" alt="" class="phone">
                         </div>
                         <div class="mini-slider__mobile-nav-wrapper"></div>
                     </div>
@@ -178,7 +179,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 col-sm-6 col-md-6 order-2 order-sm-1">
-                    <img src="img/results/at-summer-cycling/decals.png" alt="" class="animate animate--fade-up-25 decal">
+                    <img src="<?=HTML_ROOT;?>/img/results/at-summer-cycling/decals.png" alt="" class="animate animate--fade-up-25 decal">
                 </div>
                 <div class="col-12 col-sm-6 col-md-5 d-flex align-items-center order-1 order-sm-2">
                     <div class="text-group">
@@ -216,19 +217,19 @@
                                 <ul class="mini-slider__slides">
                                     <li data-slide="1" class="mini-slider__slide">
                                         <div class="phone-video__image-group" id="bike-life-1">
-                                            <img src="img/results/at-summer-cycling/snap_pink.jpg" alt="" class="phone-video__image">
-                                            <img src="img/video-play-btn.png" alt="" class="phone-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/results/at-summer-cycling/snap_pink.jpg" alt="" class="phone-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="phone-video__play-btn">
                                         </div>
                                     </li>
                                     <li data-slide="2" class="mini-slider__slide">
-                                        <img src="img/results/at-summer-cycling/snap_lightpath.jpg" alt="" class="phone-video__image">
+                                        <img src="<?=HTML_ROOT;?>/img/results/at-summer-cycling/snap_lightpath.jpg" alt="" class="phone-video__image">
                                     </li>
                                     <li data-slide="3" class="mini-slider__slide">
-                                        <img src="img/results/at-summer-cycling/snap_rainbow.jpg" alt="" class="phone-video__image">
+                                        <img src="<?=HTML_ROOT;?>/img/results/at-summer-cycling/snap_rainbow.jpg" alt="" class="phone-video__image">
                                     </li>
                                 </ul>
                             </div>
-                            <img src="img/results/at-summer-cycling/phone-full.png" alt="" class="phone">
+                            <img src="<?=HTML_ROOT;?>/img/results/at-summer-cycling/phone-full.png" alt="" class="phone">
                         </div>
                         <div class="mini-slider__mobile-nav-wrapper"></div>
                     </div>
@@ -241,8 +242,8 @@
             <div class="row">
                 <div class="col-12 col-sm-6 col-md-5 offset-md-1 d-flex align-items-center order-2 order-sm-1">
                     <div class="phone-video__image-group" id="bike-life-fb-1">
-                        <img src="img/results/at-summer-cycling/fb-post-image-a.jpg" alt="" class="phone-video__image">
-                        <img src="img/video-play-btn.png" alt="" class="phone-video__play-btn">
+                        <img src="<?=HTML_ROOT;?>/img/results/at-summer-cycling/fb-post-image-a.jpg" alt="" class="phone-video__image">
+                        <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="phone-video__play-btn">
                     </div>
                 </div>
                 <div class="col-12 col-sm-5 offset-sm-1 col-md-5 offset-md-1 d-flex align-items-center order-1 order-sm-2">
@@ -265,8 +266,8 @@
                 <div class="col-12 col-md-10">
                     <div class="feature-video feature animate animate--fade-up-25" id="summer-cycling">
                        <div class="feature-video__image-group">
-                            <img src="img/results/at-summer-cycling/video-feature.jpg" alt="" class="feature-video__image">
-                            <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                            <img src="<?=HTML_ROOT;?>/img/results/at-summer-cycling/video-feature.jpg" alt="" class="feature-video__image">
+                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
                         </div>
                     </div>
                 </div>
@@ -285,7 +286,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-10">
-                    <img src="img/results/at-summer-cycling/ooh.jpg" alt="">
+                    <img src="<?=HTML_ROOT;?>/img/results/at-summer-cycling/ooh.jpg" alt="">
                 </div>
             </div>
             <div class="row">
@@ -302,19 +303,19 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <a href="our-work__ateed-elemental" class="link-button section--project-next__button">Next project</a>
+                    <a href="<?=HTML_ROOT;?>/our-work__ateed-elemental" class="link-button section--project-next__button">Next project</a>
                 </div>
             </div>
             <div class="row justify-content-center section--project-next__row">
                 <div class="col-12 col-sm-10 col-md-9">
-                    <a href="our-work__ateed-elemental" class="project-next-img">
+                    <a href="<?=HTML_ROOT;?>/our-work__ateed-elemental" class="project-next-img">
                         <h2 class="visuallyhidden">Elemental</h2>
                         <div class="project-next-img__text-mask project-next-img__text-mask--outer">
                             <div class="project-next-img__text project-next-img__text--outer">
                                 <span class="animate animate--slide-left-25">Elemental</span>
                             </div>
                         </div>
-                        <img src="img/results/next-project--elemental.jpg" alt="" class="project-next-img__image">
+                        <img src="<?=HTML_ROOT;?>/img/results/next-project--elemental.jpg" alt="" class="project-next-img__image">
                         <div class="project-next-img__text-mask project-next-img__text-mask--inner">
                             <div class="project-next-img__text project-next-img__text--inner">
                                 <span class="animate animate--slide-left-25">Elemental</span>
@@ -327,4 +328,4 @@
     </div>
 </div>
     
-<?php include 'footer.php'; ?>
+<?php include ABSPATH . '/footer.php'; ?>

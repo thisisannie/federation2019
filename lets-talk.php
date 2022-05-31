@@ -2,7 +2,8 @@
     $page_title = "Let's Talk";
     $page_description = "Have a business challenge or market opportunity you need fresh thinking on? We'll offer an exciting way forward strategically, creatively, commercially.";
 
-    include 'header.php';
+    include 'config.php';
+	include ABSPATH . '/header.php';
 ?>
 
 <div class="page page--contact">   
@@ -39,7 +40,7 @@
                         <p><a href="mailto:hello&#64;federation.net.nz" class="animate animate--fade-up-25">hello&#64;federation.net.nz</a></p>
                         <p><a href="tel:+6493041200" class="animate animate--fade-up-25">+64 9 304 1200</a></p>
                         <p><span class="animate animate--fade-up-25">111 Wellesley Street West, Auckland 1010</span></p>
-                        <p><a href="https://www.linkedin.com/company/federation./?originalSubdomain=nz" target="_blank" class="linkedin animate animate--fade-up-25 linkedin"><img src="img/linkedin.png" alt="" class="linkedin-img"></a></p>
+                        <p><a href="https://www.linkedin.com/company/federation./?originalSubdomain=nz" target="_blank" class="linkedin animate animate--fade-up-25 linkedin"><img src="<?=HTML_ROOT;?>/img/linkedin.png" alt="" class="linkedin-img"></a></p>
                     </div>
                     <div class="detail-group">
                         <p class="animate animate--fade-up-25 title">Sharon Henderson</p>
@@ -68,4 +69,4 @@
     </div>
 </div>
     
-<?php include 'footer.php'; ?>
+<?php include ABSPATH . '/footer.php'; ?>

@@ -2,8 +2,9 @@
     $page_title = "True Honey Lozenge Launch";
     $page_description = "Launching a new product category for The True Honey Co to New Zealand, Middle East and UK markets. Striking print ads like an art piece in a gallery.";
 
-    include 'header.php';
-		include 'work-video.php';
+    include 'config.php';
+	include ABSPATH . '/header.php';
+		include ABSPATH . '/work-video.php';
 ?>
 
 <div class="page page--results__th-lozenge">
@@ -35,7 +36,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="project-feature-image">
-                    <img src="img/projects/th-lozenge/banner.jpg" alt="" class="project-feature-image__photo">
+                    <img src="<?=HTML_ROOT;?>/img/projects/th-lozenge/banner.jpg" alt="" class="project-feature-image__photo">
                 </div>
             </div>
         </div>
@@ -44,7 +45,7 @@
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-12 col-md-10">
-					<img src="img/projects/th-lozenge/magazine.jpg" alt="" class="mag animate animate--fade-up-25">
+					<img src="<?=HTML_ROOT;?>/img/projects/th-lozenge/magazine.jpg" alt="" class="mag animate animate--fade-up-25">
 				</div>
 			</div>
 			<div class="row">
@@ -67,7 +68,7 @@
 					</div>
 				</div>
 				<div class="col-12 col-md-6 order-md-1">
-					<img src="img/projects/th-lozenge/landscape.jpg" alt="" class="landscape animate animate--fade-up-25">
+					<img src="<?=HTML_ROOT;?>/img/projects/th-lozenge/landscape.jpg" alt="" class="landscape animate animate--fade-up-25">
 				</div>
 			</div>
 		</div>
@@ -76,19 +77,19 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-12">
-					<a href="our-work__bagel-love" class="link-button section--project-next__button">Next project</a>
+					<a href="<?=HTML_ROOT;?>/our-work__bagel-love" class="link-button section--project-next__button">Next project</a>
 				</div>
 			</div>
 			<div class="row justify-content-center section--project-next__row">
 				<div class="col-12 col-sm-10 col-md-9">
-					<a href="our-work__bagel-love" class="project-next-img">
+					<a href="<?=HTML_ROOT;?>/our-work__bagel-love" class="project-next-img">
 						<h2 class="visuallyhidden">Spreading more brand love</h2>
 						<div class="project-next-img__text-mask project-next-img__text-mask--outer">
 							<div class="project-next-img__text project-next-img__text--outer">
 								<span class="animate animate--slide-left-25">Spreading more brand love</span>
 							</div>
 						</div>
-						<img src="img/results/next-project--bagel-love.jpg" alt="" class="project-next-img__image">
+						<img src="<?=HTML_ROOT;?>/img/results/next-project--bagel-love.jpg" alt="" class="project-next-img__image">
 						<div class="project-next-img__text-mask project-next-img__text-mask--inner">
 						<div class="project-next-img__text project-next-img__text--inner">
 								<span class="animate animate--slide-left-25">Spreading more brand love</span>
@@ -101,4 +102,4 @@
 	</div>
 </div>
     
-<?php include 'footer.php'; ?>
+<?php include ABSPATH . '/footer.php'; ?>

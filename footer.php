@@ -1,16 +1,16 @@
 <footer>
 <div class="footer">
-    <a href="index"><img src="img/logo.png" alt="" class="footer__logo"></a>
-    <a href="lets-talk" class="footer__link-button">Let’s talk&nbsp;<span>about your goals</span></a>
-    <a href="https://www.linkedin.com/company/federation./?originalSubdomain=nz" target="_blank"><img src="img/linkedin.png" alt="" class="footer__linkedin"></a>
+    <a href="<?=HTML_ROOT;?>"><img src="<?=HTML_ROOT;?>/img/logo.png" alt="" class="footer__logo"></a>
+    <a href="<?=HTML_ROOT;?>/lets-talk" class="footer__link-button">Let’s talk&nbsp;<span>about your goals</span></a>
+    <a href="https://www.linkedin.com/company/federation./?originalSubdomain=nz" target="_blank"><img src="<?=HTML_ROOT;?>/img/linkedin.png" alt="" class="footer__linkedin"></a>
 </div>
 </footer>
   
-<script src="js/vendor/modernizr-3.6.0.min.js"></script>
+<script src="<?=HTML_ROOT;?>/js/vendor/modernizr-3.6.0.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-<script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
+<script>window.jQuery || document.write('<script src="<?=HTML_ROOT;?>/js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
 
-<script type="text/javascript" src="js/slick.min.js"></script>
+<script type="text/javascript" src="<?=HTML_ROOT;?>/js/slick.min.js"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/jquery.gsap.min.js"></script>
@@ -19,10 +19,10 @@
 
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDtDZugGhHDXI_xfMPMaku1KuZhZluModA"></script>
 <script src="https://www.youtube.com/player_api"></script>
-<script src="js/google-map.js"></script>
-<script src="js/video-manager.js?v2"></script>
-<script src="js/animation.js"></script>
-<script src="js/main.js"></script>
+<script src="<?=HTML_ROOT;?>/js/google-map.js"></script>
+<script src="<?=HTML_ROOT;?>/js/video-manager.js?v2"></script>
+<script src="<?=HTML_ROOT;?>/js/animation.js"></script>
+<script src="<?=HTML_ROOT;?>/js/main.js"></script>
 
 <script>
 //load video manager after YouTube API has loaded

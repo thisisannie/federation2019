@@ -2,8 +2,9 @@
     $page_title = "ATEED Elemental";
     $page_description = "We brought meaning to this new festival, created excitement around the inaugural event and formed a design language which will become iconic.";
 
-    include 'header.php';
-    include 'work-video.php';
+    include 'config.php';
+	include ABSPATH . '/header.php';
+    include ABSPATH . '/work-video.php';
 ?>
 
 <div class="page page--results__ateed-elemental">
@@ -35,8 +36,8 @@
             <div class="row justify-content-center">
                 <div class="feature-video">
                     <div class="feature-video__image-group" id="elemental__video">
-                        <img src="img/results/ateed-elemental/banner.jpg" alt="" class="feature-video__image">
-                        <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                        <img src="<?=HTML_ROOT;?>/img/results/ateed-elemental/banner.jpg" alt="" class="feature-video__image">
+                        <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
                     </div>
                 </div>
             </div>
@@ -87,7 +88,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <a href="contact" class="section--project-stats__button" id="section--project-stats__button">
+                        <a href="<?=HTML_ROOT;?>/lets-talk" class="section--project-stats__button" id="section--project-stats__button">
                             <span class="section--project-stats__button-line-a">Impressed?</span>
                             <span class="section--project-stats__button-line-b"><span class="section--project-stats__button-white">Let’s talk</span> about your goals</span>
                         </a>
@@ -108,8 +109,8 @@
                 </div>
                 <div class="col-12 col-sm-6 col-lg-6">
                     <div class="device-group">
-                        <img src="img/results/ateed-elemental/tablet.png" alt="" class="tablet animate animate--fade-up-25">
-                        <img src="img/results/ateed-elemental/phone.png" alt="" class="phone animate animate--fade-up-25">
+                        <img src="<?=HTML_ROOT;?>/img/results/ateed-elemental/tablet.png" alt="" class="tablet animate animate--fade-up-25">
+                        <img src="<?=HTML_ROOT;?>/img/results/ateed-elemental/phone.png" alt="" class="phone animate animate--fade-up-25">
                     </div>
                 </div>
             </div>
@@ -145,11 +146,11 @@
                         <p class="animate animate--fade-up-25">Single placements announced the festival, with consecutive posters and revolving digital OOH highlighting each element.</p>
                         <button class="button button--red animate animate--fade-up-25" id="elemental__video-b">Watch</button>
                     </div>
-                    <img src="img/results/ateed-elemental/ooh-b.jpg" alt="" class="ooh-b animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/results/ateed-elemental/ooh-b.jpg" alt="" class="ooh-b animate animate--fade-up-25">
                 </div>
                 <div class="col-12 col-sm-6 col-lg-6">
-                    <img src="img/results/ateed-elemental/ooh-a.jpg" alt="" class="ooh-a animate animate--fade-up-25">
-                    <img src="img/results/ateed-elemental/ooh-c.jpg" alt="" class="ooh-c animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/results/ateed-elemental/ooh-a.jpg" alt="" class="ooh-a animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/results/ateed-elemental/ooh-c.jpg" alt="" class="ooh-c animate animate--fade-up-25">
                 </div>
             </div>
         </div>    
@@ -158,19 +159,19 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <a href="our-work__jbwere-website" class="link-button section--project-next__button">Next project</a>
+                    <a href="<?=HTML_ROOT;?>/our-work__jbwere-website" class="link-button section--project-next__button">Next project</a>
                 </div>
             </div>
             <div class="row justify-content-center section--project-next__row">
                 <div class="col-12 col-sm-10 col-md-9">
-                    <a href="our-work__jbwere-website" class="project-next-img">
+                    <a href="<?=HTML_ROOT;?>/our-work__jbwere-website" class="project-next-img">
                         <h2 class="visuallyhidden">JBWere website</h2>
                         <div class="project-next-img__text-mask project-next-img__text-mask--outer">
                             <div class="project-next-img__text project-next-img__text--outer">
                                 <span class="animate animate--slide-left-25">JBWere website</span>
                             </div>
                         </div>
-                        <img src="img/results/next-project--jbwere.jpg" alt="" class="project-next-img__image">
+                        <img src="<?=HTML_ROOT;?>/img/results/next-project--jbwere.jpg" alt="" class="project-next-img__image">
                         <div class="project-next-img__text-mask project-next-img__text-mask--inner">
                            <div class="project-next-img__text project-next-img__text--inner">
                                 <span class="animate animate--slide-left-25">JBWere website</span>
@@ -183,4 +184,4 @@
     </div>
 </div>
     
-<?php include 'footer.php'; ?>
+<?php include ABSPATH . '/footer.php'; ?>

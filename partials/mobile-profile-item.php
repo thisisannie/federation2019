@@ -1,6 +1,6 @@
 <div class="profile-item">
   <div class="image-box">
-    <img src="img/page--about/<?php echo $img ?>" alt="<?php echo $name ?>" class="image">
+    <img src="<?=HTML_ROOT;?>/img/page--about/<?php echo $img ?>" alt="<?php echo $name ?>" class="image">
     <span class="close-btn"></span>
   </div>
   <p class="name"><?php echo $name ?><br>

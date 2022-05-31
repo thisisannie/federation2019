@@ -2,8 +2,9 @@
     $page_title = "Cavalier Bremworth Rebrand";
     $page_description = "When Cavalier Bremworth looked to Federation for a category breaking re-launch that would create a rapid shift in consumer perceptions.";
 
-    include 'header.php';
-    include 'work-video.php';
+    include 'config.php';
+	include ABSPATH . '/header.php';
+    include ABSPATH . '/work-video.php';
 ?>
 
 <div class="page page--results__cavbrem-rebrand">
@@ -36,12 +37,12 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="project-feature-image">
-                    <img src="img/results/cavbrem-rebrand/snow.jpg" alt="" class="project-feature-image__photo">
+                    <img src="<?=HTML_ROOT;?>/img/results/cavbrem-rebrand/snow.jpg" alt="" class="project-feature-image__photo">
                     <div class="best-logo-container">
                         <div class="container">
                             <div class="row">
                                 <div class="col-12 offset-lg-1 offset-xl-2">
-                                    <img src="img/results/cavbrem-rebrand/best-logo.png" alt="" class="best-logo">
+                                    <img src="<?=HTML_ROOT;?>/img/results/cavbrem-rebrand/best-logo.png" alt="" class="best-logo">
                                 </div>
                             </div>
                         </div>
@@ -96,7 +97,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <a href="contact" class="section--project-stats__button" id="section--project-stats__button">
+                        <a href="<?=HTML_ROOT;?>/lets-talk" class="section--project-stats__button" id="section--project-stats__button">
                             <span class="section--project-stats__button-line-a">Impressed?</span>
                             <span class="section--project-stats__button-line-b"><span class="section--project-stats__button-white">Let’s talk</span> about your goals</span>
                         </a>
@@ -111,8 +112,8 @@
                 <div class="col-12 col-md-10">
                     <div class="feature-video feature animate animate--fade-up-25" id="cavbrem-rebrand__feature-video">
                        <div class="feature-video__image-group">
-                            <img src="img/results/cavbrem-rebrand/video-feature.jpg" alt="" class="feature-video__image">
-                            <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                            <img src="<?=HTML_ROOT;?>/img/results/cavbrem-rebrand/video-feature.jpg" alt="" class="feature-video__image">
+                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
                         </div>
                     </div>
                 </div>
@@ -131,13 +132,13 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-10">
-                    <img src="img/results/cavbrem-rebrand/website-desktop.jpg" alt="" class="website-desktop-img animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/results/cavbrem-rebrand/website-desktop.jpg" alt="" class="website-desktop-img animate animate--fade-up-25">
                 </div>
             </div>
             <div class="row">
                 <div class="col-12 col-sm-6 col-md-6">
-                    <img src="img/results/cavbrem-rebrand/website-search.png" alt="" class="website-search-img animate animate--fade-up-25">
-                    <img src="img/results/cavbrem-rebrand/website-inspiration.jpg" alt="" class="website-search-img animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/results/cavbrem-rebrand/website-search.png" alt="" class="website-search-img animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/results/cavbrem-rebrand/website-inspiration.jpg" alt="" class="website-search-img animate animate--fade-up-25">
                 </div>
                 <div class="col-12 col-sm-6 col-md-5">
                     <div class="text-group">
@@ -146,7 +147,7 @@
                         <p class="animate animate--fade-up-25">We empowered customers with impartial advice and helpful tools like the Buying Guide, In-store Checklist and Carpet Selector. Users could save their favourite carpets to a Wishlist and order free samples too – getting carpets into the homes of potential customers even before they've visited a store.</p>
                         <a href="https://www.cavbrem.co.nz/" target="_blank" class="button button--red animate animate--fade-up-25">Launch site</a>
                     </div>
-                    <img src="img/results/cavbrem-rebrand/ipad.png" alt="" class="website-ipad animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/results/cavbrem-rebrand/ipad.png" alt="" class="website-ipad animate animate--fade-up-25">
                 </div>
             </div>
         </div>
@@ -160,11 +161,11 @@
                         <p class="animate animate--fade-up-25">Cutting though at the retail level is a tough challenge, where competition is fierce and where large competitor brands often incentivise the sales staff to sell their products over any other.</p>
                         <p class="animate animate--fade-up-25">Our challenge was to make Cavalier Bremworth so irresistible to the consumer, that sales intervention is futile. Our bold new point of sale stands, with integrated iPads for online ordering, have proved very popular with the sales team and customers alike.</p>
                     </div>
-                    <img src="img/results/cavbrem-rebrand/Cav-Brem-POS-589x557_v1@2x.jpg" alt="" class="booklet-bags-b animate animate--fade-up-25 d-none d-sm-block">
+                    <img src="<?=HTML_ROOT;?>/img/results/cavbrem-rebrand/Cav-Brem-POS-589x557_v1@2x.jpg" alt="" class="booklet-bags-b animate animate--fade-up-25 d-none d-sm-block">
                 </div>
                 <div class="col-12 col-sm-6 col-md-5 offset-md-1">
-                    <img src="img/results/cavbrem-rebrand/Cav-Brem-POS-603x421_v1@2x.jpg" alt="" class="booklet-bags-a animate animate--fade-up-25">
-                    <img src="img/results/cavbrem-rebrand/Cav-Brem-POS-589x557_v1@2x.jpg" alt="" class="booklet-bags-b animate animate--fade-up-25 d-sm-none">
+                    <img src="<?=HTML_ROOT;?>/img/results/cavbrem-rebrand/Cav-Brem-POS-603x421_v1@2x.jpg" alt="" class="booklet-bags-a animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/results/cavbrem-rebrand/Cav-Brem-POS-589x557_v1@2x.jpg" alt="" class="booklet-bags-b animate animate--fade-up-25 d-sm-none">
                 </div>
             </div>
         </div>
@@ -173,19 +174,19 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <a href="our-work__farm-source-laura-rewards" class="link-button section--project-next__button animate animate--fade-up-25">Next project</a>
+                    <a href="<?=HTML_ROOT;?>/our-work__farm-source-laura-rewards" class="link-button section--project-next__button animate animate--fade-up-25">Next project</a>
                 </div>
             </div>
             <div class="row justify-content-center section--project-next__row">
                 <div class="col-12 col-sm-10 col-md-9">
-                    <a href="our-work__farm-source-laura-rewards" class="project-next-img">
+                    <a href="<?=HTML_ROOT;?>/our-work__farm-source-laura-rewards" class="project-next-img">
                         <h2 class="visuallyhidden">Laura Rewards</h2>
                         <div class="project-next-img__text-mask project-next-img__text-mask--outer">
                             <div class="project-next-img__text project-next-img__text--outer">
                                 <span class="animate animate--slide-left-25">Laura Rewards</span>
                             </div>
                         </div>
-                        <img src="img/results/next-project--laura-rewards.jpg" alt="" class="project-next-img__image">
+                        <img src="<?=HTML_ROOT;?>/img/results/next-project--laura-rewards.jpg" alt="" class="project-next-img__image">
                         <div class="project-next-img__text-mask project-next-img__text-mask--inner">
                            <div class="project-next-img__text project-next-img__text--inner">
                                 <span class="animate animate--slide-left-25">Laura Rewards</span>
@@ -198,4 +199,4 @@
     </div>
 </div>
     
-<?php include 'footer.php'; ?>
+<?php include ABSPATH . '/footer.php'; ?>

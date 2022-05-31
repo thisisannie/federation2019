@@ -2,7 +2,8 @@
     $page_title = "Portfolio";
     $page_description = "From the rich consumer insights and behavioural data we harness, to the creation of a compelling brand narrative.";
 
-    include 'header.php';
+    include 'config.php';
+	include ABSPATH . '/header.php';
 ?>
 
 <div class="page page--results">
@@ -24,7 +25,7 @@
                         </div>
                     </div>
                     <div class="feature-img__bgvideo-wrapper" id="feature-img__bgvideo-wrapper">
-                        <img src="img/results/our-work-banner.jpg" alt="" class="feature-img__bgimage">
+                        <img src="<?=HTML_ROOT;?>/img/results/our-work-banner.jpg" alt="" class="feature-img__bgimage">
                     </div>
                     <div class="feature-img__text-mask feature-img__text-mask--inner">
                         <div class="feature-img__text feature-img__text--desktop feature-img__text--inner">
@@ -73,9 +74,9 @@
             <div class="row justify-content-left project-row">
 				<div class="col-12 col-sm-4">
                     <div class="project">
-                        <a href="our-work__true-honey" class="project__link">
+                        <a href="<?=HTML_ROOT;?>/our-work__true-honey" class="project__link">
                             <div class="project__image-mask">
-                                <img src="img/results/true-honey.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/results/true-honey.jpg" alt="" class="project__image">
                             </div>
                             <h2 class="project__title">True E-Commerce</h2>
                             <span class="project__client">The True Honey Co.</span>
@@ -84,9 +85,9 @@
 				</div>
 				<div class="col-12 col-sm-4">
                     <div class="project">
-                        <a href="our-work__th-lozenge" class="project__link">
+                        <a href="<?=HTML_ROOT;?>/our-work__th-lozenge" class="project__link">
                             <div class="project__image-mask">
-                                <img src="img/results/lozenge-launch.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/results/lozenge-launch.jpg" alt="" class="project__image">
                             </div>
                             <h2 class="project__title">Lozenge launch</h2>
                             <span class="project__client">The True Honey Co.</span>
@@ -95,9 +96,9 @@
 				</div>
 				<div class="col-12 col-sm-4">
                     <div class="project">
-                        <a href="our-work__bagel-love" class="project__link">
+                        <a href="<?=HTML_ROOT;?>/our-work__bagel-love" class="project__link">
                             <div class="project__image-mask">
-                                <img src="img/results/bagel-love.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/results/bagel-love.jpg" alt="" class="project__image">
                             </div>
                             <h2 class="project__title">Spreading more brand love</h2>
                             <span class="project__client">Bagel Love</span>
@@ -106,9 +107,9 @@
                 </div>
                 <div class="col-12 col-sm-4">
                     <div class="project">
-                        <a href="our-work__ateed-elemental" class="project__link">
+                        <a href="<?=HTML_ROOT;?>/our-work__ateed-elemental" class="project__link">
                             <div class="project__image-mask">
-                                <img src="img/results/elemental.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/results/elemental.jpg" alt="" class="project__image">
                             </div>
                             <h2 class="project__title">Elemental</h2>
                             <span class="project__client">ATEED</span>
@@ -117,9 +118,9 @@
                 </div>
                 <div class="col-12 col-sm-4">
 					<div class="project">
-                        <a href="our-work__at-summer-cycling" class="project__link">
+                        <a href="<?=HTML_ROOT;?>/our-work__at-summer-cycling" class="project__link">
                             <div class="project__image-mask">
-                                <img src="img/results/summer-cycling.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/results/summer-cycling.jpg" alt="" class="project__image">
                             </div>
                             <h2 class="project__title">Live the bike life</h2>
                             <span class="project__client">Auckland Transport</span>
@@ -128,9 +129,9 @@
                 </div>
                 <div class="col-12 col-sm-4">
                     <div class="project">
-                        <a href="our-work__ac-ak-have-your-say" class="project__link">
+                        <a href="<?=HTML_ROOT;?>/our-work__ac-ak-have-your-say" class="project__link">
                             <div class="project__image-mask">
-                                <img src="img/results/ak-have-your-say.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/results/ak-have-your-say.jpg" alt="" class="project__image">
                             </div>
                             <h2 class="project__title">AK Have your say</h2>
                             <span class="project__client">Auckland Council</span>
@@ -139,9 +140,9 @@
                 </div>
                 <div class="col-12 col-sm-4">
                     <div class="project">
-                        <a href="our-work__cavbrem-rebrand" class="project__link">
+                        <a href="<?=HTML_ROOT;?>/our-work__cavbrem-rebrand" class="project__link">
                             <div class="project__image-mask">
-                                <img src="img/results/cavbrem.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/results/cavbrem.jpg" alt="" class="project__image">
                             </div>
                             <h2 class="project__title">Cavbrem Rebrand</h2>
                             <span class="project__client">Cavbrem</span>
@@ -150,9 +151,9 @@
                 </div>
                 <div class="col-12 col-sm-4">
                     <div class="project">
-                        <a href="our-work__farm-source-laura-rewards" class="project__link">
+                        <a href="<?=HTML_ROOT;?>/our-work__farm-source-laura-rewards" class="project__link">
                             <div class="project__image-mask">
-                                <img src="img/results/laura-rewards.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/results/laura-rewards.jpg" alt="" class="project__image">
                             </div>
                             <h2 class="project__title">Laura Rewards</h2>
                             <span class="project__client">Farm Source</span>
@@ -161,9 +162,9 @@
                 </div>
                 <div class="col-12 col-sm-4">
                     <div class="project">
-                        <a href="our-work__zoetis-ditch-the-itch" class="project__link">
+                        <a href="<?=HTML_ROOT;?>/our-work__zoetis-ditch-the-itch" class="project__link">
                             <div class="project__image-mask">
-                                <img src="img/results/zoetis.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/results/zoetis.jpg" alt="" class="project__image">
                             </div>
                             <h2 class="project__title">Ditch the Itch</h2>
                             <span class="project__client">Zoetis</span>
@@ -172,9 +173,9 @@
                 </div>
                 <div class="col-12 col-sm-4">
 					<div class="project">
-                        <a href="our-work__jbwere-website" class="project__link">
+                        <a href="<?=HTML_ROOT;?>/our-work__jbwere-website" class="project__link">
                             <div class="project__image-mask">
-                                <img src="img/results/jb-were.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/results/jb-were.jpg" alt="" class="project__image">
                             </div>
                             <h2 class="project__title">JBWere website</h2>
                             <span class="project__client">JBWere</span>
@@ -232,9 +233,9 @@
                                     <div class="row justify-content-left">
                                         <div class="col-sm-4">
                                             <div class="project">
-                                                <a href="news__at-blink-blink-blink" class="project__link">
+                                                <a href="<?=HTML_ROOT;?>/news-items/at-blink-blink-blink" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="img/news/at-blink-blink-blink/blink-blink-blink.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/news/at-blink-blink-blink/blink-blink-blink.jpg" alt="" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Bike Bike Bike</h2>
                                                     <span class="project__client">Auckland Transport</span>
@@ -243,9 +244,9 @@
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="project">
-                                                <a href="news__samoa" class="project__link">
+                                                <a href="<?=HTML_ROOT;?>/news-items/samoa" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="img/news/samoa/samoa.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/news/samoa/samoa.jpg" alt="" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Samoa</h2>
                                                     <span class="project__client">Samoa tourism</span>
@@ -254,9 +255,9 @@
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="project">
-                                                <a href="news__q-airbnb" class="project__link">
+                                                <a href="<?=HTML_ROOT;?>/news-items/q-airbnb" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="img/page--home/news-img-a.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/page--home/news-img-a.jpg" alt="" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Q Mastercard + Airbnb</h2>
                                                     <span class="project__client">Flexi Group</span>
@@ -269,9 +270,9 @@
                                     <div class="row justify-content-left">
                                         <div class="col-12 col-sm-4">
                                             <div class="project">
-                                                <a href="news__cctv" class="project__link">
+                                                <a href="<?=HTML_ROOT;?>/news-items/cctv" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="img/news/cctv/cctv-bus-lanes-img.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/news/cctv/cctv-bus-lanes-img.jpg" alt="" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">CCTV Bus Lanes</h2>
                                                     <span class="project__client">Auckland Transport</span>
@@ -280,9 +281,9 @@
                                         </div>
                                         <div class="col-12 col-sm-4">
                                             <div class="project">
-                                                <a href="news__great-barrier" class="project__link">
+                                                <a href="<?=HTML_ROOT;?>/news-items/great-barrier" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="img/news/great-barrier/great-barrier-img.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/news/great-barrier/great-barrier-img.jpg" alt="" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Great Barrier</h2>
                                                     <span class="project__client">Auckland Council</span>
@@ -291,9 +292,9 @@
                                         </div>
                                         <div class="col-12 col-sm-4">
                                             <div class="project">
-                                                <a href="news__hop-top-up" class="project__link">
+                                                <a href="<?=HTML_ROOT;?>/news-items/hop-top-up" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="img/news/hop-top-up/hop-top-up-img.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/news/hop-top-up/hop-top-up-img.jpg" alt="" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Hop Top Up</h2>
                                                     <span class="project__client">Auckland Transport</span>
@@ -306,9 +307,9 @@
                                     <div class="row justify-content-left">
                                         <div class="col-12 col-sm-4">
                                             <div class="project">
-                                                <a href="news__simparica" class="project__link">
+                                                <a href="<?=HTML_ROOT;?>/news-items/simparica" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="img/news/simparica/simparica-img.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/news/simparica/simparica-img.jpg" alt="" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Simparica Taste Test</h2>
                                                     <span class="project__client">Zoetis</span>
@@ -317,9 +318,9 @@
                                         </div>
                                         <div class="col-12 col-sm-4">
                                             <div class="project">
-                                                <a href="news__suncorp-early-warning" class="project__link">
+                                                <a href="<?=HTML_ROOT;?>/news-items/suncorp-early-warning" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="img/news/suncorp-ews-img.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/news/suncorp-ews-img.jpg" alt="" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Suncorp Early Warning</h2>
                                                     <span class="project__client">Suncorp</span>
@@ -328,9 +329,9 @@
                                         </div>
                                         <div class="col-12 col-sm-4">
                                             <div class="project">
-                                                <a href="news__seatbelts" class="project__link">
+                                                <a href="<?=HTML_ROOT;?>/news-items/seatbelts" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="img/news/seatbelts.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/news/seatbelts.jpg" alt="" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Seatbelts</h2>
                                                     <span class="project__client">Auckland Transport</span>
@@ -348,4 +349,4 @@
     </div>
 </div>
     
-<?php include 'footer.php'; ?>
+<?php include ABSPATH . '/footer.php'; ?>

@@ -2,8 +2,9 @@
     $page_title = "Laura Loves Rewards";
     $page_description = "Igniting interest in a well-established rewards programme, Farm Source Rewards is an awesome program that passes profit value back to farmers.";
 
-    include 'header.php';
-    include 'work-video.php';
+    include 'config.php';
+	include ABSPATH . '/header.php';
+    include ABSPATH . '/work-video.php';
 ?>
 
 <div class="page page--results__farm-source-laura-rewards">
@@ -36,7 +37,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="project-feature-image">
-                    <img src="img/results/farm-source-laura-rewards/laura-rewards-photo.jpg" alt="" class="project-feature-image__photo">
+                    <img src="<?=HTML_ROOT;?>/img/results/farm-source-laura-rewards/laura-rewards-photo.jpg" alt="" class="project-feature-image__photo">
                 </div>
             </div>
         </div>
@@ -84,7 +85,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <a href="contact" class="section--project-stats__button" id="section--project-stats__button">
+                        <a href="<?=HTML_ROOT;?>/lets-talk" class="section--project-stats__button" id="section--project-stats__button">
                             <span class="section--project-stats__button-line-a">Impressed?</span>
                             <span class="section--project-stats__button-line-b"><span class="section--project-stats__button-white">Let’s talk</span> about your goals</span>
                         </a>
@@ -111,32 +112,32 @@
                                 <li data-slide="1" data-slide-title="Who is eligible" class="mini-slider__slide">
                                     <div class="feature-video feature" id="laura-rewards__video-a">
                                        <div class="feature-video__image-group">
-                                            <img src="img/results/farm-source-laura-rewards/video-a.jpg" alt="" class="feature-video__image">
-                                            <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/results/farm-source-laura-rewards/video-a.jpg" alt="" class="feature-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>
                                 <li data-slide="2" data-slide-title="How do I earn?" class="mini-slider__slide">
                                     <div class="feature-video feature" id="laura-rewards__video-b">
                                        <div class="feature-video__image-group">
-                                            <img src="img/results/farm-source-laura-rewards/video-b.jpg" alt="" class="feature-video__image">
-                                            <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/results/farm-source-laura-rewards/video-b.jpg" alt="" class="feature-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>
                                 <li data-slide="3" data-slide-title="How do I redeem?" class="mini-slider__slide">
                                     <div class="feature-video feature" id="laura-rewards__video-c">
                                        <div class="feature-video__image-group">
-                                            <img src="img/results/farm-source-laura-rewards/video-c.jpg" alt="" class="feature-video__image">
-                                            <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/results/farm-source-laura-rewards/video-c.jpg" alt="" class="feature-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>
                                 <li data-slide="4" data-slide-title="The Farm Source Rewards Card" class="mini-slider__slide">
                                     <div class="feature-video feature" id="laura-rewards__video-d">
                                        <div class="feature-video__image-group">
-                                            <img src="img/results/farm-source-laura-rewards/video-d.jpg" alt="" class="feature-video__image">
-                                            <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/results/farm-source-laura-rewards/video-d.jpg" alt="" class="feature-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>
@@ -173,7 +174,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-5">
-                    <img src="img/results/farm-source-laura-rewards/ipad.png" alt="" class="animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/results/farm-source-laura-rewards/ipad.png" alt="" class="animate animate--fade-up-25">
                 </div>
             </div>
         </div>
@@ -182,19 +183,19 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <a href="our-work__zoetis-ditch-the-itch" class="link-button section--project-next__button animate animate--fade-up-25">Next project</a>
+                    <a href="<?=HTML_ROOT;?>/our-work__zoetis-ditch-the-itch" class="link-button section--project-next__button animate animate--fade-up-25">Next project</a>
                 </div>
             </div>
             <div class="row justify-content-center section--project-next__row">
                 <div class="col-12 col-sm-10 col-md-9">
-                    <a href="our-work__zoetis-ditch-the-itch" class="project-next-img">
+                    <a href="<?=HTML_ROOT;?>/our-work__zoetis-ditch-the-itch" class="project-next-img">
                         <h2 class="visuallyhidden">Ditch the itch</h2>
                         <div class="project-next-img__text-mask project-next-img__text-mask--outer">
                             <div class="project-next-img__text project-next-img__text--outer">
                                 <span class="animate animate--slide-left-25">Ditch the itch</span>
                             </div>
                         </div>
-                        <img src="img/results/next-project--ditch-the-itch.jpg" alt="" class="project-next-img__image">
+                        <img src="<?=HTML_ROOT;?>/img/results/next-project--ditch-the-itch.jpg" alt="" class="project-next-img__image">
                         <div class="project-next-img__text-mask project-next-img__text-mask--inner">
                            <div class="project-next-img__text project-next-img__text--inner">
                                 <span class="animate animate--slide-left-25">Ditch the itch</span>
@@ -207,4 +208,4 @@
     </div>
 </div>
     
-<?php include 'footer.php'; ?>
+<?php include ABSPATH . '/footer.php'; ?>

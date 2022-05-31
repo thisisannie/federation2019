@@ -6,8 +6,9 @@
     $page_title = "Leading change";
     $page_description = "A leading, independent advertising agency in Aotearoa, New Zealand. Marketing solutions for your challenges and new opportunities.";
 
-    include 'header.php';
-    include 'work-video.php'; 
+    include 'config.php';
+	include ABSPATH . '/header.php';
+    include ABSPATH . '/work-video.php'; 
 ?>
 
 <div class="page page--home">   
@@ -46,7 +47,7 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-md-8">
                     <p class="animate animate--fade-up-25">Welcome to Federation.  We are a leading, independent advertising agency in Aotearoa, New Zealand. We create marketing solutions for the challenges you have now - and the opportunities you have next. Let us help you navigate your next move.</p>
-                    <a href="our-work" class="button button--red-inverse animate animate--fade-up-25">See our case studies</a>
+                    <a href="<?=HTML_ROOT;?>/our-work" class="button button--red-inverse animate animate--fade-up-25">See our case studies</a>
                 </div>
             </div>
         </div>            
@@ -68,8 +69,8 @@
                             </div>
                         </div>
                         <div class="feature-video__image-group">
-                            <img src="img/page--home/why-work-img.jpg" alt="" class="feature-video__image">
-                            <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                            <img src="<?=HTML_ROOT;?>/img/page--home/why-work-img.jpg" alt="" class="feature-video__image">
+                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
                         </div>
                         <div class="feature-video__text-mask feature-video__text-mask--inner">
                            <div class="feature-video__text feature-video__text--inner">
@@ -116,17 +117,17 @@
                     </div>
                 </div>
                 <!-- <div class="col-12 col-sm-4">
-                    <img src="img/page--home/value-img-a.jpg" alt="" class="feature-img__image talent-img-a">
+                    <img src="<?=HTML_ROOT;?>/img/page--home/value-img-a.jpg" alt="" class="feature-img__image talent-img-a">
                 </div> -->
             </div>
             <div class="row">
                 <div class="col-12 col-sm-4">
-                    <img src="img/page--home/value-img-b.png" alt="" class="phone animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/page--home/value-img-b.png" alt="" class="phone animate animate--fade-up-25">
                 </div>
                 <div class="col-12 col-sm-6 offset-sm-1">
                     <p class="animate animate--fade-up-25">We are independent by nature and use our challenger attitude to transform your brand and business results. But we know it only works when it ALL works. Which is why we involve ourselves in so much more than just advertising.  At Federation, we work with you to transform the entire customer experience your brand delivers, challenging the traditional with you to create the exceptional – for your brand, for every campaign and for every customer interaction and touchpoint.</p>
-                    <a href="what-we-do" class="button button--red animate animate--fade-up-25">Why work with us?</a>
-                    <img src="img/page--home/value-img-c.jpg" alt="" class="value-img-c animate animate--fade-up-25">
+                    <a href="<?=HTML_ROOT;?>/what-we-do" class="button button--red animate animate--fade-up-25">Why work with us?</a>
+                    <img src="<?=HTML_ROOT;?>/img/page--home/value-img-c.jpg" alt="" class="value-img-c animate animate--fade-up-25">
                 </div>
             </div>
         </div>
@@ -137,7 +138,7 @@
                 <div class="col-10 col-sm-8">
                     <div class="feature-img collab-feature">
                         <h2 class="visuallyhidden">We are 100% NZ</h2>
-                        <img src="img/page--home/Staff-shot.jpg" alt="" class="feature-img__image">
+                        <img src="<?=HTML_ROOT;?>/img/page--home/Staff-shot.jpg" alt="" class="feature-img__image">
                         <div class="feature-img__text feature-img__text--outer">
                             <span class="animate animate--slide-right-25">We are</span><br>
                             <div class="feature-titles">
@@ -178,13 +179,13 @@
                             </div>
                         </div>
                         <div class="stamp">
-                            <img src="img/page--home/stamp__rondell.png" alt="" class="stamp__rondell animate animate--rotate">
-                            <img src="img/page--home/stamp__f.png" alt="" class="stamp__f">
+                            <img src="<?=HTML_ROOT;?>/img/page--home/stamp__rondell.png" alt="" class="stamp__rondell animate animate--rotate">
+                            <img src="<?=HTML_ROOT;?>/img/page--home/stamp__f.png" alt="" class="stamp__f">
                         </div>
                     </div>
                 </div>
                 <!-- <div class="col-12 col-sm-3 offset-sm-1">
-                    <img src="img/page--home/collaborative-img-b.jpg" alt="" class="photo-b d-none d-sm-block animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/page--home/collaborative-img-b.jpg" alt="" class="photo-b d-none d-sm-block animate animate--fade-up-25">
                 </div> -->
             </div>
         </div>
@@ -196,12 +197,12 @@
                     <h2 class="talent-header animate animate--fade-up-25">A Federation of Talent</h2>
                     <p class="animate animate--fade-up-25">Current times demand a different way of working. We focus on what matters, we’re nimble and we understand what makes <span style="white-space: nowrap">New Zealanders</span> tick.</p>
                     <p class="animate animate--fade-up-25">Every challenge has unique requirements. We bring the right talent to the table to get to the job done, and done well. Because of this, we deliver extraordinary results faster.</p>
-                    <a href="about" class="button button--red animate animate--fade-up-25">Find out more</a>
+                    <a href="<?=HTML_ROOT;?>/about" class="button button--red animate animate--fade-up-25">Find out more</a>
                     <p class="federation animate animate--fade-up-25"><span class="def-med">Federation</span><span class="def-reg"> | fɛdəˈreɪʃ(ə)n | (n)</span><br>
                     The action of forming organisations into a single group with centralised control.</p>
                 </div>
                 <div class="col-12 col-sm-3 offset-sm-1 talent-img-col">
-                    <img src="img/page--home/collaborative-img-b.jpg" alt="" class="photo-b d-none d-sm-block animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/page--home/collaborative-img-b.jpg" alt="" class="photo-b d-none d-sm-block animate animate--fade-up-25">
                 </div>
             </div>
         </div>
@@ -219,7 +220,7 @@
             <div class="row intro">
                 <div class="col-12 col-sm-6 offset-sm-1">
                     <p class="animate animate--fade-up-25">Find out what Federation has been up to lately. We’ll keep you posted on our latest projects, events and happenings.</p>
-                    <a href="news" class="button button--red d-none d-sm-inline-block animate animate--fade-up-25">More latest news</a>
+                    <a href="<?=HTML_ROOT;?>/news" class="button button--red d-none d-sm-inline-block animate animate--fade-up-25">More latest news</a>
                 </div>
             </div>
             <div class="row">
@@ -239,62 +240,13 @@
                         "thumb_maritime.jpg"
                     );
                 ?>
-                <!-- <div class="col-12 col-sm-6 col-md-5 news-col">
-                    <div class="news-article news-article--left">
-						<a href="news__at-mobile-moment" class="news-article__link">
-                            <div class="news-article__feature-img">   
-                                <div class="news-article__text-mask news-article__text-mask--outer">
-                                    <h2 class="visuallyhidden">Mobile Moment</h2>
-                                    <div class="news-article__text news-article__text--outer">
-                                        <span class="animate animate--slide-left-25">Mobile Moment</span>
-                                    </div>
-                                </div>
-                                <div class="news-article__image-mask">
-                                    <img src="img/news/at-mobile-moment/article.jpg" alt="" class="news-article__image">
-                                </div>
-                                <div class="news-article__text-mask news-article__text-mask--inner">
-                                    <div class="news-article__text news-article__text--inner">
-                                        <span class="animate animate--slide-left-25">Mobile Moment</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <p class="animate animate--fade-up-25">Our latest video campaign for Auckland Transport encourages drivers to have a “Mobile Moment” before they hit the road.</p>
-                            <span class="link-button animate animate--fade-up-25">See more</span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-6 col-md-5 offset-md-2 news-col">
-                    <div class="news-article news-article--right">
-						<a href="news__blues" class="news-article__link">
-                            <div class="news-article__feature-img">   
-                                <div class="news-article__text-mask news-article__text-mask--outer">
-                                    <h2 class="visuallyhidden">Bring it Blue</h2>
-                                    <div class="news-article__text news-article__text--outer">
-                                        <span class="animate animate--slide-left-25">Bring it Blue</span>
-                                    </div>
-                                </div>
-                                <div class="news-article__image-mask">
-                                    <img src="img/news/blues/article.png" alt="" class="news-article__image">
-                                </div>
-                                <div class="news-article__text-mask news-article__text-mask--inner">
-                                    <div class="news-article__text news-article__text--inner">
-                                        <span class="animate animate--slide-left-25">Bring it Blue</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <p class="animate animate--fade-up-25">How do you recruit Aucklanders to get behind The Blues? Easy… take aim at the country’s biggest Hurricane’s fan!</p>
-                            <span class="link-button animate animate--fade-up-25">See more</span>
-                        </a>
-                    </div>
-                </div>
-            </div> -->
             <div class="row">
                 <div class="col-12 col-sm-6 offset-sm-1">
-                    <a href="news" class="button button--red d-inline-block d-sm-none animate animate--fade-up-25">More latest news</a>
+                    <a href="<?=HTML_ROOT;?>/news" class="button button--red d-inline-block d-sm-none animate animate--fade-up-25">More latest news</a>
                 </div>
             </div>
         </div>
     </div>
 </div>
  
-<?php include 'footer.php'; ?>
+<?php include ABSPATH . '/footer.php'; ?>

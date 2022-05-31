@@ -2,8 +2,9 @@
     $page_title = "AK Have Your Say";
     $page_description = "Turning public opinion in to actual influence on Auckland’s long-term planning and policy by giving Aucklanders a voice.";
 
-    include 'header.php';
-    include 'work-video.php';
+    include 'config.php';
+	include ABSPATH . '/header.php';
+    include ABSPATH . '/work-video.php';
 ?>
 
 <div class="page page--results__ac-ak-have-your-say">
@@ -35,7 +36,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="project-feature-image">
-                    <img src="img/results/ac-ak-have-your-say/banner.jpg" alt="" class="project-feature-image__photo">
+                    <img src="<?=HTML_ROOT;?>/img/results/ac-ak-have-your-say/banner.jpg" alt="" class="project-feature-image__photo">
                 </div>
             </div>
         </div>
@@ -85,7 +86,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <a href="contact" class="section--project-stats__button" id="section--project-stats__button">
+                        <a href="<?=HTML_ROOT;?>/lets-talk" class="section--project-stats__button" id="section--project-stats__button">
                             <span class="section--project-stats__button-line-a">Impressed?</span>
                             <span class="section--project-stats__button-line-b"><span class="section--project-stats__button-white">Let’s talk</span> about your goals</span>
                         </a>
@@ -108,8 +109,8 @@
                 <div class="col-12 col-md-10">
                     <div class="feature-video feature animate animate--fade-up-25" id="akhys__feature-video">
                        <div class="feature-video__image-group">
-                            <img src="img/results/ac-ak-have-your-say/featured-video.jpg" alt="" class="feature-video__image">
-                            <img src="img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                            <img src="<?=HTML_ROOT;?>/img/results/ac-ak-have-your-say/featured-video.jpg" alt="" class="feature-video__image">
+                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
                         </div>
                     </div>
                 </div>
@@ -128,13 +129,13 @@
             </div>
             <div class="row flex-nowrap poster-row">
                 <div class="col-5 col-md-4 offset-md-3">
-                    <img src="img/results/ac-ak-have-your-say/poster-a.jpg" alt="" class="poster">
+                    <img src="<?=HTML_ROOT;?>/img/results/ac-ak-have-your-say/poster-a.jpg" alt="" class="poster">
                 </div>
                 <div class="col-5 col-md-4">
-                    <img src="img/results/ac-ak-have-your-say/poster-b.jpg" alt="" class="poster">
+                    <img src="<?=HTML_ROOT;?>/img/results/ac-ak-have-your-say/poster-b.jpg" alt="" class="poster">
                 </div>
                 <div class="col-5 col-md-4">
-                    <img src="img/results/ac-ak-have-your-say/poster-c.jpg" alt="" class="poster">
+                    <img src="<?=HTML_ROOT;?>/img/results/ac-ak-have-your-say/poster-c.jpg" alt="" class="poster">
                 </div>
             </div>
         </div>
@@ -162,31 +163,31 @@
                     </div>
                     <div class="col-12 col-sm-5 offset-sm-1 col-md-5 offset-md-1">
                         <div class="phone-wrapper animate animate--fade-up-25">
-                            <img src="img/results/ac-ak-have-your-say/phone.png" alt="" class="phone">
+                            <img src="<?=HTML_ROOT;?>/img/results/ac-ak-have-your-say/phone.png" alt="" class="phone">
                             <div class="mini-slider__slides-mask">
                                 <ul class="mini-slider__slides">
                                     <li data-slide="1" class="mini-slider__slide">
                                         <div class="phone-video__image-group" id="akhys-social-1">
-                                            <img src="img/results/ac-ak-have-your-say/social-video-1.jpg" alt="" class="phone-video__image">
-                                            <img src="img/video-play-btn.png" alt="" class="phone-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/results/ac-ak-have-your-say/social-video-1.jpg" alt="" class="phone-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="phone-video__play-btn">
                                         </div>
                                     </li>
                                     <li data-slide="2" class="mini-slider__slide">
                                         <div class="phone-video__image-group" id="akhys-social-2">
-                                            <img src="img/results/ac-ak-have-your-say/social-video-2.jpg" alt="" class="phone-video__image">
-                                            <img src="img/video-play-btn.png" alt="" class="phone-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/results/ac-ak-have-your-say/social-video-2.jpg" alt="" class="phone-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="phone-video__play-btn">
                                         </div>
                                     </li>
                                     <li data-slide="3" class="mini-slider__slide">
                                         <div class="phone-video__image-group" id="akhys-social-3">
-                                            <img src="img/results/ac-ak-have-your-say/social-video-3.jpg" alt="" class="phone-video__image">
-                                            <img src="img/video-play-btn.png" alt="" class="phone-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/results/ac-ak-have-your-say/social-video-3.jpg" alt="" class="phone-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="phone-video__play-btn">
                                         </div>
                                     </li>
                                     <li data-slide="4" class="mini-slider__slide">
                                         <div class="phone-video__image-group" id="akhys-social-4">
-                                            <img src="img/results/ac-ak-have-your-say/social-video-4.jpg" alt="" class="phone-video__image">
-                                            <img src="img/video-play-btn.png" alt="" class="phone-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/results/ac-ak-have-your-say/social-video-4.jpg" alt="" class="phone-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="phone-video__play-btn">
                                         </div>
                                     </li>
                                 </ul>
@@ -202,19 +203,19 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <a href="our-work__cavbrem-rebrand" class="link-button section--project-next__button animate animate--fade-up-25">Next project</a>
+                    <a href="<?=HTML_ROOT;?>/our-work__cavbrem-rebrand" class="link-button section--project-next__button animate animate--fade-up-25">Next project</a>
                 </div>
             </div>
             <div class="row justify-content-center section--project-next__row">
                 <div class="col-12 col-sm-10 col-md-9">
-                    <a href="our-work__cavbrem-rebrand" class="project-next-img">
+                    <a href="<?=HTML_ROOT;?>/our-work__cavbrem-rebrand" class="project-next-img">
                         <h2 class="visuallyhidden">A World of Difference</h2>
                         <div class="project-next-img__text-mask project-next-img__text-mask--outer">
                             <div class="project-next-img__text project-next-img__text--outer">
                                 <span class="animate animate--slide-left-25">A World of Difference</span>
                             </div>
                         </div>
-                        <img src="img/page--home/home-banner.jpg" alt="" class="project-next-img__image">
+                        <img src="<?=HTML_ROOT;?>/img/page--home/home-banner.jpg" alt="" class="project-next-img__image">
                         <div class="project-next-img__text-mask project-next-img__text-mask--inner">
                            <div class="project-next-img__text project-next-img__text--inner">
                                 <span class="animate animate--slide-left-25">A World of Difference</span>
@@ -227,4 +228,4 @@
     </div>
 </div>
     
-<?php include 'footer.php'; ?>
+<?php include ABSPATH . '/footer.php'; ?>

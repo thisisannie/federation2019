@@ -2,7 +2,8 @@
     $page_title = "404 Page Not Found";
     $page_description = "Sorry, but the page you were trying to view does not exist.";
 
-    include 'header.php';
+    include 'config.php';
+	include ABSPATH . '/header.php';
 ?>
 
 <div class="page page--404">
@@ -28,4 +29,4 @@
 </div>
 <!-- IE needs 512+ bytes: https://blogs.msdn.microsoft.com/ieinternals/2010/08/18/friendly-http-error-pages/ -->
 
-<?php include 'footer.php'; ?>
+<?php include ABSPATH . '/footer.php'; ?>

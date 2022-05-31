@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.png"/>
 	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500&family=Raleway:wght@100;300;400;500;700&display=swap" rel="stylesheet"> 
-	<link rel="stylesheet" href="css/normalize.css">
-	<link rel="stylesheet" href="css/bootstrap-grid.css">
-	<link rel="stylesheet" type="text/css" href="css/slick.css"/>
-	<link rel="stylesheet" type="text/css" href="css/slick-theme.css"/>
-	<link rel="stylesheet" href="css/style.css?v=29">
+	<link rel="stylesheet" href="<?=HTML_ROOT;?>/css/normalize.css">
+	<link rel="stylesheet" href="<?=HTML_ROOT;?>/css/bootstrap-grid.css">
+	<link rel="stylesheet" type="text/css" href="<?=HTML_ROOT;?>/css/slick.css"/>
+	<link rel="stylesheet" type="text/css" href="<?=HTML_ROOT;?>/css/slick-theme.css"/>
+	<link rel="stylesheet" href="<?=HTML_ROOT;?>/css/style.css?v=29">
 
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -23,7 +23,7 @@
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-N89WZG3');</script>
 
-	<script src="js/pace.min.js"></script>
+	<script src="<?=HTML_ROOT;?>/js/pace.min.js"></script>
 </head>
 <body>
 	<!-- Google Tag Manager (noscript) -->
@@ -35,8 +35,8 @@
 		<div class="header" id="header">
 			<div class="logo-group">
 				<span class="visuallyhidden">Federation</span>
-				<a href="index">
-					<img src="img/logo_reverse.png" alt="" class="logo">
+				<a href="<?=HTML_ROOT;?>">
+					<img src="<?=HTML_ROOT;?>/img/logo_reverse.png" alt="" class="logo">
 				</a>
 				<div class="mobile-nav-btn-group">
 					<div class="open-mobile-nav is-visible" id="open-mobile-nav">
@@ -49,20 +49,20 @@
 			</div>
 			<nav>
 				<ul class="mobile-nav" id="mobile-nav">
-					<li class="mobile-nav-item"><a href="about" class="mobile-nav-link">About us</a></li>
-					<li class="mobile-nav-item"><a href="what-we-do" class="mobile-nav-link">What we do</a></li>
-					<li class="mobile-nav-item"><a href="our-work" class="mobile-nav-link">Our work</a></li>
-					<li class="mobile-nav-item"><a href="the-lab" class="mobile-nav-link">The lab</a></li>
-					<li class="mobile-nav-item"><a href="news" class="mobile-nav-link">News</a></li>
-					<li class="mobile-nav-item"><a href="lets-talk" class="mobile-nav-link">Let's talk</a></li>
+					<li class="mobile-nav-item"><a href="<?=HTML_ROOT;?>/about" class="mobile-nav-link">About us</a></li>
+					<li class="mobile-nav-item"><a href="<?=HTML_ROOT;?>/what-we-do" class="mobile-nav-link">What we do</a></li>
+					<li class="mobile-nav-item"><a href="<?=HTML_ROOT;?>/our-work" class="mobile-nav-link">Our work</a></li>
+					<li class="mobile-nav-item"><a href="<?=HTML_ROOT;?>/the-lab" class="mobile-nav-link">The lab</a></li>
+					<li class="mobile-nav-item"><a href="<?=HTML_ROOT;?>/news" class="mobile-nav-link">News</a></li>
+					<li class="mobile-nav-item"><a href="<?=HTML_ROOT;?>/lets-talk" class="mobile-nav-link">Let's talk</a></li>
 				</ul>
 				<ul class="main-nav">
-					<li class="main-nav-item"><a href="about" class="main-nav-link">About us</a></li>
-					<li class="main-nav-item"><a href="what-we-do" class="main-nav-link">What we do</a></li>
-					<li class="main-nav-item"><a href="our-work" class="main-nav-link">Our work</a></li>
-					<li class="main-nav-item"><a href="the-lab" class="main-nav-link">The lab</a></li>
-					<li class="main-nav-item"><a href="news" class="main-nav-link">News</a></li>
-					<li class="main-nav-item"><a href="lets-talk" class="main-nav-link">Let's talk</a></li>
+					<li class="main-nav-item"><a href="<?=HTML_ROOT;?>/about" class="main-nav-link">About us</a></li>
+					<li class="main-nav-item"><a href="<?=HTML_ROOT;?>/what-we-do" class="main-nav-link">What we do</a></li>
+					<li class="main-nav-item"><a href="<?=HTML_ROOT;?>/our-work" class="main-nav-link">Our work</a></li>
+					<li class="main-nav-item"><a href="<?=HTML_ROOT;?>/the-lab" class="main-nav-link">The lab</a></li>
+					<li class="main-nav-item"><a href="<?=HTML_ROOT;?>/news" class="main-nav-link">News</a></li>
+					<li class="main-nav-item"><a href="<?=HTML_ROOT;?>/lets-talk" class="main-nav-link">Let's talk</a></li>
 				</ul>
 			</nav>
 			<div class="mobile-nav-bg" id="mobile-nav-bg"></div>

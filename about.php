@@ -89,7 +89,8 @@
     $page_title = "About Us";
     $page_description = "In a world where businesses are expected to change at lightning speeds, we are changemakers. How is your brand seen on the outside?";
 
-    include 'header.php';
+    include 'config.php';
+	include ABSPATH . '/header.php';
 ?>
 
 <div class="page page--about">   
@@ -109,7 +110,7 @@
                         </div>
                     </div>
                     <div class="feature-img__bgvideo-wrapper" id="feature-img__bgvideo-wrapper">
-                        <img src="img/page--about/banner-about-us.jpg" alt="" class="feature-img__bgimage">
+                        <img src="<?=HTML_ROOT;?>/img/page--about/banner-about-us.jpg" alt="" class="feature-img__bgimage">
                     </div>
                     <div class="feature-img__text-mask feature-img__text-mask--inner">
                         <div class="feature-img__text feature-img__text--desktop feature-img__text--inner">
@@ -129,7 +130,7 @@
                 <div class="col-12 col-md-8">
                     <p class="animate animate--fade-up-25">In a world where businesses are expected to change at lightning speeds, we are changemakers. </p>
                     <p class="animate animate--fade-up-25">How is your brand seen on the outside? Does this reflect who you are on the inside?  With an understanding of people, purpose, culture, society and business, we can help you imagine entirely new connected consumer experiences.</p>
-                    <a href="our-work" class="button button--red-inverse animate animate--fade-up-25">See the results</a>
+                    <a href="<?=HTML_ROOT;?>/our-work" class="button button--red-inverse animate animate--fade-up-25">See the results</a>
                 </div>
             </div>
         </div>
@@ -190,14 +191,14 @@
     <div class="section section--white section--images">
         <div class="image-container">
             <div class="image-a">
-                <img src="img/page--about/tane.jpg" alt="" class="image-a__img">
+                <img src="<?=HTML_ROOT;?>/img/page--about/tane.jpg" alt="" class="image-a__img">
                 <div class="stamp">
-                    <img src="img/page--home/stamp__rondell.png" alt="" class="stamp__rondell animate animate--rotate">
-                    <img src="img/page--home/stamp__f.png" alt="" class="stamp__f">
+                    <img src="<?=HTML_ROOT;?>/img/page--home/stamp__rondell.png" alt="" class="stamp__rondell animate animate--rotate">
+                    <img src="<?=HTML_ROOT;?>/img/page--home/stamp__f.png" alt="" class="stamp__f">
                 </div>
             </div>
-            <img src="img/page--about/samoa.jpg" alt="" class="image-b">
-            <img src="img/page--about/true-honey.jpg" alt="" class="image-c">
+            <img src="<?=HTML_ROOT;?>/img/page--about/samoa.jpg" alt="" class="image-b">
+            <img src="<?=HTML_ROOT;?>/img/page--about/true-honey.jpg" alt="" class="image-c">
         </div>
     </div>
     
@@ -227,34 +228,34 @@
         <div class="horizontal-scroller client-logo-scroller">
             <ul class="horizontal-scroller__list">
                 <li class="horizontal-scroller__item">
-                    <div class="client-logo-container"><img src="img/page--about/flexi-cards.png" class="logo"></div>
+                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/page--about/flexi-cards.png" class="logo"></div>
                 </li>
                 <li class="horizontal-scroller__item">
-                    <div class="client-logo-container"><img src="img/page--about/ffc.png" class="logo"></div>
+                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/page--about/ffc.png" class="logo"></div>
                 </li>
                 <li class="horizontal-scroller__item">
-                    <div class="client-logo-container"><img src="img/page--about/qmc.png" class="logo"></div>
+                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/page--about/qmc.png" class="logo"></div>
                 </li>
                 <li class="horizontal-scroller__item">
-                    <div class="client-logo-container"><img src="img/page--about/qcard.png" class="logo"></div>
+                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/page--about/qcard.png" class="logo"></div>
                 </li>
                 <li class="horizontal-scroller__item">
-                    <div class="client-logo-container"><img src="img/page--about/at.png" class="logo"></div>
+                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/page--about/at.png" class="logo"></div>
                 </li>
                 <li class="horizontal-scroller__item">
-                    <div class="client-logo-container"><img src="img/page--about/auckland-council.png" class="logo"></div>
+                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/page--about/auckland-council.png" class="logo"></div>
                 </li>
                 <li class="horizontal-scroller__item">
-                    <div class="client-logo-container"><img src="img/page--about/zoetis.png" class="logo"></div>
+                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/page--about/zoetis.png" class="logo"></div>
                 </li>
                 <li class="horizontal-scroller__item">
-                    <div class="client-logo-container"><img src="img/page--about/emirates.png" class="logo"></div>
+                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/page--about/emirates.png" class="logo"></div>
                 </li>
                 <li class="horizontal-scroller__item">
-                    <div class="client-logo-container"><img src="img/page--about/nufarm.png" class="logo"></div>
+                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/page--about/nufarm.png" class="logo"></div>
                 </li>
                 <li class="horizontal-scroller__item">
-                    <div class="client-logo-container"><img src="img/page--about/kings-college.png" class="logo"></div>
+                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/page--about/kings-college.png" class="logo"></div>
                 </li>
             </ul>
         </div>
@@ -263,4 +264,4 @@
 
 </div>
     
-<?php include 'footer.php'; ?>
+<?php include ABSPATH . '/footer.php'; ?>

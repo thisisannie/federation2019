@@ -2,14 +2,15 @@
     $page_title = "The Lab - MarTech with heart";
     $page_description = "We use emotion-based principles and creativity to connect digital ecosystems, technology platforms, data and great content to drive value";
 
-    include 'header.php';
-    include 'work-video.php';
+    include 'config.php';
+	include ABSPATH . '/header.php';
+    include ABSPATH . '/work-video.php';
 ?>
 
 <div class="page page--recent-news__article article--the-lab"> 
     <div class="section section--white section--banner section--change-agents-banner">
-        <img src="img/news/the-lab/banner.jpg" alt="" class="feature-image">
-        <img src="img/news/the-lab/the-lab.png" alt="The Lab - MarTech with heart" class="article--the-lab__logo">
+        <img src="<?=HTML_ROOT;?>/img/news/the-lab/banner.jpg" alt="" class="feature-image">
+        <img src="<?=HTML_ROOT;?>/img/news/the-lab/the-lab.png" alt="The Lab - MarTech with heart" class="article--the-lab__logo">
         <h1 class="invisible">The Lab - MarTech with heart</h1>
     </div>
     <div class="section section--white article--the-lab__intro">
@@ -44,14 +45,14 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-sm-5">
                     <div class="article--the-lab__profile-container daisy">
-                        <img src="img/news/daisy/lab_daisy.jpg" alt="Daisy Conroy-Botica" class="article--the-lab__profile-img animate animate--fade-up-25">
+                        <img src="<?=HTML_ROOT;?>/img/news/daisy/lab_daisy.jpg" alt="Daisy Conroy-Botica" class="article--the-lab__profile-img animate animate--fade-up-25">
                         <p class="article--the-lab__profile-name animate animate--fade-up-25">Daisy Conroy-Botica<br>
                         <span class="article--the-lab__profile-title animate animate--fade-up-25">Digital and Social Lead</span></p>
                     </div>
                 </div>
                 <div class="col-12 col-sm-5">
                     <div class="article--the-lab__profile-container elizabeth">
-                        <img src="img/news/the-lab/elizabeth.jpg" alt="Elizabeth" class="article--the-lab__profile-img animate animate--fade-up-25">
+                        <img src="<?=HTML_ROOT;?>/img/news/the-lab/elizabeth.jpg" alt="Elizabeth" class="article--the-lab__profile-img animate animate--fade-up-25">
                         <p class="article--the-lab__profile-name animate animate--fade-up-25">Elizabeth Beatty<br>
                         <span class="article--the-lab__profile-title animate animate--fade-up-25">Managing Partner</span></p>
                     </div>
@@ -122,7 +123,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-12 col-md-6">
-                    <img src="img/news/the-lab/marketing-automation.jpg" alt="Marketing automation" class="marketing-automation__img animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/news/the-lab/marketing-automation.jpg" alt="Marketing automation" class="marketing-automation__img animate animate--fade-up-25">
                 </div>
                 <div class="col-12 col-md-6 marketing-automation__right-column">
                     <h2 class="h2 animate animate--fade-up-25">We put people at the heart of our approach to Marketing Automation</h2>
@@ -167,7 +168,7 @@
                     <p class="animate animate--fade-up-25">We use HEART tech tools and strategic processes that make it easier to find, get, keep, and grow customers in a way that completely aligns with your brand’s purpose and behaviour.</p>
                 </div>
                 <div class="col-12 col-md-6 order-1 order-md-2 d-flex align-items-center">
-                    <img src="img/news/the-lab/martech.png" alt="Martech" class="animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/news/the-lab/martech.png" alt="Martech" class="animate animate--fade-up-25">
                 </div>
             </div>
         </div>
@@ -184,17 +185,17 @@
                                 <ul class="mini-slider__slides">
                                     <li data-slide="1" data-slide-title="Effective use of Search" data-slide-paragraph="We help you navigate the complex and everchanging world of search to generate targeted leads and increase value."  class="mini-slider__slide">
                                         <div class="mini-slider__img-container">
-                                            <img src="img/news/the-lab/icon--search.png" alt="" class="mini-slider__img search">
+                                            <img src="<?=HTML_ROOT;?>/img/news/the-lab/icon--search.png" alt="" class="mini-slider__img search">
                                         </div>
                                     </li>
                                     <li data-slide="2" data-slide-title="Accelerated Acquisition programmes" data-slide-paragraph="Using data insights, we fully optimise acquisition programmes to target and convert the right customers, deploying a MarTech strategy customised to your business." class="mini-slider__slide">
                                         <div class="mini-slider__img-container">
-                                            <img src="img/news/the-lab/icon--aquisition.png" alt="" class="mini-slider__img aquisition">
+                                            <img src="<?=HTML_ROOT;?>/img/news/the-lab/icon--aquisition.png" alt="" class="mini-slider__img aquisition">
                                         </div>
                                     </li>
                                     <li data-slide="3" data-slide-title="Customer Growth programmes" data-slide-paragraph="We develop automated retention programmes to grow customer value and increase loyalty & advocacy, underpinned by the right MarTech solution for your business." class="mini-slider__slide">
                                         <div class="mini-slider__img-container">
-                                            <img src="img/news/the-lab/icon--growth.png" alt="" class="mini-slider__img growth">
+                                            <img src="<?=HTML_ROOT;?>/img/news/the-lab/icon--growth.png" alt="" class="mini-slider__img growth">
                                         </div>
                                     </li>
                                 </ul>
@@ -225,12 +226,12 @@
                                 <ul class="mini-slider__slides">
                                     <li data-slide="1" data-slide-title="Customer Value strategies" data-slide-paragraph="We use behavioural and data insights as well as customer journey mapping to identify the moments we can deliver and grow customer value and higher marketing returns."  class="mini-slider__slide">
                                         <div class="mini-slider__img-container">
-                                            <img src="img/news/the-lab/icon--customer-value.png" alt="" class="mini-slider__img customer-value">
+                                            <img src="<?=HTML_ROOT;?>/img/news/the-lab/icon--customer-value.png" alt="" class="mini-slider__img customer-value">
                                         </div>
                                     </li>
                                     <li data-slide="2" data-slide-title="Customer-centric content" data-slide-paragraph="Our creative and content teams develop highly targeted messages designed to really resonate with customers and grow their value." class="mini-slider__slide">
                                         <div class="mini-slider__img-container">
-                                            <img src="img/news/the-lab/icon--content.png" alt="" class="mini-slider__img content">
+                                            <img src="<?=HTML_ROOT;?>/img/news/the-lab/icon--content.png" alt="" class="mini-slider__img content">
                                         </div>
                                     </li>
                                 </ul>
@@ -259,7 +260,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 col-md-6">
-                    <img src="img/news/the-lab/Diagram_03.jpg" alt="" class="tools__wheel animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/news/the-lab/Diagram_03.jpg" alt="" class="tools__wheel animate animate--fade-up-25">
                 </div>
                 <div class="col-12 col-md-6 d-flex align-items-center">
                     <div>
@@ -287,4 +288,4 @@
     
 </div>
     
-<?php include 'footer.php'; ?>
+<?php include ABSPATH . '/footer.php'; ?>

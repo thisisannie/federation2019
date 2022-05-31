@@ -1,0 +1,13 @@
+<?php
+	define('ABSPATH', dirname(__FILE__));
+	define('HTML_ROOT', 'https://digitalstaging.federation.net.nz/federation/website-2019');
+
+function write_to_console($data) {
+	$console = $data;
+	if (is_array($console))
+	$console = implode(',', $console);
+ 
+	echo "<script>console.log('Console: " . $console . "' );</script>";
+ }
+ write_to_console('ABSPATH = ' . ABSPATH);
+ write_to_console('HTML_ROOT = ' . HTML_ROOT);
