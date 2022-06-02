@@ -233,7 +233,7 @@
                                     <div class="row justify-content-left">
                                         <div class="col-sm-4">
                                             <div class="project">
-                                                <a href="<?=HTML_ROOT;?>/news-items/at-blink-blink-blink" class="project__link">
+                                                <a href="<?=HTML_ROOT;?>/news/at-blink-blink-blink" class="project__link">
                                                     <div class="project__image-mask">
                                                         <img src="<?=HTML_ROOT;?>/img/news/at-blink-blink-blink/blink-blink-blink.jpg" alt="" class="project__image">
                                                     </div>
@@ -244,7 +244,7 @@
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="project">
-                                                <a href="<?=HTML_ROOT;?>/news-items/samoa" class="project__link">
+                                                <a href="<?=HTML_ROOT;?>/news/samoa" class="project__link">
                                                     <div class="project__image-mask">
                                                         <img src="<?=HTML_ROOT;?>/img/news/samoa/samoa.jpg" alt="" class="project__image">
                                                     </div>
@@ -255,7 +255,7 @@
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="project">
-                                                <a href="<?=HTML_ROOT;?>/news-items/q-airbnb" class="project__link">
+                                                <a href="<?=HTML_ROOT;?>/news/q-airbnb" class="project__link">
                                                     <div class="project__image-mask">
                                                         <img src="<?=HTML_ROOT;?>/img/page--home/news-img-a.jpg" alt="" class="project__image">
                                                     </div>
@@ -270,7 +270,7 @@
                                     <div class="row justify-content-left">
                                         <div class="col-12 col-sm-4">
                                             <div class="project">
-                                                <a href="<?=HTML_ROOT;?>/news-items/cctv" class="project__link">
+                                                <a href="<?=HTML_ROOT;?>/news/cctv" class="project__link">
                                                     <div class="project__image-mask">
                                                         <img src="<?=HTML_ROOT;?>/img/news/cctv/cctv-bus-lanes-img.jpg" alt="" class="project__image">
                                                     </div>
@@ -281,7 +281,7 @@
                                         </div>
                                         <div class="col-12 col-sm-4">
                                             <div class="project">
-                                                <a href="<?=HTML_ROOT;?>/news-items/great-barrier" class="project__link">
+                                                <a href="<?=HTML_ROOT;?>/news/great-barrier" class="project__link">
                                                     <div class="project__image-mask">
                                                         <img src="<?=HTML_ROOT;?>/img/news/great-barrier/great-barrier-img.jpg" alt="" class="project__image">
                                                     </div>
@@ -292,7 +292,7 @@
                                         </div>
                                         <div class="col-12 col-sm-4">
                                             <div class="project">
-                                                <a href="<?=HTML_ROOT;?>/news-items/hop-top-up" class="project__link">
+                                                <a href="<?=HTML_ROOT;?>/news/hop-top-up" class="project__link">
                                                     <div class="project__image-mask">
                                                         <img src="<?=HTML_ROOT;?>/img/news/hop-top-up/hop-top-up-img.jpg" alt="" class="project__image">
                                                     </div>
@@ -307,7 +307,7 @@
                                     <div class="row justify-content-left">
                                         <div class="col-12 col-sm-4">
                                             <div class="project">
-                                                <a href="<?=HTML_ROOT;?>/news-items/simparica" class="project__link">
+                                                <a href="<?=HTML_ROOT;?>/news/simparica" class="project__link">
                                                     <div class="project__image-mask">
                                                         <img src="<?=HTML_ROOT;?>/img/news/simparica/simparica-img.jpg" alt="" class="project__image">
                                                     </div>
@@ -318,7 +318,7 @@
                                         </div>
                                         <div class="col-12 col-sm-4">
                                             <div class="project">
-                                                <a href="<?=HTML_ROOT;?>/news-items/suncorp-early-warning" class="project__link">
+                                                <a href="<?=HTML_ROOT;?>/news/suncorp-early-warning" class="project__link">
                                                     <div class="project__image-mask">
                                                         <img src="<?=HTML_ROOT;?>/img/news/suncorp-ews-img.jpg" alt="" class="project__image">
                                                     </div>
@@ -329,7 +329,7 @@
                                         </div>
                                         <div class="col-12 col-sm-4">
                                             <div class="project">
-                                                <a href="<?=HTML_ROOT;?>/news-items/seatbelts" class="project__link">
+                                                <a href="<?=HTML_ROOT;?>/news/seatbelts" class="project__link">
                                                     <div class="project__image-mask">
                                                         <img src="<?=HTML_ROOT;?>/img/news/seatbelts.jpg" alt="" class="project__image">
                                                     </div>

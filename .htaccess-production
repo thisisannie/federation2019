@@ -1,67 +1,76 @@
 ErrorDocument 404 /404.php
 
 RewriteEngine On
+
+# Manually re-route news/ requests to news
+RewriteCond %{REQUEST_FILENAME} news/$
+RewriteRule ^(.*)/$ $1 
+
+# Hide extension
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^([^\.]+)$ $1.php [NC,L]
+#RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
 RewriteCond %{HTTPS} !=on
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 
 # old redirects
-Redirect 301 /latest__brand-new /news-items/brand-new
-Redirect 301 /latest__loreal /news-items/loreal
-Redirect 301 /latest__elanco /news-items/elanco
-Redirect 301 /latest__tony /news-items/tony
+Redirect 301 /latest__brand-new /news/brand-new
+Redirect 301 /latest__loreal /news/loreal
+Redirect 301 /latest__elanco /news/elanco
+Redirect 301 /latest__tony /news/tony
 Redirect 301 /latest__the-lab /the-lab
-Redirect 301 /recent-news__akhys /news-items/akhys
-Redirect 301 /recent-news__at-blink-blink-blink /news-items/at-blink-blink-blink
-Redirect 301 /recent-news__cctv /news-items/cctv
-Redirect 301 /recent-news__change-agents /news-items/change-agents
-Redirect 301 /recent-news__emirates-bali-weekend /news-items/emirates-bali-weekend
-Redirect 301 /recent-news__great-barrier /news-items/great-barrier
-Redirect 301 /recent-news__hop-top-up /news-items/hop-top-up
-Redirect 301 /recent-news__q-airbnb /news-items/q-airbnb
-Redirect 301 /recent-news__samoa /news-items/samoa
-Redirect 301 /recent-news__seatbelts /news-items/seatbelts
-Redirect 301 /recent-news__simparica /news-items/simparica
-Redirect 301 /recent-news__suncorp-early-warning /news-items/suncorp-early-warning
-Redirect 301 /recent-news__variety /news-items/variety
+Redirect 301 /recent-news__akhys /our-work__ac-ak-have-your-say
+Redirect 301 /recent-news__at-blink-blink-blink /news/at-blink-blink-blink
+Redirect 301 /recent-news__cctv /news/cctv
+Redirect 301 /recent-news__change-agents /news/change-agents
+Redirect 301 /recent-news__emirates-bali-weekend /news/emirates-bali-weekend
+Redirect 301 /recent-news__great-barrier /news/great-barrier
+Redirect 301 /recent-news__hop-top-up /news/hop-top-up
+Redirect 301 /recent-news__q-airbnb /news/q-airbnb
+Redirect 301 /recent-news__samoa /news/samoa
+Redirect 301 /recent-news__seatbelts /news/seatbelts
+Redirect 301 /recent-news__simparica /news/simparica
+Redirect 301 /recent-news__suncorp-early-warning /news/suncorp-early-warning
+Redirect 301 /recent-news__variety /news/variety
 
 # News items redirects
-Redirect 301 /news__akl-council-afip /news-items/akl-council-afip
-Redirect 301 /news__alcohol-awareness /news-items/alcohol-awareness
-Redirect 301 /news__at-blink-blink-blink /news-items/at-blink-blink-blink
-Redirect 301 /news__at-mobile-moment /news-items/at-mobile-moment
-Redirect 301 /news__blues /news-items/blues
-Redirect 301 /news__bobbie /news-items/bobbie
-Redirect 301 /news__brand-new /news-items/brand-new
-Redirect 301 /news__cctv /news-items/cctv
-Redirect 301 /news__change-agents /news-items/change-agents
-Redirect 301 /news__daisy /news-items/daisy
-Redirect 301 /news__drive-karma /news-items/drive-karma
-Redirect 301 /news__elanco /news-items/elanco
-Redirect 301 /news__emirates-bali-weekend /news-items/emirates-bali-weekend
-Redirect 301 /news__great-barrier /news-items/great-barrier
-Redirect 301 /news__hop-top-up /news-items/hop-top-up
-Redirect 301 /news__loreal /news-items/loreal
-Redirect 301 /news__luxe /news-items/luxe
-Redirect 301 /news__maritime /news-items/maritime
-Redirect 301 /news__massey-pacific /news-items/massey-pacific
-Redirect 301 /news__massey-recruitment /news-items/massey-recruitment
-Redirect 301 /news__massey /news-items/massey
-Redirect 301 /news__motorbike-safety /news-items/motorbike-safety
-Redirect 301 /news__nz-marketing-mag /news-items/nz-marketing-mag
-Redirect 301 /news__opera-unruly /news-items/opera-unruly
-Redirect 301 /news__opera /news-items/opera
-Redirect 301 /news__opeta /news-items/opeta
-Redirect 301 /news__q-airbnb /news-items/q-airbnb
-Redirect 301 /news__samoa /news-items/samoa
-Redirect 301 /news__seatbelts /news-items/seatbelts
-Redirect 301 /news__simparica /news-items/simparica
-Redirect 301 /news__summer-cycling /news-items/summer-cycling
-Redirect 301 /news__suncorp-early-warning /news-items/suncorp-early-warning
-Redirect 301 /news__tony /news-items/tony
+Redirect 301 /news__akl-council-afip /news/akl-council-afip
+Redirect 301 /news__alcohol-awareness /news/alcohol-awareness
+Redirect 301 /news__at-blink-blink-blink /news/at-blink-blink-blink
+Redirect 301 /news__at-mobile-moment /news/at-mobile-moment
+Redirect 301 /news__blues /news/blues
+Redirect 301 /news__bobbie /news/bobbie
+Redirect 301 /news__brand-new /news/brand-new
+Redirect 301 /news__cctv /news/cctv
+Redirect 301 /news__change-agents /news/change-agents
+Redirect 301 /news__daisy /news/daisy
+Redirect 301 /news__drive-karma /news/drive-karma
+Redirect 301 /news__elanco /news/elanco
+Redirect 301 /news__emirates-bali-weekend /news/emirates-bali-weekend
+Redirect 301 /news__great-barrier /news/great-barrier
+Redirect 301 /news__hop-top-up /news/hop-top-up
+Redirect 301 /news__loreal /news/loreal
+Redirect 301 /news__luxe /news/luxe
+Redirect 301 /news__maritime /news/maritime
+Redirect 301 /news__massey-pacific /news/massey-pacific
+Redirect 301 /news__massey-recruitment /news/massey-recruitment
+Redirect 301 /news__massey /news/massey
+Redirect 301 /news__motorbike-safety /news/motorbike-safety
+Redirect 301 /news__nz-marketing-mag /news/nz-marketing-mag
+Redirect 301 /news__opera-unruly /news/opera-unruly
+Redirect 301 /news__opera /news/opera
+Redirect 301 /news__opeta /news/opeta
+Redirect 301 /news__q-airbnb /news/q-airbnb
+Redirect 301 /news__samoa /news/samoa
+Redirect 301 /news__seatbelts /news/seatbelts
+Redirect 301 /news__simparica /news/simparica
+Redirect 301 /news__summer-cycling /news/summer-cycling
+Redirect 301 /news__suncorp-early-warning /news/suncorp-early-warning
+Redirect 301 /news__tony /news/tony
 
 Redirect 301 /results /our-work
 Redirect 301 /results__ac-ak-have-your-say /our-work__ac-ak-have-your-say

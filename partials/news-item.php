@@ -1,7 +1,7 @@
 <!-- News Item -->
 <div class="col-12 col-sm-6 col-md-5 <?php if($side == "right") {echo "offset-md-2";} ?> news-col">
     <div class="news-article news-article--<?php echo $side ?>">
-        <a href="<?=HTML_ROOT;?>/news-items/<?php echo $slug ?>" class="news-article__link">
+        <a href="<?=HTML_ROOT;?>/news/<?php echo $slug ?>" class="news-article__link">
             <div class="news-article__feature-img">
                 <div class="news-article__text-mask news-article__text-mask--outer">
                     <h2 class="visuallyhidden"><?php echo $title ?></h2>
