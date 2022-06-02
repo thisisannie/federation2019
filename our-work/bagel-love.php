@@ -2,7 +2,7 @@
 	$page_title = "Bagel Love - the love you hunger for";
 	$page_description = "COVID had a real impact on NZ business and many of us reached out to help our neighbours. Through lockdown we worked closely with them to develop a compelling brand.";
 
-	include 'config.php';
+	include '../config.php';
 	include ABSPATH . '/header.php';
 	include ABSPATH . '/work-video.php'; 
 ?>
@@ -133,12 +133,12 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12">
-						<a href="<?=HTML_ROOT;?>/our-work__ateed-elemental" class="link-button section--project-next__button">Next project</a>
+						<a href="<?=HTML_ROOT;?>/our-work/ateed-elemental" class="link-button section--project-next__button">Next project</a>
 					</div>
 				</div>
 				<div class="row justify-content-center section--project-next__row">
 					<div class="col-12 col-sm-10 col-md-9">
-						<a href="<?=HTML_ROOT;?>/our-work__ateed-elemental" class="project-next-img">
+						<a href="<?=HTML_ROOT;?>/our-work/ateed-elemental" class="project-next-img">
 							<h2 class="visuallyhidden">Elemental</h2>
 							<div class="project-next-img__text-mask project-next-img__text-mask--outer">
 								<div class="project-next-img__text project-next-img__text--outer">

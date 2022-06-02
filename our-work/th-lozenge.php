@@ -1,10 +1,10 @@
 <?php 
-    $page_title = "True Honey Lozenge Launch";
-    $page_description = "Launching a new product category for The True Honey Co to New Zealand, Middle East and UK markets. Striking print ads like an art piece in a gallery.";
+	$page_title = "True Honey Lozenge Launch";
+	$page_description = "Launching a new product category for The True Honey Co to New Zealand, Middle East and UK markets. Striking print ads like an art piece in a gallery.";
 
-    include 'config.php';
+	include '../config.php';
 	include ABSPATH . '/header.php';
-		include ABSPATH . '/work-video.php';
+	include ABSPATH . '/work-video.php';
 ?>
 
 <div class="page page--results__th-lozenge">
@@ -77,12 +77,12 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-12">
-					<a href="<?=HTML_ROOT;?>/our-work__bagel-love" class="link-button section--project-next__button">Next project</a>
+					<a href="<?=HTML_ROOT;?>/our-work/bagel-love" class="link-button section--project-next__button">Next project</a>
 				</div>
 			</div>
 			<div class="row justify-content-center section--project-next__row">
 				<div class="col-12 col-sm-10 col-md-9">
-					<a href="<?=HTML_ROOT;?>/our-work__bagel-love" class="project-next-img">
+					<a href="<?=HTML_ROOT;?>/our-work/bagel-love" class="project-next-img">
 						<h2 class="visuallyhidden">Spreading more brand love</h2>
 						<div class="project-next-img__text-mask project-next-img__text-mask--outer">
 							<div class="project-next-img__text project-next-img__text--outer">

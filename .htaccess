@@ -6,6 +6,10 @@ ErrorDocument 404 /404.php
 RewriteCond %{REQUEST_FILENAME} news/$
 RewriteRule ^(.*)/$ $1 
 
+# Manually re-route our-work/ requests to our-work
+RewriteCond %{REQUEST_FILENAME} our-work/$
+RewriteRule ^(.*)/$ $1 
+
 # Hide extension
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php

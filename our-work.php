@@ -74,7 +74,7 @@
             <div class="row justify-content-left project-row">
 				<div class="col-12 col-sm-4">
                     <div class="project">
-                        <a href="<?=HTML_ROOT;?>/our-work__true-honey" class="project__link">
+                        <a href="<?=HTML_ROOT;?>/our-work/true-honey" class="project__link">
                             <div class="project__image-mask">
                                 <img src="<?=HTML_ROOT;?>/img/results/true-honey.jpg" alt="" class="project__image">
                             </div>
@@ -85,7 +85,7 @@
 				</div>
 				<div class="col-12 col-sm-4">
                     <div class="project">
-                        <a href="<?=HTML_ROOT;?>/our-work__th-lozenge" class="project__link">
+                        <a href="<?=HTML_ROOT;?>/our-work/th-lozenge" class="project__link">
                             <div class="project__image-mask">
                                 <img src="<?=HTML_ROOT;?>/img/results/lozenge-launch.jpg" alt="" class="project__image">
                             </div>
@@ -96,7 +96,7 @@
 				</div>
 				<div class="col-12 col-sm-4">
                     <div class="project">
-                        <a href="<?=HTML_ROOT;?>/our-work__bagel-love" class="project__link">
+                        <a href="<?=HTML_ROOT;?>/our-work/bagel-love" class="project__link">
                             <div class="project__image-mask">
                                 <img src="<?=HTML_ROOT;?>/img/results/bagel-love.jpg" alt="" class="project__image">
                             </div>
@@ -107,7 +107,7 @@
                 </div>
                 <div class="col-12 col-sm-4">
                     <div class="project">
-                        <a href="<?=HTML_ROOT;?>/our-work__ateed-elemental" class="project__link">
+                        <a href="<?=HTML_ROOT;?>/our-work/ateed-elemental" class="project__link">
                             <div class="project__image-mask">
                                 <img src="<?=HTML_ROOT;?>/img/results/elemental.jpg" alt="" class="project__image">
                             </div>
@@ -118,7 +118,7 @@
                 </div>
                 <div class="col-12 col-sm-4">
 					<div class="project">
-                        <a href="<?=HTML_ROOT;?>/our-work__at-summer-cycling" class="project__link">
+                        <a href="<?=HTML_ROOT;?>/our-work/at-summer-cycling" class="project__link">
                             <div class="project__image-mask">
                                 <img src="<?=HTML_ROOT;?>/img/results/summer-cycling.jpg" alt="" class="project__image">
                             </div>
@@ -129,7 +129,7 @@
                 </div>
                 <div class="col-12 col-sm-4">
                     <div class="project">
-                        <a href="<?=HTML_ROOT;?>/our-work__ac-ak-have-your-say" class="project__link">
+                        <a href="<?=HTML_ROOT;?>/our-work/ac-ak-have-your-say" class="project__link">
                             <div class="project__image-mask">
                                 <img src="<?=HTML_ROOT;?>/img/results/ak-have-your-say.jpg" alt="" class="project__image">
                             </div>
@@ -140,7 +140,7 @@
                 </div>
                 <div class="col-12 col-sm-4">
                     <div class="project">
-                        <a href="<?=HTML_ROOT;?>/our-work__cavbrem-rebrand" class="project__link">
+                        <a href="<?=HTML_ROOT;?>/our-work/cavbrem-rebrand" class="project__link">
                             <div class="project__image-mask">
                                 <img src="<?=HTML_ROOT;?>/img/results/cavbrem.jpg" alt="" class="project__image">
                             </div>
@@ -151,7 +151,7 @@
                 </div>
                 <div class="col-12 col-sm-4">
                     <div class="project">
-                        <a href="<?=HTML_ROOT;?>/our-work__farm-source-laura-rewards" class="project__link">
+                        <a href="<?=HTML_ROOT;?>/our-work/farm-source-laura-rewards" class="project__link">
                             <div class="project__image-mask">
                                 <img src="<?=HTML_ROOT;?>/img/results/laura-rewards.jpg" alt="" class="project__image">
                             </div>
@@ -162,7 +162,7 @@
                 </div>
                 <div class="col-12 col-sm-4">
                     <div class="project">
-                        <a href="<?=HTML_ROOT;?>/our-work__zoetis-ditch-the-itch" class="project__link">
+                        <a href="<?=HTML_ROOT;?>/our-work/zoetis-ditch-the-itch" class="project__link">
                             <div class="project__image-mask">
                                 <img src="<?=HTML_ROOT;?>/img/results/zoetis.jpg" alt="" class="project__image">
                             </div>
@@ -173,7 +173,7 @@
                 </div>
                 <div class="col-12 col-sm-4">
 					<div class="project">
-                        <a href="<?=HTML_ROOT;?>/our-work__jbwere-website" class="project__link">
+                        <a href="<?=HTML_ROOT;?>/our-work/jbwere-website" class="project__link">
                             <div class="project__image-mask">
                                 <img src="<?=HTML_ROOT;?>/img/results/jb-were.jpg" alt="" class="project__image">
                             </div>

@@ -2,7 +2,7 @@
     $page_title = "Cavalier Bremworth Rebrand";
     $page_description = "When Cavalier Bremworth looked to Federation for a category breaking re-launch that would create a rapid shift in consumer perceptions.";
 
-    include 'config.php';
+    include '../config.php';
 	include ABSPATH . '/header.php';
     include ABSPATH . '/work-video.php';
 ?>
@@ -174,12 +174,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <a href="<?=HTML_ROOT;?>/our-work__farm-source-laura-rewards" class="link-button section--project-next__button animate animate--fade-up-25">Next project</a>
+                    <a href="<?=HTML_ROOT;?>/our-work/farm-source-laura-rewards" class="link-button section--project-next__button animate animate--fade-up-25">Next project</a>
                 </div>
             </div>
             <div class="row justify-content-center section--project-next__row">
                 <div class="col-12 col-sm-10 col-md-9">
-                    <a href="<?=HTML_ROOT;?>/our-work__farm-source-laura-rewards" class="project-next-img">
+                    <a href="<?=HTML_ROOT;?>/our-work/farm-source-laura-rewards" class="project-next-img">
                         <h2 class="visuallyhidden">Laura Rewards</h2>
                         <div class="project-next-img__text-mask project-next-img__text-mask--outer">
                             <div class="project-next-img__text project-next-img__text--outer">

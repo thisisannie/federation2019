@@ -2,7 +2,7 @@
     $page_title = "Ditch the Itch";
     $page_description = "Educating dog owners to the underlying problems of itches by interpreting their dog's symptoms.";
 
-    include 'config.php';
+    include '../config.php';
 	include ABSPATH . '/header.php';
     include ABSPATH . '/work-video.php';
 ?>
@@ -194,12 +194,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <a href="<?=HTML_ROOT;?>/our-work__at-summer-cycling" class="link-button section--project-next__button">Next project</a>
+                    <a href="<?=HTML_ROOT;?>/our-work/at-summer-cycling" class="link-button section--project-next__button">Next project</a>
                 </div>
             </div>
             <div class="row justify-content-center section--project-next__row">
                 <div class="col-12 col-sm-10 col-md-9">
-                    <a href="<?=HTML_ROOT;?>/our-work__at-summer-cycling" class="project-next-img">
+                    <a href="<?=HTML_ROOT;?>/our-work/at-summer-cycling" class="project-next-img">
                         <h2 class="visuallyhidden">Live the bike life</h2>
                         <div class="project-next-img__text-mask project-next-img__text-mask--outer">
                             <div class="project-next-img__text project-next-img__text--outer">

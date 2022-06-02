@@ -2,7 +2,7 @@
     $page_title = "JBWere website";
     $page_description = "Creating a brand that embraces our changing world, with a new websitesite that introduces and represents them to visitors.";
 
-    include 'config.php';
+    include '../config.php';
 	include ABSPATH . '/header.php';
 ?>
 
@@ -162,12 +162,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <a href="<?=HTML_ROOT;?>/our-work__ac-ak-have-your-say" class="link-button section--project-next__button">Next project</a>
+                    <a href="<?=HTML_ROOT;?>/our-work/ac-ak-have-your-say" class="link-button section--project-next__button">Next project</a>
                 </div>
             </div>
             <div class="row justify-content-center section--project-next__row">
                 <div class="col-12 col-sm-10 col-md-9">
-                    <a href="<?=HTML_ROOT;?>/our-work__ac-ak-have-your-say" class="project-next-img">
+                    <a href="<?=HTML_ROOT;?>/our-work/ac-ak-have-your-say" class="project-next-img">
                         <h2 class="visuallyhidden">AK Have Your Say</h2>
                         <div class="project-next-img__text-mask project-next-img__text-mask--outer">
                             <div class="project-next-img__text project-next-img__text--outer">
