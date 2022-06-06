@@ -1,6 +1,6 @@
 ErrorDocument 404 /404.php
 
-#RewriteEngine On
+RewriteEngine On
 
 # Manually re-route news/ requests to news
 RewriteCond %{REQUEST_FILENAME} news/$
@@ -17,21 +17,35 @@ RewriteRule ^(.*)$ $1.php
 RewriteCond %{REQUEST_FILENAME} !-f
 #RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
+# old redirects
+Redirect 301 /latest__brand-new /news/brand-new
+Redirect 301 /latest__loreal /news/loreal
+Redirect 301 /latest__elanco /news/elanco
+Redirect 301 /latest__tony /news/tony
+Redirect 301 /latest__the-lab /the-lab
+Redirect 301 /recent-news__akhys /our-work/ac-ak-have-your-say
+Redirect 301 /recent-news__at-blink-blink-blink /news/at-blink-blink-blink
+Redirect 301 /recent-news__cctv /news/cctv
+Redirect 301 /recent-news__change-agents /news/change-agents
+Redirect 301 /recent-news__emirates-bali-weekend /news/emirates-bali-weekend
+Redirect 301 /recent-news__great-barrier /news/great-barrier
+Redirect 301 /recent-news__hop-top-up /news/hop-top-up
+Redirect 301 /recent-news__q-airbnb /news/q-airbnb
+Redirect 301 /recent-news__samoa /news/samoa
+Redirect 301 /recent-news__seatbelts /news/seatbelts
+Redirect 301 /recent-news__simparica /news/simparica
+Redirect 301 /recent-news__suncorp-early-warning /news/suncorp-early-warning
+Redirect 301 /recent-news__variety /news/variety
 Redirect 301 /results /our-work
-Redirect 301 /results__ac-ak-have-your-say /our-work__ac-ak-have-your-say
-Redirect 301 /results__ac-elections /our-work__ac-elections
-Redirect 301 /results__at-cctv /our-work__at-cctv
-Redirect 301 /results__at-seatbelts /our-work__at-seatbelts
-Redirect 301 /results__at-summer-cycling /our-work__at-summer-cycling
-Redirect 301 /results__ateed-elemental /our-work__ateed-elemental
-Redirect 301 /results__cavbrem-rebrand /our-work__cavbrem-rebrand
-Redirect 301 /results__emirates-door-to-bali /our-work__emirates-door-to-bali
-Redirect 301 /results__farm-source-laura-rewards /our-work__farm-source-laura-rewards
-Redirect 301 /results__flexi-group-qmas-2017 /our-work__flexi-group-qmas-2017
-Redirect 301 /results__jbwere-website /our-work__jbwere-website
-Redirect 301 /results__zoetis-ditch-the-itch_slider-test /our-work__zoetis-ditch-the-itch_slider-test
-Redirect 301 /results__zoetis-ditch-the-itch /our-work__zoetis-ditch-the-itch
-Redirect 301 /recent-news /news
+Redirect 301 /results__ac-ak-have-your-say /our-work/ac-ak-have-your-say
+Redirect 301 /results__at-summer-cycling /our-work/at-summer-cycling
+Redirect 301 /results__ateed-elemental /our-work/ateed-elemental
+Redirect 301 /results__cavbrem-rebrand /our-work/cavbrem-rebrand
+Redirect 301 /results__farm-source-laura-rewards /our-work/farm-source-laura-rewards
+Redirect 301 /results__jbwere-website /our-work/jbwere-website
+Redirect 301 /results__zoetis-ditch-the-itch /our-work/zoetis-ditch-the-itch
+
+# News items redirects
 Redirect 301 /news__akl-council-afip /news/akl-council-afip
 Redirect 301 /news__alcohol-awareness /news/alcohol-awareness
 Redirect 301 /news__at-blink-blink-blink /news/at-blink-blink-blink
@@ -65,5 +79,20 @@ Redirect 301 /news__simparica /news/simparica
 Redirect 301 /news__summer-cycling /news/summer-cycling
 Redirect 301 /news__suncorp-early-warning /news/suncorp-early-warning
 Redirect 301 /news__tony /news/tony
+
+# Our Work items redirects
+Redirect 301 /our-work__ac-ak-have-your-say.php /our-work/ac-ak-have-your-say.php
+Redirect 301 /our-work__at-summer-cycling.php /our-work/at-summer-cycling.php
+Redirect 301 /our-work__ateed-elemental.php /our-work/ateed-elemental.php
+Redirect 301 /our-work__bagel-love.php /our-work/bagel-love.php
+Redirect 301 /our-work__cavbrem-rebrand.php /our-work/cavbrem-rebrand.php
+Redirect 301 /our-work__farm-source-laura-rewards.php /our-work/farm-source-laura-rewards.php
+Redirect 301 /our-work__jbwere-website.php /our-work/jbwere-website.php
+Redirect 301 /our-work__th-lozenge.php /our-work/th-lozenge.php
+Redirect 301 /our-work__true-honey.php /our-work/true-honey.php
+Redirect 301 /our-work__zoetis-ditch-the-itch.php /our-work/zoetis-ditch-the-itch.php
+
+# Other redirects
+Redirect 301 /results /our-work
+Redirect 301 /recent-news /news
 Redirect 301 /contact /lets-talk
-RewriteEngine on
