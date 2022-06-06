@@ -1,5 +1,5 @@
 <?php 
-    $page_title = "Portfolio";
+    $page_title = "Our Work Portfolio";
     $page_description = "From the rich consumer insights and behavioural data we harness, to the creation of a compelling brand narrative.";
 
     include 'config.php';
