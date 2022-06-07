@@ -3,8 +3,8 @@
     $page_description = "When Cavalier Bremworth looked to Federation for a category breaking re-launch that would create a rapid shift in consumer perceptions.";
 
     include '../config.php';
-	include ABSPATH . '/header.php';
-    include ABSPATH . '/work-video.php';
+	include ABSPATH . '/partials/header.php';
+    include ABSPATH . '/partials/work-video.php';
 ?>
 
 <div class="page page--results__cavbrem-rebrand">
@@ -199,4 +199,4 @@
     </div>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

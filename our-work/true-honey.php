@@ -3,8 +3,8 @@
     $page_description = "Developing an engaging e-commerce experience and smooth UX to tell the True Honey Story.";
 
     include '../config.php';
-	include ABSPATH . '/header.php';
-    include ABSPATH . '/work-video.php';
+	include ABSPATH . '/partials/header.php';
+    include ABSPATH . '/partials/work-video.php';
 ?>
 
 <div class="page page--results__true-honey">
@@ -167,4 +167,4 @@
     </div>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

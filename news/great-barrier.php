@@ -3,10 +3,10 @@
     $page_description = "You can’t send junk mail out about good waste habits. So our communication itself was reusable and environmentally friendly, especially for the islands birds.";
 
     include '../config.php';
-	include ABSPATH . '/header.php';
+	include ABSPATH . '/partials/header.php';
 ?>
 
-<?php include ABSPATH . '/work-video.php'; ?>
+<?php include ABSPATH . '/partials/work-video.php'; ?>
 
 <div class="page page--recent-news__article">
     <div class="section section--white section--projects-intro">
@@ -97,7 +97,7 @@
             </div>
         </div>
     </div>
-    <?php include ABSPATH . '/results-widget.php'; ?>
+    <?php include ABSPATH . '/partials/results-widget.php'; ?>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

@@ -3,8 +3,8 @@
     $page_description = "With a Vision Zero goal that identifies one death on our roads is one too many, AT worked with Federation to create a disruptive behaviour-change campaign.";
 
     include '../config.php';
-	include ABSPATH . '/header.php';
-    include ABSPATH . '/work-video.php';
+	include ABSPATH . '/partials/header.php';
+    include ABSPATH . '/partials/work-video.php';
 
 	$array = [
 		"title1" => "Motorbike",
@@ -107,7 +107,7 @@
             </div>
         </div>
     </div>
-    <?php include ABSPATH . '/results-widget.php'; ?>
+    <?php include ABSPATH . '/partials/results-widget.php'; ?>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

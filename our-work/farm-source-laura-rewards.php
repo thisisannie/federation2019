@@ -3,8 +3,8 @@
     $page_description = "Igniting interest in a well-established rewards programme, Farm Source Rewards is an awesome program that passes profit value back to farmers.";
 
     include '../config.php';
-	include ABSPATH . '/header.php';
-    include ABSPATH . '/work-video.php';
+	include ABSPATH . '/partials/header.php';
+    include ABSPATH . '/partials/work-video.php';
 ?>
 
 <div class="page page--results__farm-source-laura-rewards">
@@ -208,4 +208,4 @@
     </div>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

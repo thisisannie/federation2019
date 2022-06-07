@@ -3,10 +3,10 @@
     $page_description = "Auckland Transport ran a campaign to remind commuters that they could do this online and save the hassle of queuing.";
 
     include '../config.php';
-	include ABSPATH . '/header.php';
+	include ABSPATH . '/partials/header.php';
 ?>
 
-<?php include ABSPATH . '/work-video.php'; ?>
+<?php include ABSPATH . '/partials/work-video.php'; ?>
 
 <div class="page page--recent-news__article">
     <div class="section section--white section--projects-intro">
@@ -100,7 +100,7 @@
             </div>
         </div>
     </div>
-    <?php include ABSPATH . '/results-widget.php'; ?>
+    <?php include ABSPATH . '/partials/results-widget.php'; ?>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

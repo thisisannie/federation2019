@@ -3,8 +3,8 @@
 	$page_description = "Opeta Elika, whose ground-breaking social impact work is held in Te Papa, joins Federation as Senior Designer, Culture & Brand.";
 
 	include '../config.php';
-	include ABSPATH . '/header.php';
-	include ABSPATH . '/work-video.php';
+	include ABSPATH . '/partials/header.php';
+	include ABSPATH . '/partials/work-video.php';
 
 	$array = [
 		"title1" => "Opeta",
@@ -59,7 +59,7 @@
 			</div>
 		</div>
 	</div>
-	<?php include ABSPATH . '/results-widget.php'; ?>
+	<?php include ABSPATH . '/partials/results-widget.php'; ?>
 </div>
 	
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

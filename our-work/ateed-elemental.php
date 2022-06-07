@@ -3,8 +3,8 @@
     $page_description = "We brought meaning to this new festival, created excitement around the inaugural event and formed a design language which will become iconic.";
 
     include '../config.php';
-	include ABSPATH . '/header.php';
-    include ABSPATH . '/work-video.php';
+	include ABSPATH . '/partials/header.php';
+    include ABSPATH . '/partials/work-video.php';
 ?>
 
 <div class="page page--results__ateed-elemental">
@@ -184,4 +184,4 @@
     </div>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

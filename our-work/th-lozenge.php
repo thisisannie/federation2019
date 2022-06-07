@@ -3,8 +3,8 @@
 	$page_description = "Launching a new product category for The True Honey Co to New Zealand, Middle East and UK markets. Striking print ads like an art piece in a gallery.";
 
 	include '../config.php';
-	include ABSPATH . '/header.php';
-	include ABSPATH . '/work-video.php';
+	include ABSPATH . '/partials/header.php';
+	include ABSPATH . '/partials/work-video.php';
 ?>
 
 <div class="page page--results__th-lozenge">
@@ -102,4 +102,4 @@
 	</div>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

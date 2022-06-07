@@ -3,7 +3,7 @@
     $page_description = "Sorry, but the page you were trying to view does not exist.";
 
     include 'config.php';
-	include ABSPATH . '/header.php';
+	include ABSPATH . '/partials/header.php';
 ?>
 
 <div class="page page--404">
@@ -29,4 +29,4 @@
 </div>
 <!-- IE needs 512+ bytes: https://blogs.msdn.microsoft.com/ieinternals/2010/08/18/friendly-http-error-pages/ -->
 
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

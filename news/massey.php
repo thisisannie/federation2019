@@ -3,8 +3,8 @@
 	$page_description = "Federation Wins Massey University Account After 4-Way Pitch for brand, integrated campaigns and media.";
 
 	include '../config.php';
-	include ABSPATH . '/header.php';
-	include ABSPATH . '/work-video.php';
+	include ABSPATH . '/partials/header.php';
+	include ABSPATH . '/partials/work-video.php';
 
 	$array = [
 		"title1" => "Massey",
@@ -61,7 +61,7 @@
 			</div>
 		</div>
 	</div>
-	<?php include ABSPATH . '/results-widget.php'; ?>
+	<?php include ABSPATH . '/partials/results-widget.php'; ?>
 </div>
 	
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

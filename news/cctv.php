@@ -3,8 +3,8 @@
     $page_description = "Auckland Transport wanted to let people know that a new network of CCTV cameras had been installed in bus lanes on all the major routes in the city.";
 
     include '../config.php';
-	include ABSPATH . '/header.php';
-    include ABSPATH . '/work-video.php';
+	include ABSPATH . '/partials/header.php';
+    include ABSPATH . '/partials/work-video.php';
 ?>
 
 <div class="page page--recent-news__article">
@@ -74,7 +74,7 @@
             </div>
         </div>
     </div>
-    <?php include ABSPATH . '/results-widget.php'; ?>
+    <?php include ABSPATH . '/partials/results-widget.php'; ?>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

@@ -3,8 +3,8 @@
     $page_description = "Playing a key role in Auckland Transport’s Vision Zero strategy, we created a behavioural change campaign that prompts Aucklanders to ensure a safe ride home.";
 
     include '../config.php';
-	include ABSPATH . '/header.php';
-    include ABSPATH . '/work-video.php';
+	include ABSPATH . '/partials/header.php';
+    include ABSPATH . '/partials/work-video.php';
 
 	$array = [
 		"title1" => "Alcohol",
@@ -96,7 +96,7 @@
             </div>
         </div>
     </div>
-    <?php include ABSPATH . '/results-widget.php'; ?>
+    <?php include ABSPATH . '/partials/results-widget.php'; ?>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

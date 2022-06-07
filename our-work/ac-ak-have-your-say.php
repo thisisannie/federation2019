@@ -3,8 +3,8 @@
     $page_description = "Turning public opinion in to actual influence on Auckland’s long-term planning and policy by giving Aucklanders a voice.";
 
     include '../config.php';
-	include ABSPATH . '/header.php';
-    include ABSPATH . '/work-video.php';
+	include ABSPATH . '/partials/header.php';
+    include ABSPATH . '/partials/work-video.php';
 ?>
 
 <div class="page page--results__ac-ak-have-your-say">
@@ -228,4 +228,4 @@
     </div>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

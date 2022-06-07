@@ -3,8 +3,8 @@
     $page_description = "We designed a new visual identity for Pacific@Massey to encompass rich culture and history, as well as celebrate the success and achievement of past, current and future students.";
 
     include '../config.php';
-	include ABSPATH . '/header.php';
-    include ABSPATH . '/work-video.php';
+	include ABSPATH . '/partials/header.php';
+    include ABSPATH . '/partials/work-video.php';
     
 	$array = [
 		"title1" => "Massey",
@@ -135,7 +135,7 @@
             </div>
         </div>
     </div>
-    <?php include ABSPATH . '/results-widget.php'; ?>
+    <?php include ABSPATH . '/partials/results-widget.php'; ?>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

@@ -3,8 +3,8 @@
     $page_description = "Hot on the back of the appointment of new creative team Hathaway and France from Stanley Street, Federation’S Chief Creative Officer Tony Clewett has announced another key hire.";
 
     include '../config.php';
-	include ABSPATH . '/header.php';
-    include ABSPATH . '/work-video.php';
+	include ABSPATH . '/partials/header.php';
+    include ABSPATH . '/partials/work-video.php';
     
 	$array = [
 		"title1" => "Bobbie joins",
@@ -60,7 +60,7 @@
             </div>
         </div>
     </div>
-    <?php include ABSPATH . '/results-widget.php'; ?>
+    <?php include ABSPATH . '/partials/results-widget.php'; ?>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

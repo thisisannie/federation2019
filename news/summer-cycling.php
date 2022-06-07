@@ -3,8 +3,8 @@
     $page_description = "Biking delivers joy, freedom, and fresh air – with this in mind we set out to inspire Aucklanders to grab their bike for their next short journey.";
 
     include '../config.php';
-	include ABSPATH . '/header.php';
-    include ABSPATH . '/work-video.php';
+	include ABSPATH . '/partials/header.php';
+    include ABSPATH . '/partials/work-video.php';
 
 	$array = [
 		"title1" => "Summer",
@@ -122,7 +122,7 @@
             </div>
         </div>
     </div>
-    <?php include ABSPATH . '/results-widget.php'; ?>
+    <?php include ABSPATH . '/partials/results-widget.php'; ?>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

@@ -3,7 +3,7 @@
     $page_description = "From the rich consumer insights and behavioural data we harness, to the creation of a compelling brand narrative.";
 
     include 'config.php';
-	include ABSPATH . '/header.php';
+	include ABSPATH . '/partials/header.php';
 ?>
 
 <div class="page page--results">
@@ -349,4 +349,4 @@
     </div>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

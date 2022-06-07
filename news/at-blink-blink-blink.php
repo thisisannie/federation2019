@@ -3,8 +3,8 @@
     $page_description = "An audio aide memoir to get drivers thinking about bike riders every time they turn.";
 
     include '../config.php';
-	include ABSPATH . '/header.php';
-    include ABSPATH . '/work-video.php'; 
+	include ABSPATH . '/partials/header.php';
+    include ABSPATH . '/partials/work-video.php'; 
 ?>
 
 <div class="page page--recent-news__article">
@@ -106,7 +106,7 @@
             </div>
         </div>
     </div>
-    <?php include ABSPATH . '/results-widget.php'; ?>
+    <?php include ABSPATH . '/partials/results-widget.php'; ?>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

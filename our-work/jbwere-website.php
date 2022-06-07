@@ -3,7 +3,7 @@
     $page_description = "Creating a brand that embraces our changing world, with a new websitesite that introduces and represents them to visitors.";
 
     include '../config.php';
-	include ABSPATH . '/header.php';
+	include ABSPATH . '/partials/header.php';
 ?>
 
 <div class="page page--results__jbwere-website">
@@ -187,4 +187,4 @@
     </div>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

@@ -3,8 +3,8 @@
 	$page_description = "COVID had a real impact on NZ business and many of us reached out to help our neighbours. Through lockdown we worked closely with them to develop a compelling brand.";
 
 	include '../config.php';
-	include ABSPATH . '/header.php';
-	include ABSPATH . '/work-video.php'; 
+	include ABSPATH . '/partials/header.php';
+	include ABSPATH . '/partials/work-video.php'; 
 ?>
 
 <div class="page page--results__bagel-love">
@@ -159,4 +159,4 @@
     </div>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

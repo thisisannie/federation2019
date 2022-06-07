@@ -3,8 +3,8 @@
 	$page_description = "The move sees Lancôme, Kiehl’s Since 1851, Yves Saint Laurent, Georgio Armani, Urban Decay, Viktor&Rolf, Valentino, Diesel, Prada and more, head to the independent agency.";
 
 	include '../config.php';
-	include ABSPATH . '/header.php';
-	include ABSPATH . '/work-video.php';
+	include ABSPATH . '/partials/header.php';
+	include ABSPATH . '/partials/work-video.php';
 		
 	$array = [
 		"title1" => "Luxe",
@@ -61,7 +61,7 @@
 			</div>
 		</div>
 	</div>
-	<?php include ABSPATH . '/results-widget.php'; ?>
+	<?php include ABSPATH . '/partials/results-widget.php'; ?>
 </div>
 	
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

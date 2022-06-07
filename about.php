@@ -90,7 +90,7 @@
     $page_description = "In a world where businesses are expected to change at lightning speeds, we are changemakers. How is your brand seen on the outside?";
 
     include 'config.php';
-	include ABSPATH . '/header.php';
+	include ABSPATH . '/partials/header.php';
 ?>
 
 <div class="page page--about">   
@@ -264,4 +264,4 @@
 
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

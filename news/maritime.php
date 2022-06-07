@@ -3,8 +3,8 @@
 	$page_description = "Federation has won the coveted safety and behaviour-change advertising account of Maritime New Zealand and the Safer Boating Forum following a 4-way competitive pitch.";
 
 	include '../config.php';
-	include ABSPATH . '/header.php';
-	include ABSPATH . '/work-video.php';
+	include ABSPATH . '/partials/header.php';
+	include ABSPATH . '/partials/work-video.php';
 		
 	$array = [
 		"title1" => "Maritime",
@@ -61,7 +61,7 @@
 			</div>
 		</div>
 	</div>
-	<?php include ABSPATH . '/results-widget.php'; ?>
+	<?php include ABSPATH . '/partials/results-widget.php'; ?>
 </div>
 	
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

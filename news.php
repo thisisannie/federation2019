@@ -207,7 +207,7 @@
     $page_description = "The world is a dynamically changing place. New work. New people. New capabilities. New technologies. Check out what’s been happening with Federation.";
 
     include 'config.php';
-	include ABSPATH . '/header.php';
+	include ABSPATH . '/partials/header.php';
 ?>
 
 <div class="page page--recent-news">   
@@ -256,4 +256,4 @@
     </div>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

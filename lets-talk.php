@@ -3,7 +3,7 @@
     $page_description = "Have a business challenge or market opportunity you need fresh thinking on? We'll offer an exciting way forward strategically, creatively, commercially.";
 
     include 'config.php';
-	include ABSPATH . '/header.php';
+	include ABSPATH . '/partials/header.php';
 ?>
 
 <div class="page page--contact">   
@@ -69,4 +69,4 @@
     </div>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

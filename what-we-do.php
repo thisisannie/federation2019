@@ -3,7 +3,7 @@
     $page_description = "We have dedicated specialists across brand strategy, customer experience, technology, digital, direct, data, content and social.";
 
     include 'config.php';
-	include ABSPATH . '/header.php';
+	include ABSPATH . '/partials/header.php';
 ?>
 
 <div class="page page--what-we-do">
@@ -205,4 +205,4 @@
     </div>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

@@ -3,8 +3,8 @@
     $page_description = "We use emotion-based principles and creativity to connect digital ecosystems, technology platforms, data and great content to drive value";
 
     include 'config.php';
-	include ABSPATH . '/header.php';
-    include ABSPATH . '/work-video.php';
+	include ABSPATH . '/partials/header.php';
+    include ABSPATH . '/partials/work-video.php';
 ?>
 
 <div class="page page--recent-news__article article--the-lab"> 
@@ -279,7 +279,7 @@
                 <div class="col-12">
                     <h2 class="h1 animate animate--fade-up-25">Let’s talk</h2>
                     <p class="animate animate--fade-up-25">Like to connect, to find, get, keep or grow your customers?<br> Leave your details below and we’ll get in touch:</p>
-                    <?php include 'contact-form--the-lab.php' ?>
+                    <?php include ABSPATH . '/partials/contact-form--the-lab.php' ?>
                 </div>
             </div>
         </div>
@@ -288,4 +288,4 @@
     
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

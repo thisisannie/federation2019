@@ -3,8 +3,8 @@
     $page_description = "Formerly the Social and Digital Manager at Special Group, Daisy has been apointed into the newly created role of Digital and Social Strategy Lead.";
 
     include '../config.php';
-	include ABSPATH . '/header.php';
-    include ABSPATH . '/work-video.php';
+	include ABSPATH . '/partials/header.php';
+    include ABSPATH . '/partials/work-video.php';
     
 	$array = [
 		"title1" => "Daisy joins",
@@ -59,7 +59,7 @@
             </div>
         </div>
     </div>
-    <?php include ABSPATH . '/results-widget.php'; ?>
+    <?php include ABSPATH . '/partials/results-widget.php'; ?>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>

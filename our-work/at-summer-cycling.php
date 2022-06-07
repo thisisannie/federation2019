@@ -3,8 +3,8 @@
     $page_description = "Our behaviour changing journey with Auckland Transport Cycling began with the ‘Love My Ride’ advocate campaign.";
 
     include '../config.php';
-	include ABSPATH . '/header.php';
-    include ABSPATH . '/work-video.php';
+	include ABSPATH . '/partials/header.php';
+    include ABSPATH . '/partials/work-video.php';
 ?>
 
 <div class="page page--results__at-summer-cycling">
@@ -328,4 +328,4 @@
     </div>
 </div>
     
-<?php include ABSPATH . '/footer.php'; ?>
+<?php include ABSPATH . '/partials/footer.php'; ?>
