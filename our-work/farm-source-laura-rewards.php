@@ -174,7 +174,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-5">
-                    <img src="<?=HTML_ROOT;?>/img/results/farm-source-laura-rewards/ipad.png" alt="" class="animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/results/farm-source-laura-rewards/ipad-blurtext.png" alt="" class="animate animate--fade-up-25">
                 </div>
             </div>
         </div>
