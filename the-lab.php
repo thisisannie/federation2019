@@ -47,14 +47,19 @@
                     <div class="article--the-lab__profile-container daisy">
                         <img src="<?=HTML_ROOT;?>/img/news/daisy/lab_daisy.jpg" alt="Daisy Conroy-Botica" class="article--the-lab__profile-img animate animate--fade-up-25">
                         <p class="article--the-lab__profile-name animate animate--fade-up-25">Daisy Conroy-Botica<br>
-                        <span class="article--the-lab__profile-title animate animate--fade-up-25">Digital and Social Lead</span></p>
+                        <span class="article--the-lab__profile-title animate animate--fade-up-25">Digital and Social Lead</span><br>
+                        <a href="mailto:daisycb@federation.net.nz">daisycb@federation.net.nz</a>
+                    </p>
                     </div>
                 </div>
                 <div class="col-12 col-sm-5">
                     <div class="article--the-lab__profile-container elizabeth">
                         <img src="<?=HTML_ROOT;?>/img/news/the-lab/elizabeth.jpg" alt="Elizabeth" class="article--the-lab__profile-img animate animate--fade-up-25">
                         <p class="article--the-lab__profile-name animate animate--fade-up-25">Elizabeth Beatty<br>
-                        <span class="article--the-lab__profile-title animate animate--fade-up-25">Managing Partner</span></p>
+                        <span class="article--the-lab__profile-title animate animate--fade-up-25">Managing Partner</span><br>
+                        <a href="mailto:elizabethb@federation.net.nz">elizabethb@federation.net.nz</a>
+                    </p>
+                        
                     </div>
                 </div>
             </div>
@@ -278,8 +283,11 @@
             <div class="row">
                 <div class="col-12">
                     <h2 class="h1 animate animate--fade-up-25">Let’s talk</h2>
-                    <p class="animate animate--fade-up-25">Like to connect, to find, get, keep or grow your customers?<br> Leave your details below and we’ll get in touch:</p>
-                    <?php include ABSPATH . '/partials/contact-form--the-lab.php' ?>
+                    <p class="animate animate--fade-up-25">
+                        Like to connect, to find, get, keep or grow your customers?<br>Leave us your details with us and we'll be in touch: <a href="mailto:hello@federation.net.nz">hello@federation.net.nz</a>
+                    </p>
+                    <!-- <p class="animate animate--fade-up-25">Like to connect, to find, get, keep or grow your customers?<br> Leave your details below and we’ll get in touch:</p> -->
+                    <?php //include ABSPATH . '/partials/contact-form--the-lab.php' ?>
                 </div>
             </div>
         </div>
