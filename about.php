@@ -9,7 +9,7 @@
     $staff = [
         "sharon" => [
             "name" => "Sharon Henderson",
-            "img" => "staff-photos_sharon.jpg",
+            "img" => "staff-photos_sharon.webp",
             "title" => "Founder / Director",
             "description" => "Sharon is an agency leader and overall strategic partner to Federation’s clients. She is passionate about building the bond between a brand and its customers and is a champion for marketing integration. Prior to starting Federation in 2008, Sharon was Managing Director of DDB New Zealand. She also spent more than ten years with Clemenger BBDO, as CEO of Proximity New Zealand, and also Group MD of Proximity Australia. Sharon is busy with her two teenagers. She is also active in the community as the Vice President board member of Variety, the Children’s Charity, and an appointee to the Business Development Group by the Ministry of Business, Innovation and Employment. Sharon was also inaugural Board Chair of the NZ Marketing Association.",
         ],
@@ -31,23 +31,17 @@
             "title" => "Managing Partner",
             "description" => "Olly is a rare breed of account leader, combining a wealth of digital, social and mobile expertise (Isobar UK) with years of blue chip brand experience across all media, for prominent organizations such as Adidas, BNZ and Auckland Council Group. Areas of specialist experience include travel, tourism and sport, including sponsorship. His global experience and ‘big picture’ perspective perfectly compliment the team at Federation.",
         ],
-        "emma" => [
-            "name" => "Emma Fern",
-            "img" => "staff-photos_emma.jpg",
-            "title" => "Planning Director",
-            "description" => "Emma Fern is one of New Zealand’s most experienced integrated communications Planning Directors. She works alongside clients at Federation to create strategies that grow consumer love and engagement for our client’s brands. Emma has worked across many global brands and also New Zealand’s largest brands in her capacity as a planner. Brands worked on include Air New Zealand, Bank of New Zealand, ANZ Bank, Sky TV and Cadbury. Emma was formerly Senior Brand Planner at DDB New Zealand, Former Planning Director at BBDO-owned Aim Proximity and former Group Account Director at Rapp Collins London.",
+        "opeta" => [
+            "name" => "Opeta Elika",
+            "img" => "staff-photos_opeta.webp",
+            "title" => "Senior Designer",
+            "description" => "Opeta is a celebrated designer with an understanding of the power of branding. As the creator of the Advance Pasifika symbol, Opeta has the rare honour of being featured in Te Papa’s history collection. He says of the piece: “It is a rallying cry for equality and access to health, education, housing and fairness in the justice system.” A thoughtful designer, Opeta is able to consider design through a Pasifika and tikanga Māori lens. Oh, and he also happens to be a very cool guy.",
         ],
         "jc" => [
             "name" => "Jeremy Clark",
             "img" => "staff-photos_jeremy.jpg",
             "title" => "Digital Director",
             "description" => "Ask Jeeves, Napster, Bebo – after 15 years in the digital design and advertising world, Jeremy has pretty much seen it all. He’s an inquisitive creative, always researching and building on his encyclopedic knowledge of all things online, mobile and all the bits and bytes in between. Jeremy has worked on plenty of memorable campaigns, like the Speight’s Great Beer Delivery, as well as being involved in multichannel launches for Virgin Mobile and Tourism Victoria. Through the years, Jeremy’s stashed away a fair chunk of metal from the local and international award scenes, including One Show, Cannes, D&AD, and Axis.",
-        ],
-        "naz" => [
-            "name" => "Naresh Makan",
-            "img" => "staff-photos_naz.jpg",
-            "title" => "Studio/Production Manager",
-            "description" => "Naresh leads Federation’s studio and is responsible for the day-to-day delivery of final art. With over 20 years in the biz, Naresh has developed some super-efficient processes along the way. He’s a highly experienced and detail oriented manager and finished artist who makes sure the artwork that leaves the agency exceeds client expectations every time. Naresh is a proud citizen of Waiheke Island where he enjoys some of New Zealand’s finest.",
         ],
         "gene" => [
             "name" => "Gene Wheaton",
@@ -78,6 +72,18 @@
             "img" => "Ollie.jpg",
             "title" => "Business Director",
             "description" => "After spending time in London working on product launch and brand campaigns for Apple, Ollie has rejoined our client service team. He has a particular interest in sports marketing, brand strategy and creative execution. Having also worked on Spark, Volvo and Vodafone, Ollie has an impressive array of experience.",
+        ],
+        "emma" => [
+            "name" => "Emma Fern",
+            "img" => "staff-photos_emma.webp",
+            "title" => "Planning Director",
+            "description" => "Emma Fern is one of New Zealand’s most experienced integrated communications Planning Directors. She works alongside clients at Federation to create strategies that grow consumer love and engagement for our client’s brands. Emma has worked across many global brands and also New Zealand’s largest brands in her capacity as a planner. Brands worked on include Air New Zealand, Bank of New Zealand, ANZ Bank, Sky TV and Cadbury. Emma was formerly Senior Brand Planner at DDB New Zealand, Former Planning Director at BBDO-owned Aim Proximity and former Group Account Director at Rapp Collins London.",
+        ],
+        "naz" => [
+            "name" => "Naresh Makan",
+            "img" => "staff-photos_naz.jpg",
+            "title" => "Studio/Production Manager",
+            "description" => "Naresh leads Federation’s studio and is responsible for the day-to-day delivery of final art. With over 20 years in the biz, Naresh has developed some super-efficient processes along the way. He’s a highly experienced and detail oriented manager and finished artist who makes sure the artwork that leaves the agency exceeds client expectations every time. Naresh is a proud citizen of Waiheke Island where he enjoys some of New Zealand’s finest.",
         ],
         "maddie" => [
             "name" => "Maddie Johnson",
