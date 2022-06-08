@@ -17,9 +17,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.6/ScrollMagic.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.6/plugins/animation.gsap.min.js"></script>
 
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDtDZugGhHDXI_xfMPMaku1KuZhZluModA"></script>
 <script src="https://www.youtube.com/player_api"></script>
-<script src="<?=HTML_ROOT;?>/js/google-map.js"></script>
 <script src="<?=HTML_ROOT;?>/js/video-manager.js?v2"></script>
 <script src="<?=HTML_ROOT;?>/js/animation.js"></script>
 <script src="<?=HTML_ROOT;?>/js/main.js"></script>

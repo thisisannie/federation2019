@@ -1,11 +1,11 @@
 //google map
 function initialize() {
-  var myLatlng = new google.maps.LatLng(-36.8490272, 174.7586881);
+  var myLatlng = new google.maps.LatLng(-36.849042341045305, 174.75861654537422);
   var mapOptions = {
     center: myLatlng,
-    streetViewControl: false,
-    draggable: false,
-    scrollwheel: false,
+    streetViewControl: true,
+    draggable: true,
+    scrollwheel: true,
     zoomControl: true,
     zoom: 17,
     disableDefaultUI: true
@@ -21,7 +21,7 @@ function initialize() {
           labelOrigin: new google.maps.Point(70, 12)
       },
       label: {
-          text: 'FEDERATION',
+          text: 'Federation',
           color: 'red'
       },  
       animation: google.maps.Animation.DROP
@@ -29,5 +29,5 @@ function initialize() {
 
 }
 
-google.maps.event.addDomListener(window, 'load', initialize);
+window.addEventListener('load', initialize);
 

@@ -68,5 +68,8 @@
         </div>
     </div>
 </div>
-    
+
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDtDZugGhHDXI_xfMPMaku1KuZhZluModA"></script>
+<script src="<?=HTML_ROOT;?>/js/google-map.js"></script>
+
 <?php include ABSPATH . '/partials/footer.php'; ?>
