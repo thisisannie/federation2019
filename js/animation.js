@@ -319,8 +319,9 @@ $(document).ready(function(){
         .setTween(tl)
         .addTo(controller);
     }
-    
-    animateTags();
+    if ($('#section--project-stats__background').length) {
+        animateTags();
+    }
     
     //ak have your say page
     function animatePosters() {
