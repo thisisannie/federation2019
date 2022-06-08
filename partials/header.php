@@ -9,7 +9,7 @@
 	<meta name="description" content="<?php echo !empty($page_description) ? $page_description : 'A leading, independent advertising agency creating marketing solutions in Aotearoa, New Zealand' ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.png"/>
-	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500&family=Raleway:wght@100;300;400;500;700&display=swap" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&family=Raleway:wght@100;300;500&display=swap" rel="stylesheet"> 
 	<link rel="stylesheet" href="<?=HTML_ROOT;?>/css/normalize.css">
 	<link rel="stylesheet" href="<?=HTML_ROOT;?>/css/bootstrap-grid.css">
 	<link rel="stylesheet" type="text/css" href="<?=HTML_ROOT;?>/css/slick.css"/>
