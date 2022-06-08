@@ -116,15 +116,16 @@
             </div>
         </div>    
     </div>
+    HTML ROOT = <?=HTML_ROOT;?>
     <div class="section section--white section--icons">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-12 col-sm-6 col-lg-5 offset-lg-1 order-2 order-sm-1">
                     <div class="bgvideo-wrapper">
                         <video preload="auto" autoplay playsinline muted loop class="bgvideo">
-                            <source src="video/awa-logo-cycle.webm" type="video/webm">
-                            <source src="video/awa-logo-cycle_h264.mp4" type="video/mp4">
-                            <source src="video/awa-logo-cycle.ogv" type="video/ogg">
+                            <source src="<?=HTML_ROOT;?>/video/awa-logo-cycle.webm" type="video/webm">
+                            <source src="<?=HTML_ROOT;?>/video/awa-logo-cycle_h264.mp4" type="video/mp4">
+                            <source src="<?=HTML_ROOT;?>/video/awa-logo-cycle.ogv" type="video/ogg">
                         </video>
                     </div>
                 </div>

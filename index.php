@@ -28,7 +28,7 @@
                         </div>
                     </div>
                     <div class="feature-img__bgvideo-wrapper" id="feature-img__bgvideo-wrapper">
-                        <video preload="auto" autoplay playsinline muted="muted" loop class="feature-img__bgvideo"><source src="video/920x518_mobile.webm" type="video/webm"><source src="video/920x518_mobile.mp4" type="video/mp4"><source src="video/920x518_mobile.ogv" type="video/ogg"></video>
+                        <video preload="auto" autoplay playsinline muted="muted" loop class="feature-img__bgvideo"><source src="<?=HTML_ROOT;?>/video/920x518_mobile.webm" type="video/webm"><source src="<?=HTML_ROOT;?>/video/920x518_mobile.mp4" type="video/mp4"><source src="<?=HTML_ROOT;?>/video/920x518_mobile.ogv" type="video/ogg"></video>
                     </div>
                     <div class="feature-img__text-mask feature-img__text-mask--inner">
                         <div class="feature-img__text feature-img__text--desktop feature-img__text--inner">

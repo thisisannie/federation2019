@@ -294,7 +294,7 @@
                                             <div class="project">
                                                 <a href="<?=HTML_ROOT;?>/news/hop-top-up" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="<?=HTML_ROOT;?>/img/news/hop-top-up/hop-top-up-img.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/news/hop-top-up-img.jpg" alt="" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Hop Top Up</h2>
                                                     <span class="project__client">Auckland Transport</span>
@@ -320,7 +320,7 @@
                                             <div class="project">
                                                 <a href="<?=HTML_ROOT;?>/news/suncorp-early-warning" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="<?=HTML_ROOT;?>/img/news/suncorp-ews-img.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/news/suncorp-early-warning/suncorp-ews-img.jpg" alt="" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Suncorp Early Warning</h2>
                                                     <span class="project__client">Suncorp</span>
@@ -331,7 +331,7 @@
                                             <div class="project">
                                                 <a href="<?=HTML_ROOT;?>/news/seatbelts" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="<?=HTML_ROOT;?>/img/news/seatbelts.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/results/seatbelts.jpg" alt="" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Seatbelts</h2>
                                                     <span class="project__client">Auckland Transport</span>
