@@ -14,7 +14,7 @@
 	<link rel="stylesheet" href="<?=HTML_ROOT;?>/css/bootstrap-grid.css">
 	<link rel="stylesheet" type="text/css" href="<?=HTML_ROOT;?>/css/slick.css"/>
 	<link rel="stylesheet" type="text/css" href="<?=HTML_ROOT;?>/css/slick-theme.css"/>
-	<link rel="stylesheet" href="<?=HTML_ROOT;?>/css/style.css?v=29">
+	<link rel="stylesheet" href="<?=HTML_ROOT;?>/css/style.css?v=30">
 
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
