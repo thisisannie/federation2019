@@ -14,7 +14,7 @@
 	<link rel="stylesheet" href="<?=HTML_ROOT;?>/css/bootstrap-grid.css?v=2">
 	<link rel="stylesheet" type="text/css" href="<?=HTML_ROOT;?>/css/slick.css?v=2">
 	<link rel="stylesheet" type="text/css" href="<?=HTML_ROOT;?>/css/slick-theme.css?v=2">
-	<link rel="stylesheet" href="<?=HTML_ROOT;?>/css/style.css?v=30">
+	<link rel="stylesheet" href="<?=HTML_ROOT;?>/css/style.css?v=31">
 
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -23,7 +23,7 @@
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-N89WZG3');</script>
 
-	<script src="<?=HTML_ROOT;?>/js/pace.min.js"></script>
+	<?php /* <script src="<?=HTML_ROOT;?>/js/pace.min.js"></script> */ ?>
 </head>
 <body>
 	<!-- Google Tag Manager (noscript) -->
