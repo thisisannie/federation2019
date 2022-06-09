@@ -230,14 +230,14 @@
                         "Massey",
                         "Federation Wins Massey University Account After 4-Way Pitch.",
                         "massey",
-                        "massey-posters-thumb_v2.png"
+                        "massey-posters-thumb_v2.webp"
                     );
                     includeNewsItem(
                         "right",
                         "Maritime NZ",
                         "Maritime NZ taps Federation as new behaviour-change agency.",
                         "maritime",
-                        "thumb_maritime.jpg"
+                        "thumb_maritime.webp"
                     );
                 ?>
             <div class="row">
