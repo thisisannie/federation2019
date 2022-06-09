@@ -122,12 +122,12 @@
             </div>
             <div class="row">
                 <div class="col-12 col-sm-4">
-                    <img src="<?=HTML_ROOT;?>/img/page--home/value-img-b.png" alt="" class="phone animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/page--home/value-img-b.webp" alt="" class="phone animate animate--fade-up-25">
                 </div>
                 <div class="col-12 col-sm-6 offset-sm-1">
                     <p class="animate animate--fade-up-25">We are independent by nature and use our challenger attitude to transform your brand and business results. But we know it only works when it ALL works. Which is why we involve ourselves in so much more than just advertising.  At Federation, we work with you to transform the entire customer experience your brand delivers, challenging the traditional with you to create the exceptional – for your brand, for every campaign and for every customer interaction and touchpoint.</p>
                     <a href="<?=HTML_ROOT;?>/what-we-do" class="button button--red animate animate--fade-up-25">Why work with us?</a>
-                    <img src="<?=HTML_ROOT;?>/img/page--home/value-img-c.jpg" alt="" class="value-img-c animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/page--home/value-img-c.webp" alt="" class="value-img-c animate animate--fade-up-25">
                 </div>
             </div>
         </div>
@@ -138,7 +138,7 @@
                 <div class="col-10 col-sm-8">
                     <div class="feature-img collab-feature">
                         <h2 class="visuallyhidden">We are 100% NZ</h2>
-                        <img src="<?=HTML_ROOT;?>/img/page--home/Staff-shot.jpg" alt="" class="feature-img__image">
+                        <img src="<?=HTML_ROOT;?>/img/page--home/Staff-shot.webp" alt="" class="feature-img__image">
                         <div class="feature-img__text feature-img__text--outer">
                             <span class="animate animate--slide-right-25">We are</span><br>
                             <div class="feature-titles">
