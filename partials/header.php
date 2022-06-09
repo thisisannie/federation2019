@@ -8,12 +8,12 @@
 	</title>
 	<meta name="description" content="<?php echo !empty($page_description) ? $page_description : 'A leading, independent advertising agency creating marketing solutions in Aotearoa, New Zealand' ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon.png"/>
+	<link rel="shortcut icon" type="image/x-icon" href="<?=HTML_ROOT;?>/favicon.png"/>
 	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&family=Raleway:wght@100;300;500&display=swap" rel="stylesheet"> 
-	<link rel="stylesheet" href="<?=HTML_ROOT;?>/css/normalize.css">
-	<link rel="stylesheet" href="<?=HTML_ROOT;?>/css/bootstrap-grid.css">
-	<link rel="stylesheet" type="text/css" href="<?=HTML_ROOT;?>/css/slick.css"/>
-	<link rel="stylesheet" type="text/css" href="<?=HTML_ROOT;?>/css/slick-theme.css"/>
+	<link rel="stylesheet" href="<?=HTML_ROOT;?>/css/normalize.css?v=2">
+	<link rel="stylesheet" href="<?=HTML_ROOT;?>/css/bootstrap-grid.css?v=2">
+	<link rel="stylesheet" type="text/css" href="<?=HTML_ROOT;?>/css/slick.css?v=2">
+	<link rel="stylesheet" type="text/css" href="<?=HTML_ROOT;?>/css/slick-theme.css?v=2">
 	<link rel="stylesheet" href="<?=HTML_ROOT;?>/css/style.css?v=30">
 
 	<!-- Google Tag Manager -->

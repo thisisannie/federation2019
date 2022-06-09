@@ -5,8 +5,7 @@
     <a href="https://www.linkedin.com/company/federation./?originalSubdomain=nz" target="_blank"><img src="<?=HTML_ROOT;?>/img/linkedin.png" alt="" class="footer__linkedin"></a>
 </div>
 </footer>
-  
-<script src="<?=HTML_ROOT;?>/js/vendor/modernizr-3.6.0.min.js"></script>
+
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 <script>window.jQuery || document.write('<script src="<?=HTML_ROOT;?>/js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
 
