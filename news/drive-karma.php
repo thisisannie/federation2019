@@ -42,7 +42,7 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/banner_Karma.jpg" alt="" class="feature-image">
+        <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/banner_Karma.webp" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
@@ -79,13 +79,13 @@
                                 <li data-slide="1" data-slide-title="Drive Karma" data-slide-paragraph="" class="mini-slider__slide">
                                     <div class="feature-video feature" id="video-<?php echo $array['slug']; ?>">
                                        <div class="feature-video__image-group">
-                                            <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/Karma_video_preview.jpg" alt="" class="feature-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/Karma_video_preview.webp" alt="" class="feature-video__image">
                                             <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>
                                 <li data-slide="2" data-slide-title="Ad Shell" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/_karma_superliteslide-a.jpg" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/_karma_superliteslide-a.webp" alt="">
                                 </li>
                             </ul>
                         </div>

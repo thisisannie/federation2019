@@ -33,7 +33,7 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="<?=HTML_ROOT;?>/img/news/great-barrier/Header-Image-1400x600.jpg" alt="" class="feature-image">
+        <img src="<?=HTML_ROOT;?>/img/news/great-barrier/Header-Image-1400x600.webp" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
@@ -66,10 +66,10 @@
                         <div class="mini-slider__slides-mask animate animate--fade-up-25">
                             <ul class="mini-slider__slides">
                                 <li data-slide="1" data-slide-title="" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/great-barrier/Img-01-946x495.jpg" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/great-barrier/Img-01-946x495.webp" alt="">
                                 </li>
                                 <li data-slide="2" data-slide-title="" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/great-barrier/Img-02-946x495.jpg" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/great-barrier/Img-02-946x495.webp" alt="">
                                 </li>
                             </ul>
                         </div>

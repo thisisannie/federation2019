@@ -32,7 +32,7 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="<?=HTML_ROOT;?>/img/news/blues/banner.jpg" alt="" class="feature-image">
+        <img src="<?=HTML_ROOT;?>/img/news/blues/banner.webp" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
@@ -71,7 +71,7 @@
                                 <li data-slide="1" data-slide-title="OOH video" data-slide-paragraph="" class="mini-slider__slide">
                                     <div class="feature-video feature" id="blues">
                                        <div class="feature-video__image-group">
-                                            <img src="<?=HTML_ROOT;?>/img/news/blues/video.jpg" alt="" class="feature-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/news/blues/video.webp" alt="" class="feature-video__image">
                                             <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>

@@ -12,7 +12,7 @@
 		"client" => "",
 		"intro" => "Federation expands, appoints Bobbie McKay to Creative Group Head.",
 		"slug" => "bobbie",
-        "bannerimg" => "banner_bobbie.jpg",
+        "bannerimg" => "banner_bobbie.webp",
 	];
 ?>
 

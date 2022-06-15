@@ -12,7 +12,7 @@
 		"client" => "Auckland Transport",
 		"intro" => "Nearly half of all motorcycle crashes in Tamaki Makaurau take place at urban intersections. The most common crash factors are poor observation and failure to give way or stop, and too often result in death or serious injury.",
 		"slug" => "motorbike-safety",
-        "bannerimg" => "banner_bird.jpg",
+        "bannerimg" => "banner_bird.webp",
 	];
 ?>
 
@@ -78,10 +78,10 @@
                         <div class="mini-slider__slides-mask animate animate--fade-up-25">
                             <ul class="mini-slider__slides">
                                 <li data-slide="1" data-slide-title="OOH 1" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/OOH-a.jpg" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/OOH-a.webp" alt="">
                                 </li>
                                 <li data-slide="2" data-slide-title="OOH 2" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/OOH-b.jpg" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/OOH-b.webp" alt="">
                                 </li>
                             </ul>
                         </div>

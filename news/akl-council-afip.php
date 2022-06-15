@@ -10,7 +10,7 @@
 		"client" => "Auckland Council",
 		"intro" => "Auckland Council is building a better Auckland with a city centre that puts people first. This summer OOH campaign showcases all the recently completed spaces for Aucklanders to make the most of their city.",
 		"slug" => "akl-council-afip",
-        "bannerimg" => "AKL-Council-AFIP-1400x600-hero_v1.jpg",
+        "bannerimg" => "AKL-Council-AFIP-1400x600-hero_v1.webp",
 	];
 
     include ABSPATH . '/partials/header.php';
@@ -79,19 +79,19 @@
                                 <!-- <li data-slide="1" data-slide-title="OOH video" data-slide-paragraph="" class="mini-slider__slide">
                                     <div class="feature-video feature" id="<?php echo $array['slug']; ?>">
                                        <div class="feature-video__image-group">
-                                            <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/video.jpg" alt="" class="feature-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/video.webp" alt="" class="feature-video__image">
                                             <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li> -->
                                 <li data-slide="1" data-slide-title="Te Wānanga" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/TeWananga-945x496.jpg" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/TeWananga-945x496.webp" alt="">
                                 </li>
                                 <li data-slide="2" data-slide-title="KRD" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/Krd-945x496.jpg" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/Krd-945x496.webp" alt="">
                                 </li>
                                 <li data-slide="3" data-slide-title="Quay Street" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/Quay-street-945x496.jpg" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/Quay-street-945x496.webp" alt="">
                                 </li>
                             </ul>
                         </div>

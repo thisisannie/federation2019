@@ -42,7 +42,7 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/Opera-Unruly-1400x600-hero_v1.jpg" alt="" class="feature-image">
+        <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/Opera-Unruly-1400x600-hero_v1.webp" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
@@ -76,13 +76,13 @@
                                 <!-- <li data-slide="1" data-slide-title="Social Video" data-slide-paragraph="" class="mini-slider__slide">
                                     <div class="feature-video feature" id="<?php echo  $array['slug']; ?>">
                                        <div class="feature-video__image-group">
-                                            <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/Social-video-tile-945x496.jpg" alt="" class="feature-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/Social-video-tile-945x496.webp" alt="" class="feature-video__image">
                                             <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li> -->
                                 <li data-slide="1" data-slide-title="Ad Shell" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/Opera-Unruly-945x496_v1.jpg" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/Opera-Unruly-945x496_v1.webp" alt="">
                                 </li>
                             </ul>
                         </div>

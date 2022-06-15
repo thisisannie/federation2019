@@ -12,7 +12,7 @@
 		"client" => "",
 		"intro" => "New Zealand Opera has appointed Federation, effective immediately, as the lead agency in New Zealand for brand, creative, strategy and design.",
 		"slug" => "opera",
-		"bannerimg" => "banner_opera.jpg",
+		"bannerimg" => "banner_opera.webp",
 	];
 ?>
 

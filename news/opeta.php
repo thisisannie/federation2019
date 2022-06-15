@@ -12,7 +12,7 @@
 		"client" => "",
 		"intro" => "Opeta Elika, whose ground-breaking social impact work is held in Te Papa, joins Federation as Senior Designer, Culture & Brand.",
 		"slug" => "opeta",
-		"bannerimg" => "banner_opeta.jpg",
+		"bannerimg" => "banner_opeta.webp",
 	];
 ?>
 

@@ -12,7 +12,7 @@
 		"client" => "",
 		"intro" => "Federation nabs Daisy Conroy-Botica as Digital and Social Lead.",
 		"slug" => "daisy",
-        "bannerimg" => "banner_daisy.jpg",
+        "bannerimg" => "banner_daisy.webp",
 	];
 ?>
 

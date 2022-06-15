@@ -12,7 +12,7 @@
 		"client" => "Auckland Transport",
 		"intro" => "Nights out are often planned meticulously and there are certain things we know will always happen. But the key detail that people often miss is how they’re going to get home safely – the most important part. No game plan is complete without a safe plan to get home.",
 		"slug" => "alcohol-awareness",
-        "bannerimg" => "banner_dance.jpg",
+        "bannerimg" => "banner_dance.webp",
 	];
 ?>
 <div class="page page--recent-news__article">
@@ -77,7 +77,7 @@
                                 <li data-slide="1" data-slide-title="OOH video" data-slide-paragraph="" class="mini-slider__slide">
                                     <div class="feature-video feature" id="video-<?php echo $array['slug']; ?>">
                                        <div class="feature-video__image-group">
-                                            <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/video_preview_slide.jpg" alt="" class="feature-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/video_preview_slide.webp" alt="" class="feature-video__image">
                                             <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>

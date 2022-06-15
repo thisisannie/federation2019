@@ -32,7 +32,7 @@
         </div>
     </div>
     <div class="section section--black section--banner section--change-agents-banner">
-        <img src="<?=HTML_ROOT;?>/img/news/loreal/loreal-feature.jpg" alt="" class="feature-image">
+        <img src="<?=HTML_ROOT;?>/img/news/loreal/loreal-feature.webp" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">

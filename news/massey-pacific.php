@@ -42,7 +42,7 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/Massey-Pacific-1400x600-hero_v1.jpg" alt="" class="feature-image">
+        <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/Massey-Pacific-1400x600-hero_v1.webp" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
@@ -77,22 +77,22 @@
                                 <!-- <li data-slide="1" data-slide-title="Video" data-slide-paragraph="" class="mini-slider__slide">
                                     <div class="feature-video feature" id="<?php echo  $array['slug']; ?>">
                                        <div class="feature-video__image-group">
-                                            <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/video-placeholder.jpg" alt="" class="feature-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/video-placeholder.webp" alt="" class="feature-video__image">
                                             <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li> -->
                                 <li data-slide="1" data-slide-title="OOH" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/OOH-945x496.jpg" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/OOH-945x496.webp" alt="">
                                 </li>
                                 <li data-slide="2" data-slide-title="Mobile" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/IG-945x496.jpg" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/IG-945x496.webp" alt="">
                                 </li>
                                 <li data-slide="3" data-slide-title="Pattern" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/Pattern-945x496.jpg" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/Pattern-945x496.webp" alt="">
                                 </li>
                                 <li data-slide="4" data-slide-title="Logo" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/logo-945x496.jpg" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/logo-945x496.webp" alt="">
                                 </li>
                             </ul>
                         </div>

@@ -12,7 +12,7 @@
 		"client" => "",
 		"intro" => "Federation Wins Massey University Account After 4-Way Pitch.",
 		"slug" => "massey",
-		"bannerimg" => "massey-posters-banner_v2.png",
+		"bannerimg" => "massey-posters-banner_v2.webp",
 	];
 ?>
 

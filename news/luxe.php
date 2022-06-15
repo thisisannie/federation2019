@@ -12,7 +12,7 @@
 		"client" => "L’Oréal",
 		"intro" => "L’Oréal moves luxury brand portfolio to Federation.",
 		"slug" => "luxe",
-		"bannerimg" => "banner_luxe.jpg",
+		"bannerimg" => "banner_luxe.webp",
 	];
 ?>
 

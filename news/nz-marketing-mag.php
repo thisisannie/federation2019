@@ -37,7 +37,7 @@
         </div>
     </div>
     <div class="section section--black section--banner section--change-agents-banner">
-        <img src="<?=HTML_ROOT;?>/img/news/nz-marketing-mag/mag-news-banner.jpg" alt="" class="feature-image">
+        <img src="<?=HTML_ROOT;?>/img/news/nz-marketing-mag/mag-news-banner.webp" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">

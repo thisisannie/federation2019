@@ -12,7 +12,7 @@
 		"client" => "",
 		"intro" => "Maritime NZ taps Federation as new behaviour-change agency.",
 		"slug" => "maritime",
-		"bannerimg" => "banner_maritime.jpg",
+		"bannerimg" => "banner_maritime.webp",
 	];
 ?>
 

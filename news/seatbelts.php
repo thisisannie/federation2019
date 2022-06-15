@@ -32,7 +32,7 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="<?=HTML_ROOT;?>/img/news/seatbelts/Header-Image-1400x600.jpg" alt="" class="feature-image">
+        <img src="<?=HTML_ROOT;?>/img/news/seatbelts/Header-Image-1400x600.webp" alt="" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
@@ -71,16 +71,16 @@
                                 <li data-slide="1" data-slide-title="Title-1" data-slide-paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam." class="mini-slider__slide">
                                     <div class="feature-video feature" id="seatbelts__video">
                                        <div class="feature-video__image-group">
-                                            <img src="<?=HTML_ROOT;?>/img/news/seatbelts/Video-01-946x495.jpg" alt="" class="feature-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/news/seatbelts/Video-01-946x495.webp" alt="" class="feature-video__image">
                                             <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>
                                 <li data-slide="2" data-slide-title="Title-2" data-slide-paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.-2" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/seatbelts/Img-02-946x495.jpg" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/seatbelts/Img-02-946x495.webp" alt="">
                                 </li>
                                 <li data-slide="3" data-slide-title="Title-3" data-slide-paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.-3" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/seatbelts/Img-03-946x495.jpg" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/seatbelts/Img-03-946x495.webp" alt="">
                                 </li>
                             </ul>
                         </div>
