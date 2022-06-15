@@ -4,11 +4,11 @@ $(document).ready(function(){
 	var $loading = $('#loading');
     
     // Fade out loading div after Pace.js page-load progress bar has finished
-    Pace.on("done", function(){
-	    $loading.addClass('is-hidden').delay(400).queue(function(){
-	        $(this).hide();
-	    });
-	});
+    // Pace.on("done", function(){
+	//     $loading.addClass('is-hidden').delay(400).queue(function(){
+	//         $(this).hide();
+	//     });
+	// });
     
     // navigation active state
     function setNavigation() {
