@@ -21,10 +21,10 @@
                 </div>
                 <div class="col-12 col-sm-6">
                  <div class="results-widget-slider">
-                  <a href="<?=HTML_ROOT;?>/our-work/at-summer-cycling"><img src="<?=HTML_ROOT;?>/img/news/results_1.jpg" alt=""></a>
-                  <a href="<?=HTML_ROOT;?>/our-work/ac-ak-have-your-say"><img src="<?=HTML_ROOT;?>/img/news/results_2.jpg" alt=""></a>
-                  <a href="<?=HTML_ROOT;?>/our-work/farm-source-laura-rewards"><img src="<?=HTML_ROOT;?>/img/news/results_3.jpg" alt=""></a>
-                  <a href="<?=HTML_ROOT;?>/our-work/cavbrem-rebrand"><img src="<?=HTML_ROOT;?>/img/news/results_4.jpg" alt=""></a>
+                  <a href="<?=HTML_ROOT;?>/our-work/at-summer-cycling"><img src="<?=HTML_ROOT;?>/img/news/results_1.webp" alt=""></a>
+                  <a href="<?=HTML_ROOT;?>/our-work/ac-ak-have-your-say"><img src="<?=HTML_ROOT;?>/img/news/results_2.webp" alt=""></a>
+                  <a href="<?=HTML_ROOT;?>/our-work/farm-source-laura-rewards"><img src="<?=HTML_ROOT;?>/img/news/results_3.webp" alt=""></a>
+                  <a href="<?=HTML_ROOT;?>/our-work/cavbrem-rebrand"><img src="<?=HTML_ROOT;?>/img/news/results_4.webp" alt=""></a>
                  </div>
                 </div>
             </div>
