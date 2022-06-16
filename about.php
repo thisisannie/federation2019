@@ -199,8 +199,8 @@
             <div class="image-a">
                 <img src="<?=HTML_ROOT;?>/img/about/tane.jpg" alt="" class="image-a__img">
                 <div class="stamp">
-                    <img src="<?=HTML_ROOT;?>/img/page--home/stamp__rondell.png" alt="" class="stamp__rondell animate animate--rotate">
-                    <img src="<?=HTML_ROOT;?>/img/page--home/stamp__f.png" alt="" class="stamp__f">
+                    <img src="<?=HTML_ROOT;?>/img/home/stamp__rondell.png" alt="" class="stamp__rondell animate animate--rotate">
+                    <img src="<?=HTML_ROOT;?>/img/home/stamp__f.png" alt="" class="stamp__f">
                 </div>
             </div>
             <img src="<?=HTML_ROOT;?>/img/about/samoa.jpg" alt="" class="image-b">

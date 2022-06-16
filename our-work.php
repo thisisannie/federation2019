@@ -257,7 +257,7 @@
                                             <div class="project">
                                                 <a href="<?=HTML_ROOT;?>/news/q-airbnb" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="<?=HTML_ROOT;?>/img/page--home/news-img-a.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/home/news-img-a.jpg" alt="" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Q Mastercard + Airbnb</h2>
                                                     <span class="project__client">Flexi Group</span>

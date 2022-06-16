@@ -215,7 +215,7 @@
                                 <span class="animate animate--slide-left-25">A World of Difference</span>
                             </div>
                         </div>
-                        <img src="<?=HTML_ROOT;?>/img/page--home/home-banner.webp" alt="" class="project-next-img__image">
+                        <img src="<?=HTML_ROOT;?>/img/home/home-banner.webp" alt="" class="project-next-img__image">
                         <div class="project-next-img__text-mask project-next-img__text-mask--inner">
                            <div class="project-next-img__text project-next-img__text--inner">
                                 <span class="animate animate--slide-left-25">A World of Difference</span>
