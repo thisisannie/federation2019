@@ -17,7 +17,7 @@ function initialize() {
       map: map,
       title: 'Federation',
       icon: {
-          url: 'img/page--contact/spotlight-poi.png',
+          url: 'img/contact/spotlight-poi.png',
           labelOrigin: new google.maps.Point(70, 12)
       },
       label: {
