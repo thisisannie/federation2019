@@ -36,7 +36,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="project-feature-image">
-                    <img src="<?=HTML_ROOT;?>/img/projects/true-honey/banner.jpg" alt="" class="project-feature-image__photo">
+                    <img src="<?=HTML_ROOT;?>/img/results/true-honey/banner.webp" alt="" class="project-feature-image__photo">
                 </div>
             </div>
         </div>
@@ -98,8 +98,8 @@
 				<div class="row justify-content-center">
 					<div class="col-12 col-md-10">
 						<div class="website-images">
-							<img src="<?=HTML_ROOT;?>/img/projects/true-honey/website.jpg" alt="" class="website animate animate--fade-up-25">
-							<img src="<?=HTML_ROOT;?>/img/projects/true-honey/phone.png" alt="" class="phone animate animate--fade-up-25">
+							<img src="<?=HTML_ROOT;?>/img/results/true-honey/website.webp" alt="" class="website animate animate--fade-up-25">
+							<img src="<?=HTML_ROOT;?>/img/results/true-honey/phone.webp" alt="" class="phone animate animate--fade-up-25">
 						</div>
 					</div>
 				</div>
@@ -122,17 +122,17 @@
 							<h2 class="h2--small animate animate--fade-up-25">Photography</h2>
 							<p class="animate animate--fade-up-25">Clean photography style, making the product the hero.</p>
 						</div>
-						<img src="<?=HTML_ROOT;?>/img/projects/true-honey/honeycomb.jpg" alt="" class="honeycomb animate animate--fade-up-25">
-						<img src="<?=HTML_ROOT;?>/img/projects/true-honey/tab.jpg" alt="" class="tab animate animate--fade-up-25">
+						<img src="<?=HTML_ROOT;?>/img/results/true-honey/honeycomb.webp" alt="" class="honeycomb animate animate--fade-up-25">
+						<img src="<?=HTML_ROOT;?>/img/results/true-honey/tab.webp" alt="" class="tab animate animate--fade-up-25">
 					</div>
 					<div class="col-12 col-md-6 order-md-1">
 						<div class="feature-video animate animate--fade-up-25">
 							<div class="feature-video__image-group" id="true-honey-boxing-clever">
-	                            <img src="<?=HTML_ROOT;?>/img/projects/true-honey/boxing-clever.jpg" alt="" class="feature-video__image boxing-clever">
+	                            <img src="<?=HTML_ROOT;?>/img/results/true-honey/boxing-clever.webp" alt="" class="feature-video__image boxing-clever">
 	                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
 	                        </div>
 						</div>
-						<img src="<?=HTML_ROOT;?>/img/projects/true-honey/850.jpg" alt="" class="boxes-850 animate animate--fade-up-25">
+						<img src="<?=HTML_ROOT;?>/img/results/true-honey/850.webp" alt="" class="boxes-850 animate animate--fade-up-25">
 					</div>
 				</div>
 			</div>
@@ -153,7 +153,7 @@
 									<span class="animate animate--slide-left-25">Lozenge launch</span>
 								</div>
 							</div>
-							<img src="<?=HTML_ROOT;?>/img/results/next-project--lozenge-launch.jpg" alt="" class="project-next-img__image">
+							<img src="<?=HTML_ROOT;?>/img/results/next-project--lozenge-launch.webp" alt="" class="project-next-img__image">
 							<div class="project-next-img__text-mask project-next-img__text-mask--inner">
 							<div class="project-next-img__text project-next-img__text--inner">
 									<span class="animate animate--slide-left-25">Lozenge launch</span>

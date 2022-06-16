@@ -36,7 +36,7 @@
             <div class="row justify-content-center">
                 <div class="feature-video">
                     <div class="feature-video__image-group" id="elemental__video">
-                        <img src="<?=HTML_ROOT;?>/img/results/ateed-elemental/banner.jpg" alt="" class="feature-video__image">
+                        <img src="<?=HTML_ROOT;?>/img/results/ateed-elemental/banner.webp" alt="" class="feature-video__image">
                         <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
                     </div>
                 </div>
@@ -109,14 +109,13 @@
                 </div>
                 <div class="col-12 col-sm-6 col-lg-6">
                     <div class="device-group">
-                        <img src="<?=HTML_ROOT;?>/img/results/ateed-elemental/tablet.png" alt="" class="tablet animate animate--fade-up-25">
-                        <img src="<?=HTML_ROOT;?>/img/results/ateed-elemental/phone.png" alt="" class="phone animate animate--fade-up-25">
+                        <img src="<?=HTML_ROOT;?>/img/results/ateed-elemental/tablet.webp" alt="" class="tablet animate animate--fade-up-25">
+                        <img src="<?=HTML_ROOT;?>/img/results/ateed-elemental/phone.webp" alt="" class="phone animate animate--fade-up-25">
                     </div>
                 </div>
             </div>
         </div>    
     </div>
-    HTML ROOT = <?=HTML_ROOT;?>
     <div class="section section--white section--icons">
         <div class="container">
             <div class="row align-items-center">
@@ -147,11 +146,11 @@
                         <p class="animate animate--fade-up-25">Single placements announced the festival, with consecutive posters and revolving digital OOH highlighting each element.</p>
                         <button class="button button--red animate animate--fade-up-25" id="elemental__video-b">Watch</button>
                     </div>
-                    <img src="<?=HTML_ROOT;?>/img/results/ateed-elemental/ooh-b.jpg" alt="" class="ooh-b animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/results/ateed-elemental/ooh-b.webp" alt="" class="ooh-b animate animate--fade-up-25">
                 </div>
                 <div class="col-12 col-sm-6 col-lg-6">
-                    <img src="<?=HTML_ROOT;?>/img/results/ateed-elemental/ooh-a.jpg" alt="" class="ooh-a animate animate--fade-up-25">
-                    <img src="<?=HTML_ROOT;?>/img/results/ateed-elemental/ooh-c.jpg" alt="" class="ooh-c animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/results/ateed-elemental/ooh-a.webp" alt="" class="ooh-a animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/results/ateed-elemental/ooh-c.webp" alt="" class="ooh-c animate animate--fade-up-25">
                 </div>
             </div>
         </div>    
@@ -172,7 +171,7 @@
                                 <span class="animate animate--slide-left-25">JBWere website</span>
                             </div>
                         </div>
-                        <img src="<?=HTML_ROOT;?>/img/results/next-project--jbwere.jpg" alt="" class="project-next-img__image">
+                        <img src="<?=HTML_ROOT;?>/img/results/next-project--jbwere.webp" alt="" class="project-next-img__image">
                         <div class="project-next-img__text-mask project-next-img__text-mask--inner">
                            <div class="project-next-img__text project-next-img__text--inner">
                                 <span class="animate animate--slide-left-25">JBWere website</span>
