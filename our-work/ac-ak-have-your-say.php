@@ -36,7 +36,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="project-feature-image">
-                    <img src="<?=HTML_ROOT;?>/img/results/ac-ak-have-your-say/banner.webp" alt="" class="project-feature-image__photo">
+                    <img src="<?=HTML_ROOT;?>/img/our-work/ac-ak-have-your-say/banner.webp" alt="" class="project-feature-image__photo">
                 </div>
             </div>
         </div>
@@ -109,7 +109,7 @@
                 <div class="col-12 col-md-10">
                     <div class="feature-video feature animate animate--fade-up-25" id="akhys__feature-video">
                        <div class="feature-video__image-group">
-                            <img src="<?=HTML_ROOT;?>/img/results/ac-ak-have-your-say/featured-video.webp" alt="" class="feature-video__image">
+                            <img src="<?=HTML_ROOT;?>/img/our-work/ac-ak-have-your-say/featured-video.webp" alt="" class="feature-video__image">
                             <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
                         </div>
                     </div>
@@ -129,13 +129,13 @@
             </div>
             <div class="row flex-nowrap poster-row">
                 <div class="col-5 col-md-4 offset-md-3">
-                    <img src="<?=HTML_ROOT;?>/img/results/ac-ak-have-your-say/poster-a.webp" alt="" class="poster">
+                    <img src="<?=HTML_ROOT;?>/img/our-work/ac-ak-have-your-say/poster-a.webp" alt="" class="poster">
                 </div>
                 <div class="col-5 col-md-4">
-                    <img src="<?=HTML_ROOT;?>/img/results/ac-ak-have-your-say/poster-b.webp" alt="" class="poster">
+                    <img src="<?=HTML_ROOT;?>/img/our-work/ac-ak-have-your-say/poster-b.webp" alt="" class="poster">
                 </div>
                 <div class="col-5 col-md-4">
-                    <img src="<?=HTML_ROOT;?>/img/results/ac-ak-have-your-say/poster-c.webp" alt="" class="poster">
+                    <img src="<?=HTML_ROOT;?>/img/our-work/ac-ak-have-your-say/poster-c.webp" alt="" class="poster">
                 </div>
             </div>
         </div>
@@ -163,30 +163,30 @@
                     </div>
                     <div class="col-12 col-sm-5 offset-sm-1 col-md-5 offset-md-1">
                         <div class="phone-wrapper animate animate--fade-up-25">
-                            <img src="<?=HTML_ROOT;?>/img/results/ac-ak-have-your-say/phone.webp" alt="" class="phone">
+                            <img src="<?=HTML_ROOT;?>/img/our-work/ac-ak-have-your-say/phone.webp" alt="" class="phone">
                             <div class="mini-slider__slides-mask">
                                 <ul class="mini-slider__slides">
                                     <li data-slide="1" class="mini-slider__slide">
                                         <div class="phone-video__image-group" id="akhys-social-1">
-                                            <img src="<?=HTML_ROOT;?>/img/results/ac-ak-have-your-say/social-video-1.webp" alt="" class="phone-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/our-work/ac-ak-have-your-say/social-video-1.webp" alt="" class="phone-video__image">
                                             <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="phone-video__play-btn">
                                         </div>
                                     </li>
                                     <li data-slide="2" class="mini-slider__slide">
                                         <div class="phone-video__image-group" id="akhys-social-2">
-                                            <img src="<?=HTML_ROOT;?>/img/results/ac-ak-have-your-say/social-video-2.webp" alt="" class="phone-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/our-work/ac-ak-have-your-say/social-video-2.webp" alt="" class="phone-video__image">
                                             <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="phone-video__play-btn">
                                         </div>
                                     </li>
                                     <li data-slide="3" class="mini-slider__slide">
                                         <div class="phone-video__image-group" id="akhys-social-3">
-                                            <img src="<?=HTML_ROOT;?>/img/results/ac-ak-have-your-say/social-video-3.webp" alt="" class="phone-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/our-work/ac-ak-have-your-say/social-video-3.webp" alt="" class="phone-video__image">
                                             <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="phone-video__play-btn">
                                         </div>
                                     </li>
                                     <li data-slide="4" class="mini-slider__slide">
                                         <div class="phone-video__image-group" id="akhys-social-4">
-                                            <img src="<?=HTML_ROOT;?>/img/results/ac-ak-have-your-say/social-video-4.webp" alt="" class="phone-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/our-work/ac-ak-have-your-say/social-video-4.webp" alt="" class="phone-video__image">
                                             <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="phone-video__play-btn">
                                         </div>
                                     </li>

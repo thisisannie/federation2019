@@ -25,7 +25,7 @@
                         </div>
                     </div>
                     <div class="feature-img__bgvideo-wrapper" id="feature-img__bgvideo-wrapper">
-                        <img src="<?=HTML_ROOT;?>/img/results/our-work-banner.jpg" alt="" class="feature-img__bgimage">
+                        <img src="<?=HTML_ROOT;?>/img/our-work/our-work-banner.jpg" alt="" class="feature-img__bgimage">
                     </div>
                     <div class="feature-img__text-mask feature-img__text-mask--inner">
                         <div class="feature-img__text feature-img__text--desktop feature-img__text--inner">
@@ -76,7 +76,7 @@
                     <div class="project">
                         <a href="<?=HTML_ROOT;?>/our-work/true-honey" class="project__link">
                             <div class="project__image-mask">
-                                <img src="<?=HTML_ROOT;?>/img/results/true-honey.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/our-work/true-honey.jpg" alt="" class="project__image">
                             </div>
                             <h2 class="project__title">True E-Commerce</h2>
                             <span class="project__client">The True Honey Co.</span>
@@ -87,7 +87,7 @@
                     <div class="project">
                         <a href="<?=HTML_ROOT;?>/our-work/th-lozenge" class="project__link">
                             <div class="project__image-mask">
-                                <img src="<?=HTML_ROOT;?>/img/results/lozenge-launch.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/our-work/lozenge-launch.jpg" alt="" class="project__image">
                             </div>
                             <h2 class="project__title">Lozenge launch</h2>
                             <span class="project__client">The True Honey Co.</span>
@@ -98,7 +98,7 @@
                     <div class="project">
                         <a href="<?=HTML_ROOT;?>/our-work/bagel-love" class="project__link">
                             <div class="project__image-mask">
-                                <img src="<?=HTML_ROOT;?>/img/results/bagel-love.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/our-work/bagel-love.jpg" alt="" class="project__image">
                             </div>
                             <h2 class="project__title">Spreading more brand love</h2>
                             <span class="project__client">Bagel Love</span>
@@ -109,7 +109,7 @@
                     <div class="project">
                         <a href="<?=HTML_ROOT;?>/our-work/ateed-elemental" class="project__link">
                             <div class="project__image-mask">
-                                <img src="<?=HTML_ROOT;?>/img/results/elemental.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/our-work/elemental.jpg" alt="" class="project__image">
                             </div>
                             <h2 class="project__title">Elemental</h2>
                             <span class="project__client">ATEED</span>
@@ -120,7 +120,7 @@
 					<div class="project">
                         <a href="<?=HTML_ROOT;?>/our-work/at-summer-cycling" class="project__link">
                             <div class="project__image-mask">
-                                <img src="<?=HTML_ROOT;?>/img/results/summer-cycling.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/our-work/summer-cycling.jpg" alt="" class="project__image">
                             </div>
                             <h2 class="project__title">Live the bike life</h2>
                             <span class="project__client">Auckland Transport</span>
@@ -131,7 +131,7 @@
                     <div class="project">
                         <a href="<?=HTML_ROOT;?>/our-work/ac-ak-have-your-say" class="project__link">
                             <div class="project__image-mask">
-                                <img src="<?=HTML_ROOT;?>/img/results/ak-have-your-say.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/our-work/ak-have-your-say.jpg" alt="" class="project__image">
                             </div>
                             <h2 class="project__title">AK Have your say</h2>
                             <span class="project__client">Auckland Council</span>
@@ -142,7 +142,7 @@
                     <div class="project">
                         <a href="<?=HTML_ROOT;?>/our-work/cavbrem-rebrand" class="project__link">
                             <div class="project__image-mask">
-                                <img src="<?=HTML_ROOT;?>/img/results/cavbrem.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/our-work/cavbrem.jpg" alt="" class="project__image">
                             </div>
                             <h2 class="project__title">Cavbrem Rebrand</h2>
                             <span class="project__client">Cavbrem</span>
@@ -153,7 +153,7 @@
                     <div class="project">
                         <a href="<?=HTML_ROOT;?>/our-work/farm-source-laura-rewards" class="project__link">
                             <div class="project__image-mask">
-                                <img src="<?=HTML_ROOT;?>/img/results/laura-rewards.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/our-work/laura-rewards.jpg" alt="" class="project__image">
                             </div>
                             <h2 class="project__title">Laura Rewards</h2>
                             <span class="project__client">Farm Source</span>
@@ -164,7 +164,7 @@
                     <div class="project">
                         <a href="<?=HTML_ROOT;?>/our-work/zoetis-ditch-the-itch" class="project__link">
                             <div class="project__image-mask">
-                                <img src="<?=HTML_ROOT;?>/img/results/zoetis.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/our-work/zoetis.jpg" alt="" class="project__image">
                             </div>
                             <h2 class="project__title">Ditch the Itch</h2>
                             <span class="project__client">Zoetis</span>
@@ -175,7 +175,7 @@
 					<div class="project">
                         <a href="<?=HTML_ROOT;?>/our-work/jbwere-website" class="project__link">
                             <div class="project__image-mask">
-                                <img src="<?=HTML_ROOT;?>/img/results/jb-were.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/our-work/jb-were.jpg" alt="" class="project__image">
                             </div>
                             <h2 class="project__title">JBWere website</h2>
                             <span class="project__client">JBWere</span>
@@ -331,7 +331,7 @@
                                             <div class="project">
                                                 <a href="<?=HTML_ROOT;?>/news/seatbelts" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="<?=HTML_ROOT;?>/img/results/seatbelts.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/our-work/seatbelts.jpg" alt="" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Seatbelts</h2>
                                                     <span class="project__client">Auckland Transport</span>

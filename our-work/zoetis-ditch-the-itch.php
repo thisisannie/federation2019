@@ -36,7 +36,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="project-feature-image">
-                    <img src="<?=HTML_ROOT;?>/img/results/zoetis-ditch-the-itch/dog.webp" alt="" class="project-feature-image__photo">
+                    <img src="<?=HTML_ROOT;?>/img/our-work/zoetis-ditch-the-itch/dog.webp" alt="" class="project-feature-image__photo">
                 </div>
             </div>
         </div>
@@ -111,18 +111,18 @@
             <div class="row">
                 <div class="col-12 col-sm-6 col-md-5 offset-md-1">
                     <div class="feature-video feature left-video animate animate--fade-up-25" >
-                        <img src="<?=HTML_ROOT;?>/img/results/zoetis-ditch-the-itch/fb-bg.webp" alt="" class="feature-video__bg">
+                        <img src="<?=HTML_ROOT;?>/img/our-work/zoetis-ditch-the-itch/fb-bg.webp" alt="" class="feature-video__bg">
                        <div class="feature-video__image-group" id="zoetis__video-a">
-                            <img src="<?=HTML_ROOT;?>/img/results/zoetis-ditch-the-itch/dog-video-a.webp" alt="" class="feature-video__image">
+                            <img src="<?=HTML_ROOT;?>/img/our-work/zoetis-ditch-the-itch/dog-video-a.webp" alt="" class="feature-video__image">
                             <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-5">
                     <div class="feature-video feature right-video animate animate--fade-up-25" >
-                        <img src="<?=HTML_ROOT;?>/img/results/zoetis-ditch-the-itch/fb-bg.webp" alt="" class="feature-video__bg">
+                        <img src="<?=HTML_ROOT;?>/img/our-work/zoetis-ditch-the-itch/fb-bg.webp" alt="" class="feature-video__bg">
                        <div class="feature-video__image-group" id="zoetis__video-b">
-                            <img src="<?=HTML_ROOT;?>/img/results/zoetis-ditch-the-itch/dog-video-b.webp" alt="" class="feature-video__image">
+                            <img src="<?=HTML_ROOT;?>/img/our-work/zoetis-ditch-the-itch/dog-video-b.webp" alt="" class="feature-video__image">
                             <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
                         </div>
                     </div>
@@ -143,22 +143,22 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col-12 col-md-10">
-                    <img src="<?=HTML_ROOT;?>/img/results/zoetis-ditch-the-itch/website.webp" alt="" class="website animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/our-work/zoetis-ditch-the-itch/website.webp" alt="" class="website animate animate--fade-up-25">
                 </div>
             </div>
             <div class="row poster-row">
                 <div class="col-12 col-md-6">
-                    <img src="<?=HTML_ROOT;?>/img/results/zoetis-ditch-the-itch/website-a.webp" alt="" class="website-a animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/our-work/zoetis-ditch-the-itch/website-a.webp" alt="" class="website-a animate animate--fade-up-25">
                 </div>
                 <div class="col-12 col-md-6">
-                    <img src="<?=HTML_ROOT;?>/img/results/zoetis-ditch-the-itch/website-b.webp" alt="" class="website-b animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/our-work/zoetis-ditch-the-itch/website-b.webp" alt="" class="website-b animate animate--fade-up-25">
                 </div>
             </div>
             <div class="row justify-content-center">
                 <div class="col-12 col-md-8">
                    <div class="website-images">
-                        <img src="<?=HTML_ROOT;?>/img/results/zoetis-ditch-the-itch/website-c.webp" alt="" class="website-c animate animate--fade-up-25 d-none d-sm-block">
-                        <img src="<?=HTML_ROOT;?>/img/results/zoetis-ditch-the-itch/website-phone.webp" alt="" class="website-phone animate animate--fade-up-25">
+                        <img src="<?=HTML_ROOT;?>/img/our-work/zoetis-ditch-the-itch/website-c.webp" alt="" class="website-c animate animate--fade-up-25 d-none d-sm-block">
+                        <img src="<?=HTML_ROOT;?>/img/our-work/zoetis-ditch-the-itch/website-phone.webp" alt="" class="website-phone animate animate--fade-up-25">
                    </div>
                 </div>
             </div>
@@ -176,16 +176,16 @@
             </div>
             <div class="row flex-nowrap poster-row">
                 <div class="col-5 col-md-4 offset-md-1">
-                    <img src="<?=HTML_ROOT;?>/img/results/zoetis-ditch-the-itch/poster-a.webp" alt="" class="poster">
+                    <img src="<?=HTML_ROOT;?>/img/our-work/zoetis-ditch-the-itch/poster-a.webp" alt="" class="poster">
                 </div>
                 <div class="col-5 col-md-4">
-                    <img src="<?=HTML_ROOT;?>/img/results/zoetis-ditch-the-itch/poster-b.webp" alt="" class="poster">
+                    <img src="<?=HTML_ROOT;?>/img/our-work/zoetis-ditch-the-itch/poster-b.webp" alt="" class="poster">
                 </div>
                 <div class="col-5 col-md-4">
-                    <img src="<?=HTML_ROOT;?>/img/results/zoetis-ditch-the-itch/poster-c.webp" alt="" class="poster">
+                    <img src="<?=HTML_ROOT;?>/img/our-work/zoetis-ditch-the-itch/poster-c.webp" alt="" class="poster">
                 </div>
                  <div class="col-5 col-md-4">
-                    <img src="<?=HTML_ROOT;?>/img/results/zoetis-ditch-the-itch/poster-d.webp" alt="" class="poster">
+                    <img src="<?=HTML_ROOT;?>/img/our-work/zoetis-ditch-the-itch/poster-d.webp" alt="" class="poster">
                 </div>
             </div>
         </div>
@@ -206,7 +206,7 @@
                                 <span class="animate animate--slide-left-25">Live the bike life</span>
                             </div>
                         </div>
-                        <img src="<?=HTML_ROOT;?>/img/results/next-project--summer-cycling.webp" alt="" class="project-next-img__image">
+                        <img src="<?=HTML_ROOT;?>/img/our-work/next-project--summer-cycling.webp" alt="" class="project-next-img__image">
                         <div class="project-next-img__text-mask project-next-img__text-mask--inner">
                            <div class="project-next-img__text project-next-img__text--inner">
                                 <span class="animate animate--slide-left-25">Live the bike life</span>

@@ -36,7 +36,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="project-feature-image">
-                    <img src="<?=HTML_ROOT;?>/img/results/th-lozenge/banner.webp" alt="" class="project-feature-image__photo">
+                    <img src="<?=HTML_ROOT;?>/img/our-work/th-lozenge/banner.webp" alt="" class="project-feature-image__photo">
                 </div>
             </div>
         </div>
@@ -45,7 +45,7 @@
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-12 col-md-10">
-					<img src="<?=HTML_ROOT;?>/img/results/th-lozenge/magazine.webp" alt="" class="mag animate animate--fade-up-25">
+					<img src="<?=HTML_ROOT;?>/img/our-work/th-lozenge/magazine.webp" alt="" class="mag animate animate--fade-up-25">
 				</div>
 			</div>
 			<div class="row">
@@ -68,7 +68,7 @@
 					</div>
 				</div>
 				<div class="col-12 col-md-6 order-md-1">
-					<img src="<?=HTML_ROOT;?>/img/results/th-lozenge/landscape.webp" alt="" class="landscape animate animate--fade-up-25">
+					<img src="<?=HTML_ROOT;?>/img/our-work/th-lozenge/landscape.webp" alt="" class="landscape animate animate--fade-up-25">
 				</div>
 			</div>
 		</div>
@@ -89,7 +89,7 @@
 								<span class="animate animate--slide-left-25">Spreading more brand love</span>
 							</div>
 						</div>
-						<img src="<?=HTML_ROOT;?>/img/results/next-project--bagel-love.webp" alt="" class="project-next-img__image">
+						<img src="<?=HTML_ROOT;?>/img/our-work/next-project--bagel-love.webp" alt="" class="project-next-img__image">
 						<div class="project-next-img__text-mask project-next-img__text-mask--inner">
 						<div class="project-next-img__text project-next-img__text--inner">
 								<span class="animate animate--slide-left-25">Spreading more brand love</span>
