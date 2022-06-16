@@ -23,7 +23,7 @@
                         </div>
                     </div>
                     <div class="feature-img__bgvideo-wrapper" id="feature-img__bgvideo-wrapper">
-                        <img src="<?=HTML_ROOT;?>/img/page--what-we-do/what-we-do-banner.jpg" alt="" class="feature-img__bgimage">
+                        <img src="<?=HTML_ROOT;?>/img/what-we-do/what-we-do-banner.jpg" alt="" class="feature-img__bgimage">
                     </div>
                     <div class="feature-img__text-mask feature-img__text-mask--inner">
                         <div class="feature-img__text feature-img__text--desktop feature-img__text--inner">
@@ -77,7 +77,7 @@
                                 </div>
                             </div>
                         </div>
-                        <img src="<?=HTML_ROOT;?>/img/page--what-we-do/services-bg.png" alt="" class="feature-img__image">
+                        <img src="<?=HTML_ROOT;?>/img/what-we-do/services-bg.png" alt="" class="feature-img__image">
                         <div class="feature-img__text-mask feature-img__text-mask--inner">
                            <div class="feature-img__text feature-img__text--inner">
                                <div class="infinite-scroll infinite-scroll--forward services-scroll">
@@ -112,8 +112,8 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="col-md-4 d-none d-md-block">
-					<img src="<?=HTML_ROOT;?>/img/page--what-we-do/farm-source.jpg" alt="" class="laptop animate--fade-up-25">
-					<img src="<?=HTML_ROOT;?>/img/page--what-we-do/magazine.jpg" alt="" class="mag animate--fade-up-25">
+					<img src="<?=HTML_ROOT;?>/img/what-we-do/farm-source.jpg" alt="" class="laptop animate--fade-up-25">
+					<img src="<?=HTML_ROOT;?>/img/what-we-do/magazine.jpg" alt="" class="mag animate--fade-up-25">
                 </div>
                 <div class="col-12 col-md-4">
                     <ul class="service-list" id="service-list">
@@ -148,7 +148,7 @@
 						<li class="service-list__item">
                             <h2 class="service-list__title animate animate--slide-left">Customer experience</h2>
                             <div class="service-list__content">
-								<img src="<?=HTML_ROOT;?>/img/page--what-we-do/the-lab-logo_inverse.png" alt="The Lab" class="flix">
+								<img src="<?=HTML_ROOT;?>/img/what-we-do/the-lab-logo_inverse.png" alt="The Lab" class="flix">
                                 <p>We have extensive expertise and accreditation in marketing technology, helping you get the most out of your platform.</p>
                                 <a href="<?=HTML_ROOT;?>/the-lab" class="link-button">Read more here</a>
                             </div>
@@ -184,7 +184,7 @@
 						<li class="service-list__item">
                             <h2 class="service-list__title animate animate--slide-left">TV & content production</h2>
                             <div class="service-list__content">
-                                <img src="<?=HTML_ROOT;?>/img/page--what-we-do/flix.png" alt="" class="flix">
+                                <img src="<?=HTML_ROOT;?>/img/what-we-do/flix.png" alt="" class="flix">
                                 <p>Federation's own fully-integrated, in-house, TV, content and animation division.</p>
                             </div>
                         </li>
@@ -198,7 +198,7 @@
                     </ul>
                 </div>
                 <div class="col-md-4 d-none d-md-block">
-                    <img src="<?=HTML_ROOT;?>/img/page--what-we-do/jbwere.jpg" alt="" class="camera animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/what-we-do/jbwere.jpg" alt="" class="camera animate--fade-up-25">
                 </div>
             </div>
         </div>

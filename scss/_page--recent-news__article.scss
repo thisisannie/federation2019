@@ -553,7 +553,7 @@
                 display: block;
                 width: 15px;
                 height: 15px;
-                background-image: url(../img/page--what-we-do/inactive.png);
+                background-image: url(../img/what-we-do/inactive.png);
                 background-size: 100%;
             }
 		}
@@ -563,7 +563,7 @@
         .service-list__title.service-list__title--open {
             // color: #959595;
             &:after {
-                background-image: url(../img/page--what-we-do/active.png);
+                background-image: url(../img/what-we-do/active.png);
             }
         }
         .service-list__content {
