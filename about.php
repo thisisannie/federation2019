@@ -116,7 +116,7 @@
                         </div>
                     </div>
                     <div class="feature-img__bgvideo-wrapper" id="feature-img__bgvideo-wrapper">
-                        <img src="<?=HTML_ROOT;?>/img/page--about/banner-about-us.jpg" alt="" class="feature-img__bgimage">
+                        <img src="<?=HTML_ROOT;?>/img/about/banner-about-us.jpg" alt="" class="feature-img__bgimage">
                     </div>
                     <div class="feature-img__text-mask feature-img__text-mask--inner">
                         <div class="feature-img__text feature-img__text--desktop feature-img__text--inner">
@@ -197,14 +197,14 @@
     <div class="section section--white section--images">
         <div class="image-container">
             <div class="image-a">
-                <img src="<?=HTML_ROOT;?>/img/page--about/tane.jpg" alt="" class="image-a__img">
+                <img src="<?=HTML_ROOT;?>/img/about/tane.jpg" alt="" class="image-a__img">
                 <div class="stamp">
                     <img src="<?=HTML_ROOT;?>/img/page--home/stamp__rondell.png" alt="" class="stamp__rondell animate animate--rotate">
                     <img src="<?=HTML_ROOT;?>/img/page--home/stamp__f.png" alt="" class="stamp__f">
                 </div>
             </div>
-            <img src="<?=HTML_ROOT;?>/img/page--about/samoa.jpg" alt="" class="image-b">
-            <img src="<?=HTML_ROOT;?>/img/page--about/true-honey.jpg" alt="" class="image-c">
+            <img src="<?=HTML_ROOT;?>/img/about/samoa.jpg" alt="" class="image-b">
+            <img src="<?=HTML_ROOT;?>/img/about/true-honey.jpg" alt="" class="image-c">
         </div>
     </div>
     
@@ -234,34 +234,34 @@
         <div class="horizontal-scroller client-logo-scroller">
             <ul class="horizontal-scroller__list">
                 <li class="horizontal-scroller__item">
-                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/page--about/flexi-cards.png" class="logo"></div>
+                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/about/flexi-cards.png" class="logo"></div>
                 </li>
                 <li class="horizontal-scroller__item">
-                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/page--about/ffc.png" class="logo"></div>
+                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/about/ffc.png" class="logo"></div>
                 </li>
                 <li class="horizontal-scroller__item">
-                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/page--about/qmc.png" class="logo"></div>
+                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/about/qmc.png" class="logo"></div>
                 </li>
                 <li class="horizontal-scroller__item">
-                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/page--about/qcard.png" class="logo"></div>
+                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/about/qcard.png" class="logo"></div>
                 </li>
                 <li class="horizontal-scroller__item">
-                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/page--about/at.png" class="logo"></div>
+                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/about/at.png" class="logo"></div>
                 </li>
                 <li class="horizontal-scroller__item">
-                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/page--about/auckland-council.png" class="logo"></div>
+                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/about/auckland-council.png" class="logo"></div>
                 </li>
                 <li class="horizontal-scroller__item">
-                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/page--about/zoetis.png" class="logo"></div>
+                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/about/zoetis.png" class="logo"></div>
                 </li>
                 <li class="horizontal-scroller__item">
-                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/page--about/emirates.png" class="logo"></div>
+                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/about/emirates.png" class="logo"></div>
                 </li>
                 <li class="horizontal-scroller__item">
-                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/page--about/nufarm.png" class="logo"></div>
+                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/about/nufarm.png" class="logo"></div>
                 </li>
                 <li class="horizontal-scroller__item">
-                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/page--about/kings-college.png" class="logo"></div>
+                    <div class="client-logo-container"><img src="<?=HTML_ROOT;?>/img/about/kings-college.png" class="logo"></div>
                 </li>
             </ul>
         </div>
