@@ -79,17 +79,33 @@
             "title" => "Planning Director",
             "description" => "Emma Fern is one of New Zealand’s most experienced integrated communications Planning Directors. She works alongside clients at Federation to create strategies that grow consumer love and engagement for our client’s brands. Emma has worked across many global brands and also New Zealand’s largest brands in her capacity as a planner. Brands worked on include Air New Zealand, Bank of New Zealand, ANZ Bank, Sky TV and Cadbury. Emma was formerly Senior Brand Planner at DDB New Zealand, Former Planning Director at BBDO-owned Aim Proximity and former Group Account Director at Rapp Collins London.",
         ],
-        "naz" => [
-            "name" => "Naresh Makan",
-            "img" => "staff-photos_naz.jpg",
-            "title" => "Studio/Production Manager",
-            "description" => "Naresh leads Federation’s studio and is responsible for the day-to-day delivery of final art. With over 20 years in the biz, Naresh has developed some super-efficient processes along the way. He’s a highly experienced and detail oriented manager and finished artist who makes sure the artwork that leaves the agency exceeds client expectations every time. Naresh is a proud citizen of Waiheke Island where he enjoys some of New Zealand’s finest.",
+        // "naz" => [
+        //     "name" => "Naresh Makan",
+        //     "img" => "staff-photos_naz.jpg",
+        //     "title" => "Studio/Production Manager",
+        //     "description" => "Naresh leads Federation’s studio and is responsible for the day-to-day delivery of final art. With over 20 years in the biz, Naresh has developed some super-efficient processes along the way. He’s a highly experienced and detail oriented manager and finished artist who makes sure the artwork that leaves the agency exceeds client expectations every time. Naresh is a proud citizen of Waiheke Island where he enjoys some of New Zealand’s finest.",
+        // ],
+        // "maddie" => [
+        //     "name" => "Maddie Johnson",
+        //     "img" => "maddie_bu.jpg",
+        //     "title" => "Account Manager",
+        //     "description" => "Born and raised right here in central Auckland. Maddie has spent the last few years chasing the snow and adventure all around the world. After graduating University with a BA in Psychology she worked in the ski industry. Selling adventure gave her the opportunity to interact with an amazingly diverse range of people, from bums to biologists. When she’s not off seeking powder or hunting for shoe sales, she can be found religiously researching new eateries.",
+        // ],
+        "miranda" => [
+            "name" => "Miranda Kennedy",
+            "img" => "staff-photos_miranda.webp",
+            "title" => "Creative Services Lead",
+            "description" => "Miranda’s official title is Creative Delivery Lead but her colleagues prefer to call her “an energiser battery wrapped in cashmere”.<br>
+            Reflecting on her career, Miranda comments how lucky she is to have worked in advertising in the 90s. Not only does she have better work stories than most, but it was during this period that she developed her love affair for craft and typography.<br>
+            Every day, Miranda aspires to be an effective presence in the work place. Job done, Miranda. ",
         ],
-        "maddie" => [
-            "name" => "Maddie Johnson",
-            "img" => "maddie_bu.jpg",
+        "mikade" => [
+            "name" => "Mikade Barns Graham",
+            "img" => "staff-photos_mikade.webp",
             "title" => "Account Manager",
-            "description" => "Born and raised right here in central Auckland. Maddie has spent the last few years chasing the snow and adventure all around the world. After graduating University with a BA in Psychology she worked in the ski industry. Selling adventure gave her the opportunity to interact with an amazingly diverse range of people, from bums to biologists. When she’s not off seeking powder or hunting for shoe sales, she can be found religiously researching new eateries.",
+            "description" => "Mikade hails from Central Otago. As a kid, she won ribbons at Pony Club, panned for gold in the rivers and was bottle-fed Speights.<br>
+            When it comes to the workplace, she’s prepared to turn her hand to anything. Her time at Christchurch City Council gave her a solid understanding of local government and the satisfaction of leading behaviour change at a community level. Having made the move north, she’s revelling in the chance to work in a creative industry, tackling challenges for a diverse range of clients. And we’re very glad to have her.<br>
+            Good on ya mate, er, Mikade. ",
         ],
     ];
     $page_title = "About Us";
