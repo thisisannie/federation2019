@@ -18,9 +18,6 @@ RewriteRule ^(.*)/$ $1
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php
 
-RewriteCond %{REQUEST_FILENAME} !-f
-#RewriteRule ^([^\.]+)$ $1.php [NC,L]
-
 # old redirects
 Redirect 301 /latest__brand-new /news/brand-new
 Redirect 301 /latest__loreal /news/loreal
