@@ -24,6 +24,8 @@ Redirect 301 /latest__loreal /news/loreal
 Redirect 301 /latest__elanco /news/elanco
 Redirect 301 /latest__tony /news/tony
 Redirect 301 /latest__the-lab /the-lab
+Redirect 301 /latest__cctv /news/cctv
+Redirect 301 /the-latest--new-creative-direction /news/
 Redirect 301 /recent-news__akhys /our-work/ac-ak-have-your-say
 Redirect 301 /recent-news__at-blink-blink-blink /news/at-blink-blink-blink
 Redirect 301 /recent-news__cctv /news/cctv
@@ -37,7 +39,7 @@ Redirect 301 /recent-news__seatbelts /news/seatbelts
 Redirect 301 /recent-news__simparica /news/simparica
 Redirect 301 /recent-news__suncorp-early-warning /news/suncorp-early-warning
 Redirect 301 /recent-news__variety /news/variety
-Redirect 301 /results /our-work
+Redirect 301 /results /our-work/
 Redirect 301 /results__ac-ak-have-your-say /our-work/ac-ak-have-your-say
 Redirect 301 /results__at-summer-cycling /our-work/at-summer-cycling
 Redirect 301 /results__ateed-elemental /our-work/ateed-elemental
@@ -82,18 +84,20 @@ Redirect 301 /news__suncorp-early-warning /news/suncorp-early-warning
 Redirect 301 /news__tony /news/tony
 
 # Our Work items redirects
-Redirect 301 /our-work__ac-ak-have-your-say.php /our-work/ac-ak-have-your-say.php
-Redirect 301 /our-work__at-summer-cycling.php /our-work/at-summer-cycling.php
-Redirect 301 /our-work__ateed-elemental.php /our-work/ateed-elemental.php
-Redirect 301 /our-work__bagel-love.php /our-work/bagel-love.php
-Redirect 301 /our-work__cavbrem-rebrand.php /our-work/cavbrem-rebrand.php
-Redirect 301 /our-work__farm-source-laura-rewards.php /our-work/farm-source-laura-rewards.php
-Redirect 301 /our-work__jbwere-website.php /our-work/jbwere-website.php
-Redirect 301 /our-work__th-lozenge.php /our-work/th-lozenge.php
-Redirect 301 /our-work__true-honey.php /our-work/true-honey.php
-Redirect 301 /our-work__zoetis-ditch-the-itch.php /our-work/zoetis-ditch-the-itch.php
+Redirect 301 /our-work__ac-ak-have-your-say /our-work/ac-ak-have-your-say
+Redirect 301 /our-work__at-summer-cycling /our-work/at-summer-cycling
+Redirect 301 /our-work__ateed-elemental /our-work/ateed-elemental
+Redirect 301 /our-work__bagel-love /our-work/bagel-love
+Redirect 301 /our-work__cavbrem-rebrand /our-work/cavbrem-rebrand
+Redirect 301 /our-work__farm-source-laura-rewards /our-work/farm-source-laura-rewards
+Redirect 301 /our-work__jbwere-website /our-work/jbwere-website
+Redirect 301 /our-work--mcdowell-parkinsons /our-work/
+Redirect 301 /our-work__th-lozenge /our-work/th-lozenge
+Redirect 301 /our-work__true-honey /our-work/true-honey
+Redirect 301 /our-work__zoetis-ditch-the-itch /our-work/zoetis-ditch-the-itch
 
 # Other redirects
-Redirect 301 /results /our-work
-Redirect 301 /recent-news /news
+Redirect 301 /results /our-work/
+Redirect 301 /client-results /our-work/
+Redirect 301 /recent-news /news/
 Redirect 301 /contact /lets-talk
