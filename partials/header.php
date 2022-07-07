@@ -8,6 +8,7 @@
 	</title>
 	<meta name="description" content="<?php echo !empty($page_description) ? $page_description : 'A leading, independent advertising agency creating marketing solutions in Aotearoa, New Zealand' ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="canonical" href="<?=HTML_ROOT;?><?=parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);?>" />
 	<link rel="shortcut icon" type="image/x-icon" href="<?=HTML_ROOT;?>/favicon.png"/>
 	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&family=Raleway:wght@100;300;500&display=swap" rel="stylesheet"> 
 	<link rel="stylesheet" href="<?=HTML_ROOT;?>/css/normalize.css?v=2">
