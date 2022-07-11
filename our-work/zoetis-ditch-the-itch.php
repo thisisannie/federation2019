@@ -13,7 +13,7 @@
             <div class="row justify-content-center">
                 <div class="col-12">
                     <div class="project-feature-header">
-                        <h2 class="visuallyhidden">Ditch the Itch</h2>
+                        <h1 class="visuallyhidden">Ditch the Itch</h2>
                         <div class="project-feature-header__text">
                             <span class="animate animate--slide-left-25">Ditch the Itch</span>
                         </div>

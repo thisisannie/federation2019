@@ -13,7 +13,7 @@
             <div class="row justify-content-center">
                 <div class="col-12">
                     <div class="project-feature-header">
-                        <h2 class="visuallyhidden">Live the bike life</h2>
+                        <h1 class="visuallyhidden">Live the bike life</h1>
                         <div class="project-feature-header__text">
                             <span class="animate animate--slide-left-25">Live the bike life</span>
                         </div>

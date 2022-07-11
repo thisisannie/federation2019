@@ -1,6 +1,6 @@
 <?php 
     $page_title = "Tabitha Harris joins Federation as Brand Director";
-    $page_description = "Federation's growth and disruptive non-traditional model is behind our recruitment drive of new ‘pivot resources’ that are enabling clients to change gears fast in the post-COVID world.";
+    $page_description = "Federation's growth and disruptive non-traditional model is behind new ‘pivot resources’ to change gears fast in the post-COVID world.";
 
     include '../config.php';
 	include ABSPATH . '/partials/header.php';

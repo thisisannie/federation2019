@@ -13,7 +13,7 @@
             <div class="row justify-content-center">
                 <div class="col-12">
                     <div class="project-feature-header">
-                        <h2 class="visuallyhidden">A World of Difference</h2>
+                        <h1 class="visuallyhidden">A World of Difference</h1>
                         <div class="project-feature-header__text">
                             <span class="animate animate--slide-left-25">A World</span><br>
                             <span class="animate animate--slide-right-25">&nbsp;&nbsp;of Difference</span>

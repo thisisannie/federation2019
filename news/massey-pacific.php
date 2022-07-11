@@ -1,6 +1,6 @@
 <?php 
     $page_title = "Massey Pacific - Massey University";
-    $page_description = "We designed a new visual identity for Pacific@Massey to encompass rich culture and history, as well as celebrate the success and achievement of past, current and future students.";
+    $page_description = "We designed a new visual identity for Pacific@Massey to encompass rich culture and history, as well as celebrate the success and achievement of students.";
 
     include '../config.php';
 	include ABSPATH . '/partials/header.php';

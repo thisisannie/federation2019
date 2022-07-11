@@ -1,6 +1,6 @@
 <?php 
 	$page_title = "Bagel Love - the love you hunger for";
-	$page_description = "COVID had a real impact on NZ business and many of us reached out to help our neighbours. Through lockdown we worked closely with them to develop a compelling brand.";
+	$page_description = "COVID had a real impact on NZ business and many of us reached out to help our neighbours. Through lockdown we developed a compelling brand.";
 
 	include '../config.php';
 	include ABSPATH . '/partials/header.php';
@@ -13,7 +13,7 @@
             <div class="row justify-content-center">
                 <div class="col-12">
                     <div class="project-feature-header">
-                        <h2 class="visuallyhidden">The love you hunger for</h2>
+                        <h1 class="visuallyhidden">The love you hunger for</h1>
                         <div class="project-feature-header__text">
 							<span class="animate animate--slide-left-25">The love you</span><br>
                             <span class="animate animate--slide-right-25">&nbsp;&nbsp;hunger for</span>

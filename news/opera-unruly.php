@@ -1,6 +1,6 @@
 <?php 
     $page_title = "Unruly Tourists - NZ Opera";
-    $page_description = "The Unruly Tourists is a new comedy opera commissioned by NZ Opera based on the true story of the badly-behaved overseas tourists who were eventually deported from the country";
+    $page_description = "The Unruly Tourists is a new comedy opera commissioned by NZ Opera based on the true story of the badly-behaved tourists who were eventually deported.";
 
     include '../config.php';
 	include ABSPATH . '/partials/header.php';
@@ -10,7 +10,7 @@
 		"title1" => "Unruly",
 		"title2" => "Tourists",
 		"client" => "NZ Opera",
-		"intro" => "The Unruly Tourists is a new comedy opera commissioned by NZ Opera based on the true story of the badly-behaved overseas tourists who were eventually deported from the country due to their unwillingness to conform to local social norms sparking outrage. ",
+		"intro" => "The Unruly Tourists is a new comedy opera commissioned by NZ Opera based on the true story of the badly-behaved overseas tourists who were eventually deported from the country. ",
 		"slug" => "opera-unruly",
 	];
 ?>

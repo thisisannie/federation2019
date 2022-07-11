@@ -1,6 +1,6 @@
 <?php 
     $page_title = "Samoa tourism";
-    $page_description = "Our campaign was aimed at independent and intrepid travellers showing off the unique and authentic experiences of Samoa. Strong simple OOH transported commuters.";
+    $page_description = "Our campaign was aimed at independent and intrepid travellers showing off the unique and authentic experiences of Samoa using out of home advertising.";
 
     include '../config.php';
 	include ABSPATH . '/partials/header.php';

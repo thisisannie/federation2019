@@ -1,6 +1,6 @@
 <?php 
 	$page_title = "L’Oréal moves luxury brand portfolio to Federation.";
-	$page_description = "The move sees Lancôme, Kiehl’s Since 1851, Yves Saint Laurent, Georgio Armani, Urban Decay, Viktor&Rolf, Valentino, Diesel, Prada and more, head to the independent agency.";
+	$page_description = "The move sees the arrival of Lancôme, Kiehl’s, Yves Saint Laurent, Georgio Armani, Urban Decay, Viktor&Rolf, Valentino, Diesel, Prada and more.";
 
 	include '../config.php';
 	include ABSPATH . '/partials/header.php';

@@ -1,6 +1,6 @@
 <?php 
 	$page_title = "Maritime New Zealand";
-	$page_description = "Federation has won the coveted safety and behaviour-change advertising account of Maritime New Zealand and the Safer Boating Forum following a 4-way competitive pitch.";
+	$page_description = "Federation has won the coveted safety and behaviour-change advertising account of Maritime New Zealand and the Safer Boating Forum.";
 
 	include '../config.php';
 	include ABSPATH . '/partials/header.php';

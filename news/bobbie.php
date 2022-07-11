@@ -1,6 +1,6 @@
 <?php 
     $page_title = "Bobby McKay joins Federation";
-    $page_description = "Hot on the back of the appointment of new creative team Hathaway and France from Stanley Street, Federation’S Chief Creative Officer Tony Clewett has announced another key hire.";
+    $page_description = "Hot on the back of the appointment of new creative team Hathaway and France from Stanley Street, Federation’s CCO Tony Clewett announced another key hire.";
 
     include '../config.php';
 	include ABSPATH . '/partials/header.php';

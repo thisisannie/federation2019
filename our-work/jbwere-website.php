@@ -12,7 +12,7 @@
             <div class="row justify-content-center">
                 <div class="col-12">
                     <div class="project-feature-header">
-                        <h2 class="visuallyhidden">JBWere website</h2>
+                        <h1 class="visuallyhidden">JBWere website</h1>
                         <div class="project-feature-header__text">
                             <span class="animate animate--slide-left-25">JBWere website</span>
                         </div>

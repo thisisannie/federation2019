@@ -1,6 +1,6 @@
 <?php 
     $page_title = "Auckland Transport Mobile Moment";
-    $page_description = "Auckland Transport have this week released a new behaviour change campaign encouraging drivers to set up their mobile phone safely before heading out on the region’s roads.";
+    $page_description = "Auckland Transport have released a new behaviour change campaign encouraging drivers to set up their mobile phone safely before driving.";
 
     include '../config.php';
 	include ABSPATH . '/partials/header.php';

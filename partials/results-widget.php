@@ -4,7 +4,7 @@
             <div class="row justify-content-center">
                 <div class="col-12">
                     <div class="feature-header">
-                        <h1 class="visuallyhidden">Results</h1>
+                        <h2 class="visuallyhidden">Results</h2>
                         <div class="feature-header__text">
                             <span class="animate animate--slide-left-25">Results</span>
                         </div>

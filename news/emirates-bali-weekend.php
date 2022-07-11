@@ -1,6 +1,6 @@
 <?php 
     $page_title = "Emirates Bali Week";
-    $page_description = "With Emirates direct daily flights to Bali, getting there has never been so easy. Our interactive activation gave people a taste of the magical island experience";
+    $page_description = "With Emirates direct daily flights to Bali, getting there is so easy now. Our interactive activation gave people a taste of the magical island experience.";
 
     include '../config.php';
 	include ABSPATH . '/partials/header.php';
