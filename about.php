@@ -111,7 +111,7 @@
             "name" => "Annie Kyles",
             "img" => "staff-photos_annie.webp",
             "title" => "Web Developer",
-            "description" => "With 10 years’ experience in the field, Annie knows her stuff in the world of crafting websites, with a special interest in creating clean, accessible sites that are a pleasure to use. Annie is also keen on improving environmental impacts of everyday life and is a cycling enthusiast, using one for her commute even on the roughest days. In the weekends you can find her out exploring in her kayak or admiring the view from a mountain trail.",
+            "description" => "With 10 years’ experience in the field, Annie knows her stuff in the world of crafting websites and has a special interest in creating clean, accessible sites that are a pleasure to use. Annie is also keen on improving environmental impacts of everyday life and is a cycling enthusiast, using one for her commute even on the roughest days. In the weekends you can find her out exploring in her kayak or admiring the view from a mountain trail.",
         ],
     ];
     $page_title = "About Us";
