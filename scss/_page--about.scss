@@ -399,6 +399,7 @@
             transform: translateX(-25%);
             max-width: none;
             transition: opacity 0.2s, transform 0.4s ease-in-out;
+            filter: grayscale(100%);
         }
         .profile-item--is-open .image {
             transform: translateX(0);
