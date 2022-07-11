@@ -107,6 +107,12 @@
             When it comes to the workplace, she’s prepared to turn her hand to anything. Her time at Christchurch City Council gave her a solid understanding of local government and the satisfaction of leading behaviour change at a community level. Having made the move north, she’s revelling in the chance to work in a creative industry, tackling challenges for a diverse range of clients. And we’re very glad to have her.<br>
             Good on ya mate, er, Mikade. ",
         ],
+        "annie" => [
+            "name" => "Annie Kyles",
+            "img" => "staff-photos_annie.webp",
+            "title" => "Web Developer",
+            "description" => "With 10 years’ experience in the field, Annie knows her stuff in the world of crafting websites, with a special interest in creating clean, accessible sites that are a pleasure to use. Annie is also keen on improving environmental impacts of everyday life and is a cycling enthusiast, using one for her commute even on the roughest days. In the weekends you can find her out exploring in her kayak or admiring the view from a mountain trail.",
+        ],
     ];
     $page_title = "About Us";
     $page_description = "In a world where businesses are expected to change at lightning speeds, we are changemakers. How is your brand seen on the outside?";
