@@ -68,8 +68,8 @@
                                 <li data-slide="1" data-slide-title="OOH video" data-slide-paragraph="" class="mini-slider__slide">
                                     <div class="feature-video feature" id="at-mobile-moment">
                                        <div class="feature-video__image-group">
-                                            <img src="<?=HTML_ROOT;?>/img/news/at-mobile-moment/video.webp" alt="" class="feature-video__image">
-                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/news/at-mobile-moment/video.webp" alt="Video ad for having a mobile moment before you drive away." class="feature-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>

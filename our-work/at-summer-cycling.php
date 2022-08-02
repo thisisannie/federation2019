@@ -218,7 +218,7 @@
                                     <li data-slide="1" class="mini-slider__slide">
                                         <div class="phone-video__image-group" id="bike-life-1">
                                             <img src="<?=HTML_ROOT;?>/img/our-work/at-summer-cycling/snap_pink.webp" alt="" class="phone-video__image">
-                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="phone-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="phone-video__play-btn">
                                         </div>
                                     </li>
                                     <li data-slide="2" class="mini-slider__slide">
@@ -243,7 +243,7 @@
                 <div class="col-12 col-sm-6 col-md-5 offset-md-1 d-flex align-items-center order-2 order-sm-1">
                     <div class="phone-video__image-group" id="bike-life-fb-1">
                         <img src="<?=HTML_ROOT;?>/img/our-work/at-summer-cycling/fb-post-image-a.webp" alt="" class="phone-video__image">
-                        <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="phone-video__play-btn">
+                        <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="phone-video__play-btn">
                     </div>
                 </div>
                 <div class="col-12 col-sm-5 offset-sm-1 col-md-5 offset-md-1 d-flex align-items-center order-1 order-sm-2">
@@ -267,7 +267,7 @@
                     <div class="feature-video feature animate animate--fade-up-25" id="summer-cycling">
                        <div class="feature-video__image-group">
                             <img src="<?=HTML_ROOT;?>/img/our-work/at-summer-cycling/video-feature.webp" alt="" class="feature-video__image">
-                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="feature-video__play-btn">
                         </div>
                     </div>
                 </div>

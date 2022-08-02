@@ -129,7 +129,7 @@
 						<div class="feature-video animate animate--fade-up-25">
 							<div class="feature-video__image-group" id="true-honey-boxing-clever">
 	                            <img src="<?=HTML_ROOT;?>/img/our-work/true-honey/boxing-clever.webp" alt="" class="feature-video__image boxing-clever">
-	                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
+	                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="feature-video__play-btn">
 	                        </div>
 						</div>
 						<img src="<?=HTML_ROOT;?>/img/our-work/true-honey/850.webp" alt="" class="boxes-850 animate animate--fade-up-25">

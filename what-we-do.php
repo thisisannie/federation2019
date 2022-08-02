@@ -77,7 +77,6 @@
                                 </div>
                             </div>
                         </div>
-                        <img src="<?=HTML_ROOT;?>/img/what-we-do/services-bg.png" alt="" class="feature-img__image">
                         <div class="feature-img__text-mask feature-img__text-mask--inner">
                            <div class="feature-img__text feature-img__text--inner">
                                <div class="infinite-scroll infinite-scroll--forward services-scroll">
@@ -112,8 +111,8 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="col-md-4 d-none d-md-block">
-					<img src="<?=HTML_ROOT;?>/img/what-we-do/farm-source.jpg" alt="" class="laptop animate--fade-up-25">
-					<img src="<?=HTML_ROOT;?>/img/what-we-do/magazine.jpg" alt="" class="mag animate--fade-up-25">
+					<img src="<?=HTML_ROOT;?>/img/what-we-do/farm-source.jpg" alt="We know you were'nt born to be in an office - Farm Source" class="laptop animate--fade-up-25">
+					<img src="<?=HTML_ROOT;?>/img/what-we-do/magazine.jpg" alt="We know you were'nt born to be in an office - Farm Source Magazine">
                 </div>
                 <div class="col-12 col-md-4">
                     <ul class="service-list" id="service-list">
@@ -184,7 +183,7 @@
 						<li class="service-list__item">
                             <h2 class="service-list__title animate animate--slide-left">TV & content production</h2>
                             <div class="service-list__content">
-                                <img src="<?=HTML_ROOT;?>/img/what-we-do/flix.png" alt="" class="flix">
+                                <img src="<?=HTML_ROOT;?>/img/what-we-do/flix.png" alt="Flix logo" class="flix">
                                 <p>Federation's own fully-integrated, in-house, TV, content and animation division.</p>
                             </div>
                         </li>
@@ -198,7 +197,7 @@
                     </ul>
                 </div>
                 <div class="col-md-4 d-none d-md-block">
-                    <img src="<?=HTML_ROOT;?>/img/what-we-do/jbwere.jpg" alt="" class="camera animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/what-we-do/jbwere.jpg" alt="JBWere - Growing wealth in a changing world - website screenshot" class="camera animate--fade-up-25">
                 </div>
             </div>
         </div>

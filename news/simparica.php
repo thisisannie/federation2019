@@ -70,7 +70,7 @@
                                     <div class="feature-video feature" id="simparica-video-b">
                                        <div class="feature-video__image-group">
                                             <img src="<?=HTML_ROOT;?>/img/news/simparica/Img-01-946x495.webp" alt="" class="feature-video__image">
-                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>
@@ -78,7 +78,7 @@
                                     <div class="feature-video feature" id="simparica-video-c">
                                        <div class="feature-video__image-group">
                                             <img src="<?=HTML_ROOT;?>/img/news/simparica/Img-02-946x495.webp" alt="" class="feature-video__image">
-                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>

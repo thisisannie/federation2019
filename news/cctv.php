@@ -34,7 +34,7 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="<?=HTML_ROOT;?>/img/news/cctv/Header-Image-1400x600.webp" alt="" class="feature-image">
+        <img src="<?=HTML_ROOT;?>/img/news/cctv/Header-Image-1400x600.webp" alt="Portraits of your car, $150 each. Bus lane CCTV." class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
@@ -68,7 +68,7 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-10">
-                        <img src="<?=HTML_ROOT;?>/img/news/cctv/Img-946x495.webp" alt="">
+                        <img src="<?=HTML_ROOT;?>/img/news/cctv/Img-946x495.webp" alt="CCTV Out of house billboard. Portraits of your car, $150 each.">
                     </div>
                 </div>
             </div>

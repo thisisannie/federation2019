@@ -79,30 +79,30 @@
                                 <li data-slide="1" data-slide-title="Social Video 1" data-slide-paragraph="" class="mini-slider__slide">
                                     <div class="feature-video feature" id="video-<?php echo  $array['slug']; ?>-1">
                                        <div class="feature-video__image-group">
-                                            <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/Social-video-tile-945x496.webp" alt="" class="feature-video__image">
-                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/Social-video-tile-945x496.webp" alt="Epiphany after epiphany, success from a thousand little moments video for social media" class="feature-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>
                                 <li data-slide="2" data-slide-title="Social Video 2" data-slide-paragraph="" class="mini-slider__slide">
                                     <div class="feature-video feature" id="video-<?php echo  $array['slug']; ?>-2">
                                        <div class="feature-video__image-group">
-                                            <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/Social-video-tile-945x496.webp" alt="" class="feature-video__image">
-                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/Social-video-tile-945x496.webp" alt="Passionsionate protest after protest, success from a thousand little moments video for social media" class="feature-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>
                                 <li data-slide="3" data-slide-title="Street Poster" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/Street-poster-series-945x496.webp" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/Street-poster-series-945x496.webp" alt="Once placement after another, health success from a thousand little moments. Out of home billboard">
                                 </li>
                                 <li data-slide="4" data-slide-title="OOH" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/OOH-945x496.webp" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/OOH-945x496.webp" alt="Rewrite after rewrite, success from a thousand little moments. Out of home billboard">
                                 </li>
                                 <li data-slide="5" data-slide-title="Bus Side" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/Bus-side-945x496.webp" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/Bus-side-945x496.webp" alt="One collab after another, creative success from a thousand little moments. Out of home bus wrap">
                                 </li>
                                 <li data-slide="6" data-slide-title="OOH Series" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/OOH-series-945x496.webp" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/OOH-series-945x496.webp" alt="One rung after another, success from a thousand little moments. Out of home billboard">
                                 </li>
                             </ul>
                         </div>

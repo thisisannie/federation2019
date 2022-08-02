@@ -110,7 +110,7 @@
                     <div class="feature-video feature animate animate--fade-up-25" id="akhys__feature-video">
                        <div class="feature-video__image-group">
                             <img src="<?=HTML_ROOT;?>/img/our-work/ac-ak-have-your-say/featured-video.webp" alt="" class="feature-video__image">
-                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="feature-video__play-btn">
                         </div>
                     </div>
                 </div>
@@ -169,25 +169,25 @@
                                     <li data-slide="1" class="mini-slider__slide">
                                         <div class="phone-video__image-group" id="akhys-social-1">
                                             <img src="<?=HTML_ROOT;?>/img/our-work/ac-ak-have-your-say/social-video-1.webp" alt="" class="phone-video__image">
-                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="phone-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="phone-video__play-btn">
                                         </div>
                                     </li>
                                     <li data-slide="2" class="mini-slider__slide">
                                         <div class="phone-video__image-group" id="akhys-social-2">
                                             <img src="<?=HTML_ROOT;?>/img/our-work/ac-ak-have-your-say/social-video-2.webp" alt="" class="phone-video__image">
-                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="phone-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="phone-video__play-btn">
                                         </div>
                                     </li>
                                     <li data-slide="3" class="mini-slider__slide">
                                         <div class="phone-video__image-group" id="akhys-social-3">
                                             <img src="<?=HTML_ROOT;?>/img/our-work/ac-ak-have-your-say/social-video-3.webp" alt="" class="phone-video__image">
-                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="phone-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="phone-video__play-btn">
                                         </div>
                                     </li>
                                     <li data-slide="4" class="mini-slider__slide">
                                         <div class="phone-video__image-group" id="akhys-social-4">
                                             <img src="<?=HTML_ROOT;?>/img/our-work/ac-ak-have-your-say/social-video-4.webp" alt="" class="phone-video__image">
-                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="phone-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="phone-video__play-btn">
                                         </div>
                                     </li>
                                 </ul>

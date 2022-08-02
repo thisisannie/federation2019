@@ -13,7 +13,7 @@
             <div class="row justify-content-center">
                 <div class="col-12">
                     <div class="project-feature-header">
-                        <h1 class="visuallyhidden">Ditch the Itch</h2>
+                        <h1 class="visuallyhidden">Ditch the Itch</h1>
                         <div class="project-feature-header__text">
                             <span class="animate animate--slide-left-25">Ditch the Itch</span>
                         </div>
@@ -114,7 +114,7 @@
                         <img src="<?=HTML_ROOT;?>/img/our-work/zoetis-ditch-the-itch/fb-bg.webp" alt="" class="feature-video__bg">
                        <div class="feature-video__image-group" id="zoetis__video-a">
                             <img src="<?=HTML_ROOT;?>/img/our-work/zoetis-ditch-the-itch/dog-video-a.webp" alt="" class="feature-video__image">
-                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="feature-video__play-btn">
                         </div>
                     </div>
                 </div>
@@ -123,7 +123,7 @@
                         <img src="<?=HTML_ROOT;?>/img/our-work/zoetis-ditch-the-itch/fb-bg.webp" alt="" class="feature-video__bg">
                        <div class="feature-video__image-group" id="zoetis__video-b">
                             <img src="<?=HTML_ROOT;?>/img/our-work/zoetis-ditch-the-itch/dog-video-b.webp" alt="" class="feature-video__image">
-                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="feature-video__play-btn">
                         </div>
                     </div>
                 </div>

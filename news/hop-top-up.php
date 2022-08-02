@@ -34,7 +34,7 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="<?=HTML_ROOT;?>/img/news/hop-top-up/Header-Image-1400x600.webp" alt="" class="feature-image">
+        <img src="<?=HTML_ROOT;?>/img/news/hop-top-up/Header-Image-1400x600.webp" alt="Hop card - top up online instead of in a queue" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
@@ -68,10 +68,10 @@
                         <div class="mini-slider__slides-mask animate animate--fade-up-25">
                             <ul class="mini-slider__slides">
                                 <li data-slide="1" data-slide-title="Title-1" data-slide-paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam." class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/hop-top-up/Img-01-946x495.webp" alt="" class="feature-video__image">
+                                    <img src="<?=HTML_ROOT;?>/img/news/hop-top-up/Img-01-946x495.webp" alt="Hop card - top up online instead of in a queue. Out of house advertising with street furnature bilboard" class="feature-video__image">
                                 </li>
                                 <li data-slide="2" data-slide-title="Title-2" data-slide-paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.-2" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/hop-top-up/Img-02-946x495.webp" alt="" class="feature-video__image">
+                                    <img src="<?=HTML_ROOT;?>/img/news/hop-top-up/Img-02-946x495.webp" alt="Hop card - top up online instead of in a queue. Out of house advertising with street furnature bilboards" class="feature-video__image">
                                 </li>
                             
                             </ul>

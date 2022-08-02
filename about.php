@@ -219,14 +219,14 @@
     <div class="section section--white section--images">
         <div class="image-container">
             <div class="image-a">
-                <img src="<?=HTML_ROOT;?>/img/about/tane.jpg" alt="" class="image-a__img">
+                <img src="<?=HTML_ROOT;?>/img/about/tane.jpg" alt="Auckland Transport promo for Tane vs Tane, try our new commuter calculator" class="image-a__img">
                 <div class="stamp">
-                    <img src="<?=HTML_ROOT;?>/img/home/stamp__rondell.png" alt="" class="stamp__rondell animate animate--rotate">
-                    <img src="<?=HTML_ROOT;?>/img/home/stamp__f.png" alt="" class="stamp__f">
+                    <img src="<?=HTML_ROOT;?>/img/home/stamp__rondell.png" alt="Transforming brands and behaviours" class="stamp__rondell animate animate--rotate">
+                    <img src="<?=HTML_ROOT;?>/img/home/stamp__f.png" alt="Federation logo" class="stamp__f">
                 </div>
             </div>
-            <img src="<?=HTML_ROOT;?>/img/about/samoa.jpg" alt="" class="image-b">
-            <img src="<?=HTML_ROOT;?>/img/about/true-honey.jpg" alt="" class="image-c">
+            <img src="<?=HTML_ROOT;?>/img/about/samoa.jpg" alt="Beautiful Samoa Travel promo - out of office" class="image-b">
+            <img src="<?=HTML_ROOT;?>/img/about/true-honey.jpg" alt="The True Honey Co. Manuka Honey promo" class="image-c">
         </div>
     </div>
     

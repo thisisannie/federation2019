@@ -190,17 +190,17 @@
                                 <ul class="mini-slider__slides">
                                     <li data-slide="1" data-slide-title="Effective use of Search" data-slide-paragraph="We help you navigate the complex and everchanging world of search to generate targeted leads and increase value."  class="mini-slider__slide">
                                         <div class="mini-slider__img-container">
-                                            <img src="<?=HTML_ROOT;?>/img/news/the-lab/icon--search.png" alt="" class="mini-slider__img search">
+                                            <img src="<?=HTML_ROOT;?>/img/news/the-lab/icon--search.png" alt="Search icon" class="mini-slider__img search">
                                         </div>
                                     </li>
                                     <li data-slide="2" data-slide-title="Accelerated Acquisition programmes" data-slide-paragraph="Using data insights, we fully optimise acquisition programmes to target and convert the right customers, deploying a MarTech strategy customised to your business." class="mini-slider__slide">
                                         <div class="mini-slider__img-container">
-                                            <img src="<?=HTML_ROOT;?>/img/news/the-lab/icon--aquisition.png" alt="" class="mini-slider__img aquisition">
+                                            <img src="<?=HTML_ROOT;?>/img/news/the-lab/icon--aquisition.png" alt="Aquisition icon" class="mini-slider__img aquisition">
                                         </div>
                                     </li>
                                     <li data-slide="3" data-slide-title="Customer Growth programmes" data-slide-paragraph="We develop automated retention programmes to grow customer value and increase loyalty & advocacy, underpinned by the right MarTech solution for your business." class="mini-slider__slide">
                                         <div class="mini-slider__img-container">
-                                            <img src="<?=HTML_ROOT;?>/img/news/the-lab/icon--growth.png" alt="" class="mini-slider__img growth">
+                                            <img src="<?=HTML_ROOT;?>/img/news/the-lab/icon--growth.png" alt="Growth icon" class="mini-slider__img growth">
                                         </div>
                                     </li>
                                 </ul>
@@ -231,12 +231,12 @@
                                 <ul class="mini-slider__slides">
                                     <li data-slide="1" data-slide-title="Customer Value strategies" data-slide-paragraph="We use behavioural and data insights as well as customer journey mapping to identify the moments we can deliver and grow customer value and higher marketing returns."  class="mini-slider__slide">
                                         <div class="mini-slider__img-container">
-                                            <img src="<?=HTML_ROOT;?>/img/news/the-lab/icon--customer-value.png" alt="" class="mini-slider__img customer-value">
+                                            <img src="<?=HTML_ROOT;?>/img/news/the-lab/icon--customer-value.png" alt="Customer Value icon" class="mini-slider__img customer-value">
                                         </div>
                                     </li>
                                     <li data-slide="2" data-slide-title="Customer-centric content" data-slide-paragraph="Our creative and content teams develop highly targeted messages designed to really resonate with customers and grow their value." class="mini-slider__slide">
                                         <div class="mini-slider__img-container">
-                                            <img src="<?=HTML_ROOT;?>/img/news/the-lab/icon--content.png" alt="" class="mini-slider__img content">
+                                            <img src="<?=HTML_ROOT;?>/img/news/the-lab/icon--content.png" alt="Content icon" class="mini-slider__img content">
                                         </div>
                                     </li>
                                 </ul>
@@ -265,7 +265,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 col-md-6">
-                    <img src="<?=HTML_ROOT;?>/img/news/the-lab/Diagram_03.jpg" alt="" class="tools__wheel animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/news/the-lab/Diagram_03.jpg" alt="Diagram of Marketing Technology tools" class="tools__wheel animate animate--fade-up-25">
                 </div>
                 <div class="col-12 col-md-6 d-flex align-items-center">
                     <div>

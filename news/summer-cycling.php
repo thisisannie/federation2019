@@ -82,7 +82,7 @@
                                     <div class="feature-video feature" id="video-<?php echo $array['slug']; ?>">
                                        <div class="feature-video__image-group">
                                             <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/summer_vid_preview.webp" alt="" class="feature-video__image">
-                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>

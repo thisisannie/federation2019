@@ -113,7 +113,7 @@
                     <div class="feature-video feature animate animate--fade-up-25" id="cavbrem-rebrand__feature-video">
                        <div class="feature-video__image-group">
                             <img src="<?=HTML_ROOT;?>/img/our-work/cavbrem-rebrand/video-feature.webp" alt="" class="feature-video__image">
-                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="feature-video__play-btn">
                         </div>
                     </div>
                 </div>

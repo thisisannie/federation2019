@@ -80,18 +80,18 @@
                                     <div class="feature-video feature" id="<?php echo $array['slug']; ?>">
                                        <div class="feature-video__image-group">
                                             <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/video.webp" alt="" class="feature-video__image">
-                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li> -->
                                 <li data-slide="1" data-slide-title="Te Wānanga" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/TeWananga-945x496.webp" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/TeWananga-945x496.webp" alt="Te Wānanga. Where lunches are longer. Welcome to your new waterfront">
                                 </li>
                                 <li data-slide="2" data-slide-title="KRD" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/Krd-945x496.webp" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/Krd-945x496.webp" alt="The new Karangahape Road cycleway. Pedal in style. Welcome to your new waterfront.">
                                 </li>
                                 <li data-slide="3" data-slide-title="Quay Street" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/Quay-street-945x496.webp" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/Quay-street-945x496.webp" alt="The new Quay Street. Where the wandering is more wonderful. Welcome to your new waterfront.">
                                 </li>
                             </ul>
                         </div>

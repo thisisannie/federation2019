@@ -37,7 +37,7 @@
                 <div class="feature-video">
                     <div class="feature-video__image-group" id="elemental__video">
                         <img src="<?=HTML_ROOT;?>/img/our-work/ateed-elemental/banner.webp" alt="" class="feature-video__image">
-                        <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                        <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="feature-video__play-btn">
                     </div>
                 </div>
             </div>

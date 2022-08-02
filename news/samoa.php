@@ -68,7 +68,7 @@
                                     <div class="feature-video feature" id="samoa-news-video-a">
                                        <div class="feature-video__image-group">
                                             <img src="<?=HTML_ROOT;?>/img/news/samoa/exhibition-video.webp" alt="" class="feature-video__image">
-                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>

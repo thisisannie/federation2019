@@ -113,7 +113,7 @@
                                     <div class="feature-video feature" id="laura-rewards__video-a">
                                        <div class="feature-video__image-group">
                                             <img src="<?=HTML_ROOT;?>/img/our-work/farm-source-laura-rewards/video-a.webp" alt="" class="feature-video__image">
-                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>
@@ -121,7 +121,7 @@
                                     <div class="feature-video feature" id="laura-rewards__video-b">
                                        <div class="feature-video__image-group">
                                             <img src="<?=HTML_ROOT;?>/img/our-work/farm-source-laura-rewards/video-b.webp" alt="" class="feature-video__image">
-                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>
@@ -129,7 +129,7 @@
                                     <div class="feature-video feature" id="laura-rewards__video-c">
                                        <div class="feature-video__image-group">
                                             <img src="<?=HTML_ROOT;?>/img/our-work/farm-source-laura-rewards/video-c.webp" alt="" class="feature-video__image">
-                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>
@@ -137,7 +137,7 @@
                                     <div class="feature-video feature" id="laura-rewards__video-d">
                                        <div class="feature-video__image-group">
                                             <img src="<?=HTML_ROOT;?>/img/our-work/farm-source-laura-rewards/video-d.webp" alt="" class="feature-video__image">
-                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="" class="feature-video__play-btn">
+                                            <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>

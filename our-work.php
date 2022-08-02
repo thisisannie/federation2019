@@ -76,7 +76,7 @@
                     <div class="project">
                         <a href="<?=HTML_ROOT;?>/our-work/true-honey" class="project__link">
                             <div class="project__image-mask">
-                                <img src="<?=HTML_ROOT;?>/img/our-work/true-honey.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/our-work/true-honey.jpg" alt="The True Honey Co. - True E-Commerce" class="project__image">
                             </div>
                             <h2 class="project__title">True E-Commerce</h2>
                             <span class="project__client">The True Honey Co.</span>
@@ -87,7 +87,7 @@
                     <div class="project">
                         <a href="<?=HTML_ROOT;?>/our-work/th-lozenge" class="project__link">
                             <div class="project__image-mask">
-                                <img src="<?=HTML_ROOT;?>/img/our-work/lozenge-launch.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/our-work/lozenge-launch.jpg" alt="The True Honey Co. - Lozenge launch" class="project__image">
                             </div>
                             <h2 class="project__title">Lozenge launch</h2>
                             <span class="project__client">The True Honey Co.</span>
@@ -98,7 +98,7 @@
                     <div class="project">
                         <a href="<?=HTML_ROOT;?>/our-work/bagel-love" class="project__link">
                             <div class="project__image-mask">
-                                <img src="<?=HTML_ROOT;?>/img/our-work/bagel-love.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/our-work/bagel-love.jpg" alt="Bagel Love - Spreading more brand love" class="project__image">
                             </div>
                             <h2 class="project__title">Spreading more brand love</h2>
                             <span class="project__client">Bagel Love</span>
@@ -109,7 +109,7 @@
                     <div class="project">
                         <a href="<?=HTML_ROOT;?>/our-work/ateed-elemental" class="project__link">
                             <div class="project__image-mask">
-                                <img src="<?=HTML_ROOT;?>/img/our-work/elemental.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/our-work/elemental.jpg" alt="Auckland Tourism, Events and Economic Development - Elemental festival" class="project__image">
                             </div>
                             <h2 class="project__title">Elemental</h2>
                             <span class="project__client">ATEED</span>
@@ -120,7 +120,7 @@
 					<div class="project">
                         <a href="<?=HTML_ROOT;?>/our-work/at-summer-cycling" class="project__link">
                             <div class="project__image-mask">
-                                <img src="<?=HTML_ROOT;?>/img/our-work/summer-cycling.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/our-work/summer-cycling.jpg" alt="Auckland Transport - Live the bike life" class="project__image">
                             </div>
                             <h2 class="project__title">Live the bike life</h2>
                             <span class="project__client">Auckland Transport</span>
@@ -131,7 +131,7 @@
                     <div class="project">
                         <a href="<?=HTML_ROOT;?>/our-work/ac-ak-have-your-say" class="project__link">
                             <div class="project__image-mask">
-                                <img src="<?=HTML_ROOT;?>/img/our-work/ak-have-your-say.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/our-work/ak-have-your-say.jpg" alt="Auckland Council - Have your say" class="project__image">
                             </div>
                             <h2 class="project__title">AK Have your say</h2>
                             <span class="project__client">Auckland Council</span>
@@ -142,7 +142,7 @@
                     <div class="project">
                         <a href="<?=HTML_ROOT;?>/our-work/cavbrem-rebrand" class="project__link">
                             <div class="project__image-mask">
-                                <img src="<?=HTML_ROOT;?>/img/our-work/cavbrem.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/our-work/cavbrem.jpg" alt="Cavbrem - Rebrand" class="project__image">
                             </div>
                             <h2 class="project__title">Cavbrem Rebrand</h2>
                             <span class="project__client">Cavbrem</span>
@@ -153,7 +153,7 @@
                     <div class="project">
                         <a href="<?=HTML_ROOT;?>/our-work/farm-source-laura-rewards" class="project__link">
                             <div class="project__image-mask">
-                                <img src="<?=HTML_ROOT;?>/img/our-work/laura-rewards.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/our-work/laura-rewards.jpg" alt="Farm Source - Laura Rewards" class="project__image">
                             </div>
                             <h2 class="project__title">Laura Rewards</h2>
                             <span class="project__client">Farm Source</span>
@@ -164,7 +164,7 @@
                     <div class="project">
                         <a href="<?=HTML_ROOT;?>/our-work/zoetis-ditch-the-itch" class="project__link">
                             <div class="project__image-mask">
-                                <img src="<?=HTML_ROOT;?>/img/our-work/zoetis.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/our-work/zoetis.jpg" alt="Zoetis - Ditch the itch" class="project__image">
                             </div>
                             <h2 class="project__title">Ditch the Itch</h2>
                             <span class="project__client">Zoetis</span>
@@ -175,7 +175,7 @@
 					<div class="project">
                         <a href="<?=HTML_ROOT;?>/our-work/jbwere-website" class="project__link">
                             <div class="project__image-mask">
-                                <img src="<?=HTML_ROOT;?>/img/our-work/jb-were.jpg" alt="" class="project__image">
+                                <img src="<?=HTML_ROOT;?>/img/our-work/jb-were.jpg" alt="JBWere Website" class="project__image">
                             </div>
                             <h2 class="project__title">JBWere website</h2>
                             <span class="project__client">JBWere</span>
@@ -235,7 +235,7 @@
                                             <div class="project">
                                                 <a href="<?=HTML_ROOT;?>/news/at-blink-blink-blink" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="<?=HTML_ROOT;?>/img/news/at-blink-blink-blink/blink-blink-blink.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/news/at-blink-blink-blink/blink-blink-blink.jpg" alt="Auckland Transport - Bike Bike Bike" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Bike Bike Bike</h2>
                                                     <span class="project__client">Auckland Transport</span>
@@ -246,7 +246,7 @@
                                             <div class="project">
                                                 <a href="<?=HTML_ROOT;?>/news/samoa" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="<?=HTML_ROOT;?>/img/news/samoa/samoa.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/news/samoa/samoa.jpg" alt="Samoa Tourism" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Samoa</h2>
                                                     <span class="project__client">Samoa tourism</span>
@@ -257,7 +257,7 @@
                                             <div class="project">
                                                 <a href="<?=HTML_ROOT;?>/news/q-airbnb" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="<?=HTML_ROOT;?>/img/home/news-img-a.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/home/news-img-a.jpg" alt="Flexigroup - Q Mastercard + AirBnB" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Q Mastercard + Airbnb</h2>
                                                     <span class="project__client">Flexi Group</span>
@@ -272,7 +272,7 @@
                                             <div class="project">
                                                 <a href="<?=HTML_ROOT;?>/news/cctv" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="<?=HTML_ROOT;?>/img/news/cctv/cctv-bus-lanes-img.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/news/cctv/cctv-bus-lanes-img.jpg" alt="Auckland transport - CCTV Bus Lanes" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">CCTV Bus Lanes</h2>
                                                     <span class="project__client">Auckland Transport</span>
@@ -283,7 +283,7 @@
                                             <div class="project">
                                                 <a href="<?=HTML_ROOT;?>/news/great-barrier" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="<?=HTML_ROOT;?>/img/news/great-barrier/great-barrier-img.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/news/great-barrier/great-barrier-img.jpg" alt="Auckland Council Great Barrier" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Great Barrier</h2>
                                                     <span class="project__client">Auckland Council</span>
@@ -294,7 +294,7 @@
                                             <div class="project">
                                                 <a href="<?=HTML_ROOT;?>/news/hop-top-up" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="<?=HTML_ROOT;?>/img/news/hop-top-up-img.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/news/hop-top-up-img.jpg" alt="Auckland - Hop Top Up" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Hop Top Up</h2>
                                                     <span class="project__client">Auckland Transport</span>
@@ -309,7 +309,7 @@
                                             <div class="project">
                                                 <a href="<?=HTML_ROOT;?>/news/simparica" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="<?=HTML_ROOT;?>/img/news/simparica/simparica-img.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/news/simparica/simparica-img.jpg" alt="Zoetis - Simparica Taste Test" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Simparica Taste Test</h2>
                                                     <span class="project__client">Zoetis</span>
@@ -320,7 +320,7 @@
                                             <div class="project">
                                                 <a href="<?=HTML_ROOT;?>/news/suncorp-early-warning" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="<?=HTML_ROOT;?>/img/news/suncorp-early-warning/suncorp-ews-img.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/news/suncorp-early-warning/suncorp-ews-img.jpg" alt="Suncorp - Early Warning" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Suncorp Early Warning</h2>
                                                     <span class="project__client">Suncorp</span>
@@ -331,7 +331,7 @@
                                             <div class="project">
                                                 <a href="<?=HTML_ROOT;?>/news/seatbelts" class="project__link">
                                                     <div class="project__image-mask">
-                                                        <img src="<?=HTML_ROOT;?>/img/our-work/seatbelts.jpg" alt="" class="project__image">
+                                                        <img src="<?=HTML_ROOT;?>/img/our-work/seatbelts.jpg" alt="Auckland Transport - Seatbelts" class="project__image">
                                                     </div>
                                                     <h2 class="project__title">Seatbelts</h2>
                                                     <span class="project__client">Auckland Transport</span>

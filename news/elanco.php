@@ -32,7 +32,7 @@
         </div>
     </div>
     <div class="section section--black section--banner section--change-agents-banner">
-        <img src="<?=HTML_ROOT;?>/img/news/elanco/Seresto-Cat-on-tin-Gold.webp" alt="" class="feature-image">
+        <img src="<?=HTML_ROOT;?>/img/news/elanco/Seresto-Cat-on-tin-Gold.webp" alt="Cat balancing on a Seresto tin for flea and tick treatment." class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
