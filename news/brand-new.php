@@ -32,7 +32,7 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="<?=HTML_ROOT;?>/img/news/brand-new/banner.webp" alt="" class="feature-image">
+        <img src="<?=HTML_ROOT;?>/img/news/brand-new/banner.webp" alt="Tabitha Harris" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">

@@ -42,7 +42,7 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/Opera-Unruly-1400x600-hero_v1.webp" alt="" class="feature-image">
+        <img src="<?=HTML_ROOT;?>/img/news/<?php echo  $array['slug']; ?>/Opera-Unruly-1400x600-hero_v1.webp" alt="<?php echo $array['title1'] . ' ' . $array['title2']  . ' ' . $array['client']; ?>" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">

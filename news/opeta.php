@@ -43,7 +43,7 @@
 		</div>
 	</div>
 	<div class="section section--black section--banner">
-		<img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/<?php echo $array['bannerimg']; ?>" alt="" class="feature-image">
+		<img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/<?php echo $array['bannerimg']; ?>" alt="<?php echo $array['title1'] . ' ' . $array['title2']; ?>" class="feature-image">
 	</div>
 	<div class="section section--white project-detail">
 		<div class="container">

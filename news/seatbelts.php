@@ -32,7 +32,7 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="<?=HTML_ROOT;?>/img/news/seatbelts/Header-Image-1400x600.webp" alt="" class="feature-image">
+        <img src="<?=HTML_ROOT;?>/img/news/seatbelts/Header-Image-1400x600.webp" alt="Vodafone Warriors players wearing seatbelts" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">

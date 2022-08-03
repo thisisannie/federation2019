@@ -32,7 +32,7 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="<?=HTML_ROOT;?>/img/news/at-mobile-moment/banner.webp" alt="" class="feature-image">
+        <img src="<?=HTML_ROOT;?>/img/news/at-mobile-moment/banner.webp" alt="Guys in a car" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">

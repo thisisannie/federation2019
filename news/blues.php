@@ -1,6 +1,6 @@
 <?php 
     $page_title = "Bring it Blue";
-    $page_description = "How do you recruit Aucklanders to get behind The Blues? Easy… take aim at the country’s biggest Hurricane’s fan!";
+    $page_description = "How do you recruit Aucklanders to get behind The Blues? Easy… take aim at the country’s biggest Hurricanes fan!";
 
     include '../config.php';
 	include ABSPATH . '/partials/header.php';
@@ -26,13 +26,13 @@
             <div class="row">
                 <div class="col-12 col-sm-10 offset-sm-2 col-md-6">
                     <p class="animate animate--fade-up-25 project-intro-company">The Blues</p>
-                    <p class="animate animate--fade-up-25 project-intro-description">How do you recruit Aucklanders to get behind The Blues? Easy… take aim at the country’s biggest Hurricane’s fan!</p>
+                    <p class="animate animate--fade-up-25 project-intro-description">How do you recruit Aucklanders to get behind The Blues? Easy… take aim at the country’s biggest Hurricanes fan!</p>
                 </div>
             </div>
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="<?=HTML_ROOT;?>/img/news/blues/banner.webp" alt="" class="feature-image">
+        <img src="<?=HTML_ROOT;?>/img/news/blues/banner.webp" alt="Compilation of Blues moments" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
@@ -52,7 +52,7 @@
                     <div class="project-detail__description">
                         <p class="animate animate--fade-up-25">With Super Rugby back on the menu in 2021, The Blues partnered with independent agency Federation to recruit a whole new tribe of supporters – Auckland-based supporters of other teams!</p>
 						<p class="animate animate--fade-up-25"><span class="link-button" id="blues-link">Watch The Blues case study</span></p>
-						<p class="animate animate--fade-up-25">The concept, ‘Bring it Blue’, tapped into the insight that many Aucklanders are not originally from Auckland and are loyal to their own home teams. So Federation identified a well-known personality in Auckland whose hometown was Wellington and launched an activation and recruitment campaign to ‘Bring it Blue’.  Andrew ‘Mulls’ Mulligan – co-host of The Rock’s breakfast show and famously passionate Hurricane’s supporter – was the perfect first target. His Morning Rumble co-hosts executed multiple pranks, live on the show, raising awareness for the upcoming Blues vs Hurricanes match. All while inspiring other Blues fans to banter with their non-Blues supporting friends and family to get in behind the team too – just like a reluctant Mulls.</p>
+						<p class="animate animate--fade-up-25">The concept, ‘Bring it Blue’, tapped into the insight that many Aucklanders are not originally from Auckland and are loyal to their own home teams. So Federation identified a well-known personality in Auckland whose hometown was Wellington and launched an activation and recruitment campaign to ‘Bring it Blue’.  Andrew ‘Mulls’ Mulligan – co-host of The Rock’s breakfast show and famously passionate Hurricanes supporter – was the perfect first target. His Morning Rumble co-hosts executed multiple pranks, live on the show, raising awareness for the upcoming Blues vs Hurricanes match. All while inspiring other Blues fans to banter with their non-Blues supporting friends and family to get in behind the team too – just like a reluctant Mulls.</p>
 						<p class="animate animate--fade-up-25">Sarah D’Audney, GM of Operations at The Blues: “‘Bring it Blue’ was a fantastic idea to create some serious competitive banter, have a bit of fun, and try to convert those that hadn’t yet considered following the Blues”.</p>
 						<p class="animate animate--fade-up-25">Real world pranks with Mulls were turned into hilarious online content to attract new-to-Blue supporters. A faux photo shoot of Mulls becoming the face of a Blues billboard promoting the match. He ‘won’ a car that just happened to be Blues branded, received a jersey from some of the current Blues playing squad, and even announced his support for the team live at Eden Park on the day of the match.</p>
 						<p class="animate animate--fade-up-25">Managing Partner for Federation, Olly Boden: “We treated Aucklanders to some seriously engaging content in the lead up to game day. Throughout the week we reached over 100k listeners on-air, over 100k Aucklanders with the billboard and over 300k fans via Social. The response was great, Blues players even waded in to send Mulls personal text messages celebrating his switch over to the blue side”.</p>

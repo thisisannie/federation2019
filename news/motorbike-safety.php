@@ -43,7 +43,7 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/<?php echo $array['bannerimg']; ?>" alt="" class="feature-image">
+        <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/<?php echo $array['bannerimg']; ?>" alt="<?php echo $array['title1']; ?> <?php echo $array['title2']; ?>" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
@@ -78,10 +78,10 @@
                         <div class="mini-slider__slides-mask animate animate--fade-up-25">
                             <ul class="mini-slider__slides">
                                 <li data-slide="1" data-slide-title="OOH 1" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/OOH-a.webp" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/OOH-a.webp" alt="Intersections. See everything. React to anything. Billboard.">
                                 </li>
                                 <li data-slide="2" data-slide-title="OOH 2" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/OOH-b.webp" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/OOH-b.webp" alt="Intersections. See everything. React to anything. Billboard.">
                                 </li>
                             </ul>
                         </div>

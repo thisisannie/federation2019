@@ -32,7 +32,7 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="<?=HTML_ROOT;?>/img/news/samoa/banner.webp" alt="" class="feature-image">
+        <img src="<?=HTML_ROOT;?>/img/news/samoa/banner.webp" alt="Samoa Tourism, interrupting busy lives with moments of unique, simple beauty." class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
@@ -67,19 +67,19 @@
                                 <li data-slide="1" data-slide-title="Digital videos" data-slide-paragraph="" class="mini-slider__slide">
                                     <div class="feature-video feature" id="samoa-news-video-a">
                                        <div class="feature-video__image-group">
-                                            <img src="<?=HTML_ROOT;?>/img/news/samoa/exhibition-video.webp" alt="" class="feature-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/news/samoa/exhibition-video.webp" alt="Video exhibiting the beautiful simplicity of Samoa" class="feature-video__image">
                                             <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>
                                 <li data-slide="2" data-slide-title="Digital OOH" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/samoa/ooh.webp" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/samoa/ooh.webp" alt="Billboard for out of office, beautiful Samoa">
                                 </li>
                                 <li data-slide="3" data-slide-title="Digital OOH" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/samoa/ooh-b.webp" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/samoa/ooh-b.webp" alt="Billboard for 'Yes there's cloud access' beautiful Samoa">
                                 </li>
                                 <li data-slide="4" data-slide-title="Digital OOH" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/samoa/ooh-c.webp" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/samoa/ooh-c.webp" alt="Billboard for 'Meet the locals'">
                                 </li>
                             </ul>
                         </div>

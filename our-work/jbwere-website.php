@@ -36,7 +36,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="project-feature-image">
-                    <img src="<?=HTML_ROOT;?>/img/our-work/jbwere-website/jbwere-feature-image.webp" alt="" class="project-feature-image__photo">
+                    <img src="<?=HTML_ROOT;?>/img/our-work/jbwere-website/jbwere-feature-image.webp" alt="JBWere website. Creating a brand that embraces our changing world." class="project-feature-image__photo">
                 </div>
             </div>
         </div>
@@ -113,7 +113,7 @@
             </div>
            <div class="row justify-content-center">
                 <div class="col-12 col-md-10">
-                    <img src="<?=HTML_ROOT;?>/img/our-work/jbwere-website/website-b.webp" alt="" class="website animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/our-work/jbwere-website/website-b.webp" alt="Screenshot of JBWere website. Growing wealth in a changing world." class="website animate animate--fade-up-25">
                 </div>
             </div>
             <div class="row d-none d-sm-block">
@@ -131,14 +131,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 col-sm-6 order-2 order-sm-1">
-                    <img src="<?=HTML_ROOT;?>/img/our-work/jbwere-website/photography-a.webp" alt="" class="photo-a animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/our-work/jbwere-website/photography-a.webp" alt="Professional artistic photography for a team member" class="photo-a animate animate--fade-up-25">
                 </div>
                 <div class="col-12 col-sm-6 order-1 order-sm-2">
                     <div class="text-group">
                         <h2 class="h2--small animate animate--fade-up-25">Photography</h2>
                         <p class="animate animate--fade-up-25">An engaged, friendly, professional study. Quietly observing teams working together. Over 600 of them!</p>
                     </div>
-                    <img src="<?=HTML_ROOT;?>/img/our-work/jbwere-website/photography-b.webp" alt="" class="photo-b animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/our-work/jbwere-website/photography-b.webp" alt="Professional artistic photography for a team member" class="photo-b animate animate--fade-up-25">
                 </div>
             </div>
         </div>    
@@ -147,7 +147,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-12 col-sm-6 order-2 order-sm-1">
-                    <img src="<?=HTML_ROOT;?>/img/our-work/jbwere-website/transitions.webp" alt="" class="tablet animate animate--fade-up-25">
+                    <img src="<?=HTML_ROOT;?>/img/our-work/jbwere-website/transitions.webp" alt="JBWere website screenshot of title animations" class="tablet animate animate--fade-up-25">
                 </div>
                 <div class="col-12 col-sm-6 order-1 order-sm-2">
                     <div class="text-group">
@@ -174,7 +174,7 @@
                                 <span class="animate animate--slide-left-25">AK Have Your Say</span>
                             </div>
                         </div>
-                        <img src="<?=HTML_ROOT;?>/img/our-work/next-project--akhys.webp" alt="" class="project-next-img__image">
+                        <img src="<?=HTML_ROOT;?>/img/our-work/next-project--akhys.webp" alt="Auckland have your say" class="project-next-img__image">
                         <div class="project-next-img__text-mask project-next-img__text-mask--inner">
                             <div class="project-next-img__text project-next-img__text--inner">
                                 <span class="animate animate--slide-left-25">AK Have Your Say</span>

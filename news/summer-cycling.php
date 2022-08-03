@@ -43,7 +43,7 @@
         </div>
     </div>
     <div class="section section--black section--banner">
-        <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/banner_summer.webp" alt="" class="feature-image">
+        <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/banner_summer.webp" alt="Bike helmets with different cycling destination ideas" class="feature-image">
     </div>
     <div class="section section--white project-detail">
         <div class="container">
@@ -81,22 +81,22 @@
                                 <li data-slide="1" data-slide-title="Video" data-slide-paragraph="" class="mini-slider__slide">
                                     <div class="feature-video feature" id="video-<?php echo $array['slug']; ?>">
                                        <div class="feature-video__image-group">
-                                            <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/summer_vid_preview.webp" alt="" class="feature-video__image">
+                                            <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/summer_vid_preview.webp" alt="Summer cycling video preview" class="feature-video__image">
                                             <img src="<?=HTML_ROOT;?>/img/video-play-btn.png" alt="Play" class="feature-video__play-btn">
                                         </div>
                                     </div>
                                 </li>
                                 <li data-slide="2" data-slide-title="Britomart Tower" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/brit_tower_summer.webp" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/brit_tower_summer.webp" alt="Biking. Makes the 'weekend sports' run way more fun. Big banner in Britomart.">
                                 </li>
                                 <li data-slide="3" data-slide-title="OOH Victoria East" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/OOH_vic_east_summer.webp" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/OOH_vic_east_summer.webp" alt="Biking. Makes the 'coffe before anything' run way more fun. Billboard for your commute, Victoria East.">
                                 </li>
                                 <li data-slide="4" data-slide-title="OOH Victoria West" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/OOH_vic_west_summer.webp" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/OOH_vic_west_summer.webp" alt="Biking. Makes the 'who's hungry' run more fun. Billboard for your commute, Victoria West.">
                                 </li>
                                 <li data-slide="5" data-slide-title="Triple Summer" data-slide-paragraph="" class="mini-slider__slide">
-                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/vert_triple_summer.webp" alt="">
+                                    <img src="<?=HTML_ROOT;?>/img/news/<?php echo $array['slug']; ?>/vert_triple_summer.webp" alt="Three biking billboard variations.">
                                 </li>
                             </ul>
                         </div>
