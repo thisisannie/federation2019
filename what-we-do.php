@@ -77,6 +77,7 @@
                                 </div>
                             </div>
                         </div>
+                        <img src="<?=HTML_ROOT;?>/img/what-we-do/services-bg.png" alt="" class="feature-img__image">
                         <div class="feature-img__text-mask feature-img__text-mask--inner">
                            <div class="feature-img__text feature-img__text--inner">
                                <div class="infinite-scroll infinite-scroll--forward services-scroll">
