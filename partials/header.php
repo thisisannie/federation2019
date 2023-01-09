@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<title>
-		<?php echo !empty($page_title) ? "Federation | " . $page_title : 'Federation | Leading change' ?>
+		<?php echo !empty($page_title) ? $page_title . " | Federation" : 'Federation | Leading change' ?>
 	</title>
 	<meta name="description" content="<?php echo !empty($page_description) ? $page_description : 'A leading, independent advertising agency creating marketing solutions in Aotearoa, New Zealand' ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -37,7 +37,7 @@
 			<div class="logo-group">
 				<span class="visuallyhidden">Federation</span>
 				<a href="<?=HTML_ROOT;?>">
-					<img src="<?=HTML_ROOT;?>/img/logo_reverse.png" alt="" class="logo">
+					<img src="<?=HTML_ROOT;?>/img/logo_reverse.png" alt="Federation Logo" class="logo">
 				</a>
 				<div class="mobile-nav-btn-group">
 					<div class="open-mobile-nav is-visible" id="open-mobile-nav">

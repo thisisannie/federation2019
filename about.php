@@ -59,7 +59,7 @@
             "name" => "Nattaya Jongjarupat",
             "img" => "staff-photos_nat.jpg",
             "title" => "Digital/Motion Designer",
-            "description" => "Nattaya started her career as a novice creative freelancer - through this she has worked in various roles from photography, graphic design, jewellery design, illustration, web design and social media management. Since then she has ditched freelancing for pixels and all things digital. Jack of all trades - always enthusiastic about learning new creative skills. Passionately obsessed with photography where she combines with her love of nature and the outdoors. When she’s not designing at federation, you’ll probably find her in the garden, hiking with her husky, getting amongst music festivals, or cooking up a storm!",
+            "description" => "Nattaya started her career as a novice creative freelancer - through this she has worked in various roles from photography, graphic design, jewellery design, illustration, web design and social media management. Since then she has ditched freelancing for pixels and all things digital. Jack of all trades - always enthusiastic about learning new creative skills. Passionately obsessed with photography where she combines with her love of nature and the outdoors. When she’s not designing at Federation, you’ll probably find her in the garden, hiking with her husky, getting amongst music festivals, or cooking up a storm!",
         ],
         "liz" => [
             "name" => "Liz Adams",

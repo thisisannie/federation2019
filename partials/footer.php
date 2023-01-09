@@ -2,7 +2,7 @@
 <div class="footer">
     <a href="<?=HTML_ROOT;?>"><img defer src="<?=HTML_ROOT;?>/img/logo.png" alt="" class="footer__logo"></a>
     <a href="<?=HTML_ROOT;?>/lets-talk" class="footer__link-button">Let’s talk&nbsp;<span>about your goals</span></a>
-    <a href="https://www.linkedin.com/company/federation./?originalSubdomain=nz" target="_blank"><img defer src="<?=HTML_ROOT;?>/img/linkedin.png" alt="" class="footer__linkedin"></a>
+    <a href="https://www.linkedin.com/company/federation./?originalSubdomain=nz" target="_blank"><img defer src="<?=HTML_ROOT;?>/img/linkedin.png" alt="LinkedIn Logo" class="footer__linkedin"></a>
 </div>
 </footer>
 
