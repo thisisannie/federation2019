@@ -44,15 +44,6 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col-12 col-sm-5">
-                    <div class="article--the-lab__profile-container daisy">
-                        <img src="<?=HTML_ROOT;?>/img/news/daisy/lab_daisy.jpg" alt="Daisy Conroy-Botica" class="article--the-lab__profile-img animate animate--fade-up-25">
-                        <p class="article--the-lab__profile-name animate animate--fade-up-25">Daisy Conroy-Botica<br>
-                        <span class="article--the-lab__profile-title animate animate--fade-up-25">Digital and Social Lead</span><br>
-                        <a href="mailto:daisycb@federation.net.nz">daisycb@federation.net.nz</a>
-                    </p>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-5">
                     <div class="article--the-lab__profile-container elizabeth">
                         <img src="<?=HTML_ROOT;?>/img/news/the-lab/elizabeth.jpg" alt="Elizabeth" class="article--the-lab__profile-img animate animate--fade-up-25">
                         <p class="article--the-lab__profile-name animate animate--fade-up-25">Elizabeth Beatty<br>

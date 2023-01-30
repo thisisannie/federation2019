@@ -21,12 +21,6 @@
             "copy" => "Federation appoints renowned Pasifika designer, Opeta Elika.",
             "img" => "thumb_opeta.webp",
         ],
-        "daisy" => [
-            "slug" => "daisy",
-            "title" => "Daisy Conroy-Botica",
-            "copy" => "Federation nabs Daisy Conroy-Botica as Digital and Social Lead.",
-            "img" => "thumb_daisy.webp",
-        ],
         "luxe" => [
             "slug" => "luxe",
             "title" => "Luxe",
@@ -128,12 +122,6 @@
             "title" => "L’Oréal",
             "copy" => "We’re thrilled L’Oréal New Zealand has appointed Federation for it’s Consumer Products Division, the umbrella group for the L’Oréal Paris, Garnier and Maybelline brands.",
             "img" => "loreal-banner.webp",
-        ],
-        "brand-new" => [
-            "slug" => "brand-new",
-            "title" => "Brand New",
-            "copy" => "Tabitha Harris joins Federation in the newly created role of Brand Director.",
-            "img" => "brand-new.webp",
         ],
         "change-agents" => [
             "slug" => "change-agents",
