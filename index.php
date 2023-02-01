@@ -224,20 +224,20 @@
                 </div>
             </div>
             <div class="row">
-                <?php 
+                <?php
                     includeNewsItem(
                         "left",
+                        "Sustainability Consulting",
+                        "Over the last year we’ve been busy applying our learnings and helping organisations and marketers on their journey to net zero.  Here are some highlights.",
+                        "climate",
+                        "ebus_motion-thumb.webp"
+                    );
+                    includeNewsItem(
+                        "right",
                         "Massey",
                         "Federation Wins Massey University Account After 4-Way Pitch.",
                         "massey",
                         "massey-posters-thumb_v2.webp"
-                    );
-                    includeNewsItem(
-                        "right",
-                        "Maritime NZ",
-                        "Maritime NZ taps Federation as new behaviour-change agency.",
-                        "maritime",
-                        "thumb_maritime.webp"
                     );
                 ?>
             <div class="row">

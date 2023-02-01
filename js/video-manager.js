@@ -160,3 +160,6 @@ $('#video-drive-karma').on('click', function(){
 $('#video-alcohol-awareness').on('click', function(){
     VideoManager.openModal('spEMC0lUsBI');
 });
+$('#video-climate').on('click', function(){
+    VideoManager.openModal('qzz6QlnJ-k0');
+});

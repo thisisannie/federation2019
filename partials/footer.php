@@ -16,7 +16,7 @@
 <script defer src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.6/plugins/animation.gsap.min.js"></script>
 
 <script defer src="https://www.youtube.com/player_api"></script>
-<script defer src="<?=HTML_ROOT;?>/js/video-manager.js?v2"></script>
+<script defer src="<?=HTML_ROOT;?>/js/video-manager.js?v3"></script>
 <script defer src="<?=HTML_ROOT;?>/js/animation.js"></script>
 <script defer src="<?=HTML_ROOT;?>/js/main.js"></script>
 

@@ -3,6 +3,12 @@
         include('partials/news-item.php');
     }
     $news = [
+        "climate" => [
+            "slug" => "climate",
+            "title" => "Sustainability Consulting",
+            "copy" => "Over the last year we’ve been busy applying our learnings and helping organisations and marketers on their journey to net zero.  Here are some highlights.",
+            "img" => "ebus_motion-thumb.webp",
+        ],
         "massey" => [
             "slug" => "massey",
             "title" => "Massey",
