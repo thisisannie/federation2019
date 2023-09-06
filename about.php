@@ -13,12 +13,12 @@
             "title" => "Founder / Director",
             "description" => "Sharon is an agency leader and overall strategic partner to Federation’s clients. She is passionate about building the bond between a brand and its customers and is a champion for marketing integration. Prior to starting Federation in 2008, Sharon was Managing Director of DDB New Zealand. She also spent more than ten years with Clemenger BBDO, as CEO of Proximity New Zealand, and also Group MD of Proximity Australia. Sharon is busy with her two teenagers. She is also active in the community as the Vice President board member of Variety, the Children’s Charity, and an appointee to the Business Development Group by the Ministry of Business, Innovation and Employment. Sharon was also inaugural Board Chair of the NZ Marketing Association.",
         ],
-        "tony" => [
-            "name" => "Tony Clewett",
-            "img" => "staff-photos_tony.jpg",
-            "title" => "Chief Creative Officer",
-            "description" => "The creative leader behind some of NZ’s most-loved, well-known, and internationally-acclaimed brand campaigns of recent memory. Previously the Chief Creative Officer and overall Creative lead of FCB NZ; earning over 100 awards for creativity and effectiveness along the way.",
-        ],
+        // "tony" => [
+        //     "name" => "Tony Clewett",
+        //     "img" => "staff-photos_tony.jpg",
+        //     "title" => "Chief Creative Officer",
+        //     "description" => "The creative leader behind some of NZ’s most-loved, well-known, and internationally-acclaimed brand campaigns of recent memory. Previously the Chief Creative Officer and overall Creative lead of FCB NZ; earning over 100 awards for creativity and effectiveness along the way.",
+        // ],
         "elizabeth" => [
             "name" => "Elizabeth Beatty",
             "img" => "staff-photos_elizabeth.jpg",
